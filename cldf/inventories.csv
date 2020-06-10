@@ -41,12 +41,15 @@ ID,Name,Contributor_ID,Source,URL,Tones
 40,Kalam (Swat-Dir) Kohistani#39,,,,"55,51,551,11,15"
 41,Torwali#40,,,,"12,54"
 42,Wotapuri-Katarqalai#41,,,,
+43,Indus Kohistani (Kanyawali)#42,,,,
 44,Shina (Gilgit)#43,,,,
 45,Adyghe#44,,,,
 46,Mongghul (Huzhu Monguor)#45,,,,
 47,Eastern Yugur#46,,,,
 48,Dongxiang#47,,,,
 49,Mangghuer (Minhe Monguor)#48,,,,
+50,Baoan (Ñantoq)#49,,,,
+51,Caodeng rGyalrong#50,,,,
 52,gLo Tibetan#51,,,,"11,55"
 54,Yongning Na (Mosuo)#53,,,,"55,33,31,13"
 55,Tshangla#54,,,,
@@ -66,17 +69,32 @@ ID,Name,Contributor_ID,Source,URL,Tones
 77,Kham Tibetan#76,,,,"15,51"
 78,Japhug#77,,,,
 79,Hakka Chinese#78,,,,"55,33,53,31,11,13"
+80,Avar (Chadakolob)#79,,,,"55,11,15,51"
 81,Hmong Njua (Green Hmong)#80,,,,"55,53,35,31ɦ,33,22,31ʕ"
 82,Andi#81,,,,"55,11,15,51"
+83,Mah Meri#82,,,,
 84,Shixing#83,,,,"55,15,51"
 85,Akha#84,,,,"55,33,11"
 86,Chantyal#85,,,,
+87,Dolakha Newar#86,,,,
+88,Lahu (Black)#87,,,,"33,35,53,21,11,54ʔ,21ʔ"
+89,Lisu (Flowery)#88,,,,"55,35,44,33,21,21ʔ"
+90,Nar-Phu (Nar)#89,,,,"53,44,12,31"
+91,Tamang (Eastern)#90,,,,"53,44,22,11"
+92,Sui#91,,,,"31,41,33,42,35,323,44,43,34"
+93,Min Dong Chinese (Fuzhou)#92,,,,"44,51,32,21,131,13,4"
+94,Nuosu (Black Yi)#93,,,,"55,33,31"
+95,Yue Chinese (Hong Kong Cantonese)#94,,,,"55,33,22,21,25,23"
 96,Standard Chinese (Beijing)#95,,,,"55,35,214,51"
 97,Najdi Arabic#96,,,,
 98,Central Khmer#97,,,,
 99,Pnar#98,,,,
+100,Jah-Hut#99,,,,
 101,Temiar#100,,,,
+102,Achang (Lianghe)#101,,,,"55,31,35"
+103,Ahi#102,,,,"55,33,22,21"
 104,Vietnamese (Hanoi)#103,,,,"33,32,24,32ʔ,31,43ʔ5"
+105,Burmese (Rangoon)#104,,,,"11,55,51ʕ,51ʔ"
 130,Saek#129,,,,"34,11,31ʔ,454,52,32"
 134,Santali#133,,,,
 135,Mundari#134,,,,

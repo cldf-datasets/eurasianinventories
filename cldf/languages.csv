@@ -4,7 +4,9 @@ lemy1239,Lemyo,Eurasia,,,lemy1239,,sino1245,Sino-Tibetan
 chan1310,Chantyal,Eurasia,28.684,83.4488,chan1310,chx,sino1245,Sino-Tibetan
 thak1245,Thakali,Eurasia,28.7014,83.6466,thak1245,ths,sino1245,Sino-Tibetan
 mana1288,Manange,Eurasia,28.6416,84.0515,mana1288,nmm,sino1245,Sino-Tibetan
+narr1258,Nar,Eurasia,,,narr1258,,sino1245,Sino-Tibetan
 west2414,Western Gurung,Eurasia,27.4169,86.2899,west2414,,sino1245,Sino-Tibetan
+east2347,Eastern Tamang,Eurasia,27.3239,87.0832,east2347,taj,sino1245,Sino-Tibetan
 tsha1245,Tshangla,Eurasia,27.3694,91.7741,tsha1245,tsj,sino1245,Sino-Tibetan
 balt1258,Balti,Eurasia,34.4491,77.2859,balt1258,bft,sino1245,Sino-Tibetan
 lada1244,Leh Ladakhi,Eurasia,33.468,80.6013,lada1244,lbj,sino1245,Sino-Tibetan
@@ -30,15 +32,25 @@ yong1288,Yongning Na,Eurasia,,,yong1288,,sino1245,Sino-Tibetan
 ersu1241,Ersu,Eurasia,29.2867,102.213,ersu1241,ers,sino1245,Sino-Tibetan
 lizu1234,Lizu,Eurasia,28.333425,101.350309,lizu1234,,sino1245,Sino-Tibetan
 puxi1242,Puxi,Eurasia,,,puxi1242,,sino1245,Sino-Tibetan
+jiar1240,Northern Gyalrong,Eurasia,31.60295,102.22875,jiar1240,jya,sino1245,Sino-Tibetan
 japh1234,Japhug,Eurasia,32.1,102.36,japh1234,,sino1245,Sino-Tibetan
+mand1476,Mandalay-Yangon,Eurasia,,,mand1476,,sino1245,Sino-Tibetan
+acha1249,Longchuan Achang,Eurasia,24.3479,97.7438,acha1249,acn,sino1245,Sino-Tibetan
 akha1245,Akha,Eurasia,21.2309,100.964,akha1245,ahk,sino1245,Sino-Tibetan
+naaa1244,Na (Lahu),Eurasia,,,naaa1244,,sino1245,Sino-Tibetan
+hual1240,Central Lisu,Eurasia,,,hual1240,,sino1245,Sino-Tibetan
+sich1238,Sichuan Yi,Eurasia,28.1947,102.121,sich1238,iii,sino1245,Sino-Tibetan
+axiy1235,Axi Yi,Eurasia,24.6009,103.713,axiy1235,yix,sino1245,Sino-Tibetan
 khal1275,Khaling,Eurasia,27.3912,87.5053,khal1275,klr,sino1245,Sino-Tibetan
 kham1286,Kham,,,,kham1286,,sino1245,Sino-Tibetan
 bhuj1238,Bhujel Kham,Eurasia,,,bhuj1238,,sino1245,Sino-Tibetan
+east2773,Eastern Newari,Eurasia,27.576985,86.033964,east2773,,sino1245,Sino-Tibetan
 hakk1236,Hakka Chinese,Eurasia,25.0,116.0,hakk1236,hak,sino1245,Sino-Tibetan
+xian1255,Hong Kong,Eurasia,22.422645,114.098396,xian1255,,sino1245,Sino-Tibetan
 wuch1236,Wu Chinese,Eurasia,29.8621,119.682,wuch1236,wuu,sino1245,Sino-Tibetan
 beij1234,Beijing Mandarin,Eurasia,39.9385466,116.1172766,beij1234,,sino1245,Sino-Tibetan
 kunm1234,Kunming Chinese,Eurasia,25.049711,102.72274,kunm1234,,sino1245,Sino-Tibetan
+mind1253,Min Dong Chinese,Eurasia,26.0,119.5,mind1253,cdo,sino1245,Sino-Tibetan
 kaur1266,Kauri,Eurasia,,,kaur1266,,sino1245,Sino-Tibetan
 dhim1246,Dhimal,Eurasia,26.6283,88.3798,dhim1246,dhi,sino1245,Sino-Tibetan
 malt1248,Malto,,,,malt1248,,drav1251,Dravidian
@@ -63,6 +75,8 @@ dudh1239,Dudh Kharia,Eurasia,,,dudh1239,,aust1305,Austroasiatic
 cent1989,Central Khmer,Eurasia,12.0515,105.015,cent1989,khm,aust1305,Austroasiatic
 viet1252,Vietnamese,Eurasia,20.681188,105.774071,viet1252,vie,aust1305,Austroasiatic
 puoc1238,Ksingmul,Eurasia,20.8862,103.931,puoc1238,puo,aust1305,Austroasiatic
+besi1244,Besisi,Eurasia,2.717,101.676,besi1244,mhe,aust1305,Austroasiatic
+jahh1242,Jah Hut,Eurasia,3.67619,102.291,jahh1242,jah,aust1305,Austroasiatic
 temi1246,Temiar,Eurasia,4.974,101.438,temi1246,tea,aust1305,Austroasiatic
 west2397,Western Bru,Eurasia,16.4906,104.754,west2397,brv,aust1305,Austroasiatic
 sooo1254,Sô,Eurasia,16.9081,105.001,sooo1254,sss,aust1305,Austroasiatic
@@ -107,7 +121,9 @@ chuk1273,Chukchi,Eurasia,68.6436,170.045,chuk1273,ckt,chuk1271,Chukotko-Kamchatk
 alut1245,Alutor,Eurasia,60.3844,165.653,alut1245,alr,chuk1271,Chukotko-Kamchatkan
 itel1242,West Itelmen,Eurasia,56.046173,156.30704,itel1242,itl,chuk1271,Chukotko-Kamchatkan
 saek1240,Saek,Eurasia,17.4558,104.787,saek1240,skb,taik1256,Tai-Kadai
+suii1243,Sui,Eurasia,24.0488,106.563,suii1243,swi,taik1256,Tai-Kadai
 gjun1238,Gjunej,Eurasia,,,gjun1238,,nakh1245,Nakh-Daghestanian
+avar1256,Avar,Eurasia,41.7047,46.558,avar1256,ava,nakh1245,Nakh-Daghestanian
 kara1474,Karata,Eurasia,42.6501,46.3151,kara1474,kpt,nakh1245,Nakh-Daghestanian
 andi1255,Andi,Eurasia,42.8078,46.2919,andi1255,ani,nakh1245,Nakh-Daghestanian
 ghod1238,Godoberi,Eurasia,42.7428,46.2252,ghod1238,gdo,nakh1245,Nakh-Daghestanian
@@ -122,6 +138,7 @@ amur1242,Amur-West Sakhalin Nivkh,Eurasia,,,amur1242,,nivk1234,Nivkh
 daur1238,Dagur,Eurasia,48.0,124.0,daur1238,dta,mong1349,Mongolic-Khitan
 east2337,East Yugur,Eurasia,37.9882,101.762,east2337,yuy,mong1349,Mongolic-Khitan
 kang1281,Kangjia,Eurasia,35.043,101.254,kang1281,kxs,mong1349,Mongolic-Khitan
+bona1250,Bonan,Eurasia,35.6972,102.995,bona1250,peh,mong1349,Mongolic-Khitan
 dong1285,Dongxiang,Eurasia,35.5808,103.558,dong1285,sce,mong1349,Mongolic-Khitan
 huzh1238,Huzhu,Eurasia,,,huzh1238,,mong1349,Mongolic-Khitan
 minh1238,Minhe,Eurasia,,,minh1238,,mong1349,Mongolic-Khitan
@@ -222,6 +239,7 @@ tira1253,Tirahi,Eurasia,34.1792,69.5901,tira1253,tra,indo1319,Indo-European
 wota1240,Wotapuri-Katarqalai,Eurasia,34.7033,70.8565,wota1240,wsv,indo1319,Indo-European
 torw1241,Torwali,Eurasia,35.3101,72.5316,torw1241,trw,indo1319,Indo-European
 kala1374,Kalam (Pakistan),Eurasia,,,kala1374,,indo1319,Indo-European
+indu1241,Indus Kohistani,Eurasia,35.3389,73.0154,indu1241,mvy,indo1319,Indo-European
 sout2671,Southwest Pashayi,Eurasia,34.8478,69.8734,sout2671,psh,indo1319,Indo-European
 beng1280,Bengali,Eurasia,24.0,90.0,beng1280,ben,indo1319,Indo-European
 rajb1243,Rajbanshi,Eurasia,26.521945,88.038582,rajb1243,rjs,indo1319,Indo-European
