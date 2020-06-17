@@ -1,417 +1,417 @@
-code,name,glottocode,glottocode_re0
-kbd,Kabardian (Turkish),kaba1278,kaba1278
-ita,Italian,ital1282,ital1282
-gsw,Zurich German,zuri1239,zuri1239
-nor,Norwegian (Standard Østnorsk),stno1234,stno1234
-gle,Irish (Gaoth Dobhair),done1238,done1238
-dan,Danish,dani1285,dani1285
-fao,Faroese,faro1244,faro1244
-swe,Swedish (Central),swed1254,swed1254
-fry,Frisian (West),mode1264,mode1264
-gla,Scottish Gaelic (Lewis),scot1245,scot1245
-cym,Welsh (Llanwrtyd),wels1247,wels1247
-bre,Breton (Bothoa),bret1244,bret1244
-sco,Scots (Northern),nort2617,nort2617
-deu,German (Standard),stan1295,stan1295
-gle,Irish (Corca Dhuibhne),muns1250,muns1250
-nld,Dutch,dutc1256,dutc1256
-eng,English (RP),sout3285,sout3285
-fra,French,stan1290,stan1290
-eng,English (Liverpool),nort3299,nort3299
-fur,Friulian,friu1240,friu1240
-ltz,Luxembourgish,luxe1241,luxe1241
--,Lemi Chin,lemy1239,lemy1239
-bee,Byangsi,byan1241,byan1241
-lhm,Lhomi Tibetan,lhom1239,lhom1239
-cmn,Kunming Chinese (Southwest Mandarin),kunm1234,kunm1234
--,Shaoxing Chinese,wuch1236,wuch1236
-khw,Khowar,khow1242,khow1242
-phl,Palula,phal1254,phal1254
-ush,Ushojo,usho1238,usho1238
-sgy,Sanglechi,sang1344,sang1344
-sgh,Shughni,shug1248,shug1248
--,Rushani,rush1239,rush1239
--,Khufi,khuf1238,khuf1238
-srh,Sarikoli,sari1246,sari1246
-yah,Yazghulami,yazg1240,yazg1240
-psh,Southwest Pashai,sout2671,sout2671
-gwt,Gawarbati,gawa1247,gawa1247
-nli,Grangali,gran1245,gran1245
-tra,Tirahi,tira1253,tira1253
-gwc,Kalam (Swat-Dir) Kohistani,kala1374,kala1374
-trw,Torwali,torw1241,torw1241
-wsv,Wotapuri-Katarqalai,wota1240,wota1240
-mvy,Indus Kohistani (Kanyawali),indu1241,indu1241
-scl,Shina (Gilgit),gilg1243,gilg1243
-ady,Adyghe,adyg1241,adyg1241
-mjg,Mongghul (Huzhu Monguor),huzh1238,huzh1238
-yuy,Eastern Yugur,east2337,east2337
-sce,Dongxiang,dong1285,dong1285
-mjg,Mangghuer (Minhe Monguor),minh1238,minh1238
-peh,Baoan (Ñantoq),bona1250,bona1250
-jya,Caodeng rGyalrong,jiar1240,jiar1240
-loy,gLo Tibetan,lowa1242,lowa1242
-0,Khalong Tibetan,,
-nru,Yongning Na (Mosuo),yong1288,yong1288
-tsj,Tshangla,tsha1245,tsha1245
-0,Labrang Tibetan,rong1261,rong1261
-0,Zhongu Tibetan,zhon1235,zhon1235
-0,gSerpa,,
-0,Soghpo Tibetan,,
-spt,Spiti Tibetan,spit1240,spit1240
-0,Kami Tibetan,,
-heb,Hebrew,hebr1245,hebr1245
-0,Modern Aramaic (Northeastern),,
-kxs,Kangjia,kang1281,kang1281
-kgy,Kyirong Tibetan,kyir1236,kyir1236
-hut,Humla Bhotia,huml1238,huml1238
-0,Dongwang Tibetan,,
-bod,Lhasa Tibetan,utsa1239,utsa1239
-sip,Denjongka,sikk1242,sikk1242
-dzo,Dzongkha,dzon1239,dzon1239
-cde,Nyinpa Cone,chen1255,chen1255
-raw,Rawang (Mutwang),mutw1238,mutw1238
-0,Rgyalthang Tibetan,,
-bqh,Baima,baim1244,baim1244
-0,Northern Cuona,,
-0,Southern Cuona,,
-0,Kham Tibetan,kham1286,kham1286
-0,Japhug,japh1234,japh1234
-hak,Hakka Chinese,hakk1236,hakk1236
-ava,Avar (Chadakolob),avar1256,avar1256
-hnj,Hmong Njua (Green Hmong),hmon1264,hmon1264
-ani,Andi,andi1255,andi1255
-mhe,Mah Meri,besi1244,besi1244
-sxg,Shixing,shix1238,shix1238
-ahk,Akha,akha1245,akha1245
-chx,Chantyal,chan1310,chan1310
-0,Dolakha Newar,east2773,east2773
-lhu,Lahu (Black),naaa1244,naaa1244
-lis,Lisu (Flowery),hual1240,hual1240
-npa,Nar-Phu (Nar),narr1258,narr1258
-taj,Tamang (Eastern),east2347,east2347
-swi,Sui,suii1243,suii1243
-cdo,Min Dong Chinese (Fuzhou),mind1253,mind1253
-iii,Nuosu (Black Yi),sich1238,sich1238
-yue,Yue Chinese (Hong Kong Cantonese),xian1255,xian1255
-cmn,Standard Chinese (Beijing),beij1234,beij1234
-ars,Najdi Arabic,najd1235,najd1235
-khm,Central Khmer,cent1989,cent1989
-pbv,Pnar,pnar1238,pnar1238
-jah,Jah-Hut,jahh1242,jahh1242
-tea,Temiar,temi1246,temi1246
-acn,Achang (Lianghe),acha1249,acha1249
-yix,Ahi,axiy1235,axiy1235
-vie,Vietnamese (Hanoi),viet1252,viet1252
-mya,Burmese (Rangoon),mand1476,mand1476
-sou,Soutern Tai (Nakhon Si Thammarat),,
-sou,Soutern Tai (Surat),,
-sou,Soutern Tai (Ko Samui),,
-tts,Northeastern Thai (Ubon),,
-tts,Northeastern Thai (Roi Et),,
-tts,Northeastern Thai (Nakhon Phanom),,
-nyw,Nyaw (Uthen),,
-nyw,Nyaw (Sakhon Nakhon),,
-pht,Phu Tai (Phanna Nikhom),,
-pht,Phu Tai (Waritchaphum),,
-tts,Northeastern Thai (Nong Khai),,
-tts,Northeastern Thai (Loei),,
-nod,Northern Thai (Chieng Mai),,
-lao,Lao (Vientiane),,
-lao,Lao (Chieng Khouang),,
-lao,Lao (Luang Prabang),,
-tyr,Tay Daeng,,
-tyj,Tay Yo,,
-tdd,Tai Nuea,,
-shn,Shan (Hsi Paw),,
-shn,Shan (Kunlong),,
-shn,Shan (Zhe Fang),,
-shn,Shan (Luxi),,
-khb,Lue (Chieng Hung),,
-skb,Saek,saek1240,saek1240
-pcj,Gorum,,
-gaq,Gtaʔ,,
-gbj,Gutob (Koraput),,
-sat,Santali,sant1410,sant1410
-unr,Mundari,mund1320,mund1320
-hoc,Ho (Mayurbhanj),,
-kfq,Korku,kork1243,kork1243
-srb,Sora (Gumma Hills),,
-jun,Juang,juan1238,juan1238
-bfw,Remo (Hills variety),,
-mal,Malayalam,mala1464,mala1464
-asm,Assamese (Standard),stan1302,stan1302
-ory,Oriya,,
-mai,Maithili (Madhubani),,
-mag,Magahi,maga1260,maga1260
-bho,Bhojpuri,bhoj1244,bhoj1244
-npi,Nepali,nepa1254,nepa1254
-pan,Panjabi (Eastern),panj1256,panj1256
-tam,Tamil,tami1289,tami1289
-kan,Kannada (Standard),nucl1305,nucl1305
-tcy,Tulu,tulu1258,tulu1258
-knd,Konda,,
-mut,Muria Gondi,,
-kfb,Kolami (Wardha),,
-gdb,Gadaba,,
-mjt,Malto,malt1248,malt1248
-cng,Northern Qiang (Yadu),,
-pmj,Southern Pumi (Xinyingpan),,
-bft,Balti (Kharkoo),balt1258,balt1258
-khg,Brag-g.yab Tibetan,,
--,Dingri Tibetan,,
--,Drokpa Tibetan (Zhongba),,
-xsr,Solu Sherpa (Hile),,
-lbj,Ladakhi (Leh),lada1244,lada1244
-prx,Purki,,
-xsr,Solu Sherpa (Lukla),,
-ddo,Tsez (Asax),asak1234,asak1234
-cng,Northern Qiang (Hongyan),,
--,Nangchenpa Tibetan,,
--,Shigatse Tibetan,shig1238,shig1238
--,South Mustang Tibetan (Jharkhot),,
--,Themchen Tibetan,them1242,them1242
--,Tod Tibetan,,
-ola,Walungge,walu1241,walu1241
-scp,Yolmo,,
-nmm,Manange,mana1288,mana1288
-gvr,Gurung (Western),west2414,west2414
-ths,Thakali,thak1245,thak1245
--,Tamang (Dhankuta),,
-ers,Ersu,ersu1241,ersu1241
--,Lizu,lizu1234,lizu1234
--,Puxi,puxi1242,puxi1242
--,Kurtoep,,
-byh,Bhujel,bhuj1238,bhuj1238
-dhi,Dhimal,dhim1246,dhim1246
-drd,Darma,darm1243,darm1243
-vay,Hayu,,
--,Sangdam Tibetan,,
--,Myeik Burmese,,
-rus,Russian (Standard),russ1263,russ1263
-spa,Spanish (Murcian),murc1238,murc1238
-eve,Even (Ola),,
-prs,Dari,dari1249,dari1249
-klr,Khaling,khal1275,khal1275
-gin,Hinuq,hinu1240,hinu1240
-mrh,Mara (Lakher),,
--,dGudzong Tibetan,,
-ben,Bengali (Bangladeshi Standard),beng1280,beng1280
--,Melung Tibetan,,
-tel,Telugu (Vizianagaram),,
-kkt,Koyi Rai,,
-jee,Jero,,
-pmx,Poula,,
-dao,Daai Chin,daai1236,daai1236
-cdo,Eastern Min Chinese (Fuzhou),,
--,Nantong Chinese,,
-hye,Eastern Armenian (Standard),nucl1235,nucl1235
-bqi,Bakhtiari,bakh1245,bakh1245
-luz,Southern Luri,sout2647,sout2647
-zum,Kumzari,kumz1235,kumz1235
-ktl,Koroshi,koro1296,koro1296
-glk,Gilaki,gila1241,gila1241
-cld,Alqosh Neo-Aramaic,,
--,Amədya Neo-Aramaic,,
--,Arbel Neo-Aramaic,,
--,Betanure Neo-Aramaic,,
--,Barwar Neo-Aramaic,,
-bsh,Kati,,
-xka,Kalkoti,kalk1245,kalk1245
-psi,Darra-i-Nur Pashai (Southeast Pashai),,
-sts,Shumashti,shum1235,shum1235
-dml,Dameli,dame1241,dame1241
-kls,Kalasha (Northern),nort2663,nort2663
-slr,Salar,sala1264,sala1264
-rmy,Vlax Romani (Mitrovica),,
-bul,Bulgarian (Standard),bulg1262,bulg1262
-ces,Czech (Bohemian),cent1953,cent1953
--,Mehweb,,
-rmt,Domari (Aleppo),,
-mmr,Xong,,
-tji,Tujia (Northern),,
-mjw,Karbi (Hills),,
-dka,Dakpa,dakp1243,dakp1243
-cda,Thebo Tibetan (G-yi.ba),,
-kac,Jingpho (Gauri),kaur1266,kaur1266
-nio,Nganasan (Avam),avam1236,avam1236
-tur,Turkish (Standard),,
-hin,Hindi,hind1269,hind1269
-kat,Georgian,nucl1302,nucl1302
-ekk,Estonian,esto1258,esto1258
-afb,Standard Arabic (Kuwait),,
-cat,Catalan (Eastern,Barcelona),Barcelona)
-oss,Iron Ossetic,iron1242,iron1242
-hrv,Croatian,,
-hun,Hungarian (Standard),hung1274,hung1274
-kor,Korean (Seoul),seou1239,seou1239
-pes,Persian (Tehran),tehr1242,tehr1242
-snd,Sindhi (Vicholi),vicc1238,vicc1238
-slv,Slovene (Standard),slov1268,slov1268
-lzz,Laz (Arhavi),,
-oss,Digor Ossetic,,
-glg,Galician,gali1258,gali1258
-por,Portuguese (Lisbon),,
-tha,Thai (Standard),,
-frp,Francoprovençal (St. Martin-en-Haut),,
-oci,Gascon (Béarnais),bear1240,bear1240
-arg,Aragonese (Chistabino),,
-jpn,Japanese,nucl1643,nucl1643
-spa,Spanish (Castilian),cast1244,cast1244
-eus,Basque (Arbizu),,
-eus,Basque (Gernika),,
-eus,Basque (Ondarroa),,
-eus,Basque (Baztan),,
-0,Zuberoan Basque,,
-eus,Basque (Goizueta),,
-frr,Frisian (North),,
-sxu,Upper Saxon (Chemnitz),,
-mnj,Munji,munj1244,munj1244
-azj,North Azerbaijani (Shirvan),,
-gdq,Mehri (Oman),,
-sah,Sakha (Standard),yaku1245,yaku1245
-dlg,Dolgan,dolg1241,dolg1241
-azb,South Azerbaijani (Tabriz),tabr1242,tabr1242
-dar,Dargwa (Icari),,
-nsm,Sumi (Sema),,
-klj,Khalaj,turk1303,turk1303
-chv,Chuvash,chuv1255,chuv1255
-xal,Kalmyk (Standard),kalm1244,kalm1244
-tuk,Turkmen (Teke),teke1272,teke1272
-vot,Votic (Jõgõperä),,
-bak,Bashkir,bash1264,bash1264
-sss,So,sooo1254,sooo1254
-brv,Bru (Western),west2397,west2397
-tat,Tatar (Standard),tata1255,tata1255
-kdr,Karaim (Northwestern),nort2691,nort2691
-uig,Uyghur (Xinjiang),,
-kir,Kyrgyz (Standard),kirg1245,kirg1245
-kim,Tofa,tofa1248,tofa1248
-gag,Gagauz (Standard),gaga1249,gaga1249
-atv,Northern Altai (Kumandy),kuma1284,kuma1284
-tyv,Tuvan (Standard),tuvi1240,tuvi1240
-kjh,Khakas (Standard),khak1248,khak1248
-kum,Kumyk,kumy1244,kumy1244
-kaz,Kazakh,kaza1248,kaza1248
-kaa,Karakalpak,kara1467,kara1467
-nog,Nogai,noga1249,noga1249
-uzb,Uzbek,uzbe1247,uzbe1247
-cjs,Shor,shor1247,shor1247
-krc,Balkar,balk1253,balk1253
-clw,Chulym,chul1246,chul1246
-vro,Võro,voro1241,voro1241
--,Elfdalian,elfd1234,elfd1234
-rue,Rusyn (Lemko),lemk1239,lemk1239
-ydd,Eastern Yiddish (Central),east2295,east2295
-shv,Jibbali (Central),cent2214,cent2214
-xub,Betta Kurumba,bett1235,bett1235
-kxv,Kuvi,kuvi1243,kuvi1243
-oci,Occitan (Gascon),gasc1240,gasc1240
-nrf,Jèrriais (Eastern Jersey),jerr1238,jerr1238
-tks,Khalkhal,khal1271,khal1271
-jdt,Juhuri,,
-svm,Slavomolisano (Acquaviva Collecroce),slav1254,slav1254
-sms,Skolt Saami (Suõʹnnʼjel),skol1241,skol1241
-ude,Udihe (Bikin),biki1239,biki1239
-alr,Alutor,alut1245,alut1245
-tay,Atayal,atay1247,atay1247
-brh,Brahui (Sarāwān),sara1314,sara1314
-ckt,Chukchi,chuk1273,chuk1273
-0,Darkhat,dark1243,dark1243
-dta,Daur,daur1238,daur1238
-ket,Ket (Kellog),,
-urd,Urdu,urdu1245,urdu1245
-guj,Gujarati (Standard),stan1296,stan1296
-ckb,Sorani Kurdish,sora1257,sora1257
-pbu,Yousafzai Pashto (Peshāwar),yusu1238,yusu1238
-wne,Waneci,wane1241,wane1241
-pst,Wazirwola (North Wazīrī),,
-0,Northwestern Pashto,nort2647,nort2647
-pbt,Southwestern Pashto (Kandahar),kand1291,kand1291
-bgn,Western Balochi (Sarāwānī),sara1309,sara1309
-bcc,Southern Balochi,sout2642,sout2642
-bgp,Eastern Hill Balochi,east2304,east2304
-lbe,Lak (Kumux),kumu1246,kumu1246
-bsk,Burushaski (Hunza),hunz1248,hunz1248
-udm,Udmurt (Standard),udmu1245,udmu1245
-0,Beserman (Šamardan),,
-0,Yodzyak Komi,,
-koi,Komi-Permyak,komi1269,komi1269
-kpv,Komi-Zyrian (Syktyvkar),komi1268,komi1268
-abk,Abkhaz (Bzyb),bzyb1238,bzyb1238
-0,Forest Nenets,fore1274,fore1274
-yux,Kolyma Yukaghir,sout2750,sout2750
-ykg,Tundra Yukaghir,nort2745,nort2745
-sel,Taz Selkup,tazz1244,tazz1244
-yrk,Tundra Nenets (Central-Eastern),nene1249,nene1249
-lij,Ligurian (Miogliola),ligu1248,ligu1248
-inh,Ingush,ingu1240,ingu1240
-mon,Mongolian (Khalkha),,
-vav,Varli (Dogri),,
-ell,Greek (Standard),mode1248,mode1248
-pol,Polish (Standard),poli1260,poli1260
-slk,Slovak (Standard),slov1269,slov1269
-tgk,Tajik (Bukhara),,
-srp,Serbian (Standard Ekavian),serb1264,serb1264
-mkd,Macedonian (Standard),mace1250,mace1250
-niv,Nivkh (West Sakhalin),amur1242,amur1242
-0,Solon,,
-rmt,Domari (Palestinian),,
-vep,Veps (Šimozero),,
-krl,Karelian (North),nort2673,nort2673
-liv,Livonian (Vidzeme),,
-kca,Northern Khanty (Kazym),nort2672,nort2672
-0,Eastern Khanty (Vakh),vach1239,vach1239
-enf,Forest Enets,fore1265,fore1265
-sjt,Ter Saami,ters1235,ters1235
-xas,Kamassian,kama1378,kama1378
-mhr,Meadow Mari (Morki-Sernur),gras1239,gras1239
-0,Eastern Mari,,
-mrj,Hill Mari (Kozmodemjansk),,
-myv,Erzya (Standard),erzy1239,erzy1239
-mdf,Moksha (Standard),moks1248,moks1248
-ynk,Naukan Yupik,nauk1242,nauk1242
-div,Dhivehi (Malé),dhiv1236,dhiv1236
-gdo,Godoberi,ghod1238,ghod1238
-itl,Itelmen,itel1242,itel1242
-kpt,Karata,kara1474,kara1474
-khr,Kharia (Dudh),dudh1239,dudh1239
-bxr,Buriat (Standard),russ1264,russ1264
-sva,Svan (Upper Bal),uppe1407,uppe1407
-fin,Finnish (Standard),finn1318,finn1318
-lvs,Latvian (Standard),stan1325,stan1325
-ltg,Latgalian (Standard),east2282,east2282
-lit,Lithuanian (West Aukštaitian),lith1251,lith1251
-ekk,Estonian (Standard),esto1258,esto1258
-ron,Romanian (Standard),roma1327,roma1327
-aae,Arbëresh Albanian (Hora e Arbëreshëvet),arbe1236,arbe1236
-ast,Asturian (Western),west2339,west2339
-als,Tosk Albanian (Korçë),,
-aln,Gheg Albanian (North-Eastern),nort3296,nort3296
-lez,Lezgian (Güne),gjun1238,gjun1238
-che,Chechen (Ploskost),plos1238,plos1238
-sje,Pite Saami,pite1240,pite1240
-sjd,Kildin Saami,kild1236,kild1236
-wym,Wymysorys,wymy1235,wymy1235
-dsb,Lower Sorbian,lowe1385,lowe1385
-mvi,Miyako (Ogami),ogam1239,ogam1239
-xug,Kunigami (Nakijin),kuni1268,kuni1268
-mlt,Maltese (Standard),stan1322,stan1322
-sro,Campidanese Sardinian (Sestu),,
-isk,Ishkashimi,ishk1246,ishk1246
-hsb,Upper Sorbian,uppe1395,uppe1395
-wbl,Wakhi,wakh1245,wakh1245
-bbl,Bats,bats1242,bats1242
-kmr,Kurmanji Kurdish,nort2641,nort2641
-puo,Ksingmul,puoc1238,puoc1238
-pwn,Paiwan (Kulalao),paiw1248,paiw1248
-roh,Vallader Romansh,,
-lad,Judaeo-Spanish (Beiruti),,
-rjs,Rājbanshi,rajb1243,rajb1243
-ukr,Ukrainian,ukra1253,ukra1253
-yai,Yaghnobi,yagn1238,yagn1238
-xmf,Mingrelian (Zugdidi-Samurzaqano),ming1252,ming1252
-mns,Northern Mansi (Sośva),nort2677,nort2677
-mwl,Mirandese,mira1251,mira1251
-isl,Icelandic,icel1247,icel1247
-kbd,Kabardian,kaba1278,kaba1278
+code,name,glottocode
+kbd,Kabardian (Turkish),kaba1278
+ita,Italian,ital1282
+gsw,Zurich German,zuri1239
+nor,Norwegian (Standard Østnorsk),stno1234
+gle,Irish (Gaoth Dobhair),done1238
+dan,Danish,dani1285
+fao,Faroese,faro1244
+swe,Swedish (Central),swed1254
+fry,Frisian (West),mode1264
+gla,Scottish Gaelic (Lewis),scot1245
+cym,Welsh (Llanwrtyd),wels1247
+bre,Breton (Bothoa),bret1244
+sco,Scots (Northern),nort2617
+deu,German (Standard),stan1295
+gle,Irish (Corca Dhuibhne),muns1250
+nld,Dutch,dutc1256
+eng,English (RP),sout3285
+fra,French,stan1290
+eng,English (Liverpool),nort3299
+fur,Friulian,friu1240
+ltz,Luxembourgish,luxe1241
+-,Lemi Chin,lemy1239
+bee,Byangsi,byan1241
+lhm,Lhomi Tibetan,lhom1239
+cmn,Kunming Chinese (Southwest Mandarin),kunm1234
+-,Shaoxing Chinese,wuch1236
+khw,Khowar,khow1242
+phl,Palula,phal1254
+ush,Ushojo,usho1238
+sgy,Sanglechi,sang1344
+sgh,Shughni,shug1248
+-,Rushani,rush1239
+-,Khufi,khuf1238
+srh,Sarikoli,sari1246
+yah,Yazghulami,yazg1240
+psh,Southwest Pashai,sout2671
+gwt,Gawarbati,gawa1247
+nli,Grangali,gran1245
+tra,Tirahi,tira1253
+gwc,Kalam (Swat-Dir) Kohistani,kala1374
+trw,Torwali,torw1241
+wsv,Wotapuri-Katarqalai,wota1240
+mvy,Indus Kohistani (Kanyawali),indu1241
+scl,Shina (Gilgit),gilg1243
+ady,Adyghe,adyg1241
+mjg,Mongghul (Huzhu Monguor),huzh1238
+yuy,Eastern Yugur,east2337
+sce,Dongxiang,dong1285
+mjg,Mangghuer (Minhe Monguor),minh1238
+peh,Baoan (Ñantoq),bona1250
+jya,Caodeng rGyalrong,jiar1240
+loy,gLo Tibetan,lowa1242
+0,Khalong Tibetan,
+nru,Yongning Na (Mosuo),yong1288
+tsj,Tshangla,tsha1245
+0,Labrang Tibetan,rong1261
+0,Zhongu Tibetan,zhon1235
+0,gSerpa,
+0,Soghpo Tibetan,
+spt,Spiti Tibetan,spit1240
+0,Kami Tibetan,
+heb,Hebrew,hebr1245
+0,Modern Aramaic (Northeastern),
+kxs,Kangjia,kang1281
+kgy,Kyirong Tibetan,kyir1236
+hut,Humla Bhotia,huml1238
+0,Dongwang Tibetan,
+bod,Lhasa Tibetan,utsa1239
+sip,Denjongka,sikk1242
+dzo,Dzongkha,dzon1239
+cde,Nyinpa Cone,chen1255
+raw,Rawang (Mutwang),mutw1238
+0,Rgyalthang Tibetan,
+bqh,Baima,baim1244
+0,Northern Cuona,
+0,Southern Cuona,
+0,Kham Tibetan,kham1286
+0,Japhug,japh1234
+hak,Hakka Chinese,hakk1236
+ava,Avar (Chadakolob),avar1256
+hnj,Hmong Njua (Green Hmong),hmon1264
+ani,Andi,andi1255
+mhe,Mah Meri,besi1244
+sxg,Shixing,shix1238
+ahk,Akha,akha1245
+chx,Chantyal,chan1310
+0,Dolakha Newar,east2773
+lhu,Lahu (Black),naaa1244
+lis,Lisu (Flowery),hual1240
+npa,Nar-Phu (Nar),narr1258
+taj,Tamang (Eastern),east2347
+swi,Sui,suii1243
+cdo,Min Dong Chinese (Fuzhou),mind1253
+iii,Nuosu (Black Yi),sich1238
+yue,Yue Chinese (Hong Kong Cantonese),xian1255
+cmn,Standard Chinese (Beijing),beij1234
+ars,Najdi Arabic,najd1235
+khm,Central Khmer,cent1989
+pbv,Pnar,pnar1238
+jah,Jah-Hut,jahh1242
+tea,Temiar,temi1246
+acn,Achang (Lianghe),acha1249
+yix,Ahi,axiy1235
+vie,Vietnamese (Hanoi),viet1252
+mya,Burmese (Rangoon),mand1476
+sou,Soutern Tai (Nakhon Si Thammarat),
+sou,Soutern Tai (Surat),
+sou,Soutern Tai (Ko Samui),
+tts,Northeastern Thai (Ubon),
+tts,Northeastern Thai (Roi Et),
+tts,Northeastern Thai (Nakhon Phanom),
+nyw,Nyaw (Uthen),
+nyw,Nyaw (Sakhon Nakhon),
+pht,Phu Tai (Phanna Nikhom),
+pht,Phu Tai (Waritchaphum),
+tts,Northeastern Thai (Nong Khai),
+tts,Northeastern Thai (Loei),
+nod,Northern Thai (Chieng Mai),
+lao,Lao (Vientiane),
+lao,Lao (Chieng Khouang),
+lao,Lao (Luang Prabang),
+tyr,Tay Daeng,
+tyj,Tay Yo,
+tdd,Tai Nuea,
+shn,Shan (Hsi Paw),
+shn,Shan (Kunlong),
+shn,Shan (Zhe Fang),
+shn,Shan (Luxi),
+khb,Lue (Chieng Hung),
+skb,Saek,saek1240
+pcj,Gorum,
+gaq,Gtaʔ,
+gbj,Gutob (Koraput),
+sat,Santali,sant1410
+unr,Mundari,mund1320
+hoc,Ho (Mayurbhanj),
+kfq,Korku,kork1243
+srb,Sora (Gumma Hills),
+jun,Juang,juan1238
+bfw,Remo (Hills variety),
+mal,Malayalam,mala1464
+asm,Assamese (Standard),stan1302
+ory,Oriya,
+mai,Maithili (Madhubani),
+mag,Magahi,maga1260
+bho,Bhojpuri,bhoj1244
+npi,Nepali,nepa1254
+pan,Panjabi (Eastern),panj1256
+tam,Tamil,tami1289
+kan,Kannada (Standard),nucl1305
+tcy,Tulu,tulu1258
+knd,Konda,
+mut,Muria Gondi,
+kfb,Kolami (Wardha),
+gdb,Gadaba,
+mjt,Malto,malt1248
+cng,Northern Qiang (Yadu),
+pmj,Southern Pumi (Xinyingpan),
+bft,Balti (Kharkoo),balt1258
+khg,Brag-g.yab Tibetan,
+-,Dingri Tibetan,
+-,Drokpa Tibetan (Zhongba),
+xsr,Solu Sherpa (Hile),
+lbj,Ladakhi (Leh),lada1244
+prx,Purki,
+xsr,Solu Sherpa (Lukla),
+ddo,Tsez (Asax),asak1234
+cng,Northern Qiang (Hongyan),
+-,Nangchenpa Tibetan,
+-,Shigatse Tibetan,shig1238
+-,South Mustang Tibetan (Jharkhot),
+-,Themchen Tibetan,them1242
+-,Tod Tibetan,
+ola,Walungge,walu1241
+scp,Yolmo,
+nmm,Manange,mana1288
+gvr,Gurung (Western),west2414
+ths,Thakali,thak1245
+-,Tamang (Dhankuta),
+ers,Ersu,ersu1241
+-,Lizu,lizu1234
+-,Puxi,puxi1242
+-,Kurtoep,
+byh,Bhujel,bhuj1238
+dhi,Dhimal,dhim1246
+drd,Darma,darm1243
+vay,Hayu,
+-,Sangdam Tibetan,
+-,Myeik Burmese,
+rus,Russian (Standard),russ1263
+spa,Spanish (Murcian),murc1238
+eve,Even (Ola),
+prs,Dari,dari1249
+klr,Khaling,khal1275
+gin,Hinuq,hinu1240
+mrh,Mara (Lakher),
+-,dGudzong Tibetan,
+ben,Bengali (Bangladeshi Standard),beng1280
+-,Melung Tibetan,
+tel,Telugu (Vizianagaram),
+kkt,Koyi Rai,
+jee,Jero,
+pmx,Poula,
+dao,Daai Chin,daai1236
+cdo,Eastern Min Chinese (Fuzhou),
+-,Nantong Chinese,
+hye,Eastern Armenian (Standard),nucl1235
+bqi,Bakhtiari,bakh1245
+luz,Southern Luri,sout2647
+zum,Kumzari,kumz1235
+ktl,Koroshi,koro1296
+glk,Gilaki,gila1241
+cld,Alqosh Neo-Aramaic,
+-,Amədya Neo-Aramaic,
+-,Arbel Neo-Aramaic,
+-,Betanure Neo-Aramaic,
+-,Barwar Neo-Aramaic,
+bsh,Kati,
+xka,Kalkoti,kalk1245
+psi,Darra-i-Nur Pashai (Southeast Pashai),
+sts,Shumashti,shum1235
+dml,Dameli,dame1241
+kls,Kalasha (Northern),nort2663
+slr,Salar,sala1264
+rmy,Vlax Romani (Mitrovica),
+bul,Bulgarian (Standard),bulg1262
+ces,Czech (Bohemian),cent1953
+-,Mehweb,
+rmt,Domari (Aleppo),
+mmr,Xong,
+tji,Tujia (Northern),
+mjw,Karbi (Hills),
+dka,Dakpa,dakp1243
+cda,Thebo Tibetan (G-yi.ba),
+kac,Jingpho (Gauri),kaur1266
+nio,Nganasan (Avam),avam1236
+tur,Turkish (Standard),
+hin,Hindi,hind1269
+kat,Georgian,nucl1302
+ekk,Estonian,esto1258
+afb,Standard Arabic (Kuwait),
+cat,Catalan (Eastern Barcelona),
+oss,Iron Ossetic,iron1242
+hrv,Croatian,
+hun,Hungarian (Standard),hung1274
+kor,Korean (Seoul),seou1239
+pes,Persian (Tehran),tehr1242
+snd,Sindhi (Vicholi),vicc1238
+slv,Slovene (Standard),slov1268
+lzz,Laz (Arhavi),
+oss,Digor Ossetic,
+glg,Galician,gali1258
+por,Portuguese (Lisbon),
+tha,Thai (Standard),
+frp,Francoprovençal (St. Martin-en-Haut),
+oci,Gascon (Béarnais),bear1240
+arg,Aragonese (Chistabino),
+jpn,Japanese,nucl1643
+spa,Spanish (Castilian),cast1244
+eus,Basque (Arbizu),
+eus,Basque (Gernika),
+eus,Basque (Ondarroa),
+eus,Basque (Baztan),
+0,Zuberoan Basque,
+eus,Basque (Goizueta),
+frr,Frisian (North),
+sxu,Upper Saxon (Chemnitz),
+mnj,Munji,munj1244
+azj,North Azerbaijani (Shirvan),
+gdq,Mehri (Oman),
+sah,Sakha (Standard),yaku1245
+dlg,Dolgan,dolg1241
+azb,South Azerbaijani (Tabriz),tabr1242
+dar,Dargwa (Icari),
+nsm,Sumi (Sema),
+klj,Khalaj,turk1303
+chv,Chuvash,chuv1255
+xal,Kalmyk (Standard),kalm1244
+tuk,Turkmen (Teke),teke1272
+vot,Votic (Jõgõperä),
+bak,Bashkir,bash1264
+sss,So,sooo1254
+brv,Bru (Western),west2397
+tat,Tatar (Standard),tata1255
+kdr,Karaim (Northwestern),nort2691
+uig,Uyghur (Xinjiang),
+kir,Kyrgyz (Standard),kirg1245
+kim,Tofa,tofa1248
+gag,Gagauz (Standard),gaga1249
+atv,Northern Altai (Kumandy),kuma1284
+tyv,Tuvan (Standard),tuvi1240
+kjh,Khakas (Standard),khak1248
+kum,Kumyk,kumy1244
+kaz,Kazakh,kaza1248
+kaa,Karakalpak,kara1467
+nog,Nogai,noga1249
+uzb,Uzbek,uzbe1247
+cjs,Shor,shor1247
+krc,Balkar,balk1253
+clw,Chulym,chul1246
+vro,Võro,voro1241
+-,Elfdalian,elfd1234
+rue,Rusyn (Lemko),lemk1239
+ydd,Eastern Yiddish (Central),east2295
+shv,Jibbali (Central),cent2214
+xub,Betta Kurumba,bett1235
+kxv,Kuvi,kuvi1243
+oci,Occitan (Gascon),gasc1240
+nrf,Jèrriais (Eastern Jersey),jerr1238
+tks,Khalkhal,khal1271
+jdt,Juhuri,
+svm,Slavomolisano (Acquaviva Collecroce),slav1254
+sms,Skolt Saami (Suõʹnnʼjel),skol1241
+ude,Udihe (Bikin),biki1239
+alr,Alutor,alut1245
+tay,Atayal,atay1247
+brh,Brahui (Sarāwān),sara1314
+ckt,Chukchi,chuk1273
+0,Darkhat,dark1243
+dta,Daur,daur1238
+ket,Ket (Kellog),
+urd,Urdu,urdu1245
+guj,Gujarati (Standard),stan1296
+ckb,Sorani Kurdish,sora1257
+pbu,Yousafzai Pashto (Peshāwar),yusu1238
+wne,Waneci,wane1241
+pst,Wazirwola (North Wazīrī),
+0,Northwestern Pashto,nort2647
+pbt,Southwestern Pashto (Kandahar),kand1291
+bgn,Western Balochi (Sarāwānī),sara1309
+bcc,Southern Balochi,sout2642
+bgp,Eastern Hill Balochi,east2304
+lbe,Lak (Kumux),kumu1246
+bsk,Burushaski (Hunza),hunz1248
+udm,Udmurt (Standard),udmu1245
+0,Beserman (Šamardan),
+0,Yodzyak Komi,
+koi,Komi-Permyak,komi1269
+kpv,Komi-Zyrian (Syktyvkar),komi1268
+abk,Abkhaz (Bzyb),bzyb1238
+0,Forest Nenets,fore1274
+yux,Kolyma Yukaghir,sout2750
+ykg,Tundra Yukaghir,nort2745
+sel,Taz Selkup,tazz1244
+yrk,Tundra Nenets (Central-Eastern),nene1249
+lij,Ligurian (Miogliola),ligu1248
+inh,Ingush,ingu1240
+mon,Mongolian (Khalkha),
+vav,Varli (Dogri),
+ell,Greek (Standard),mode1248
+pol,Polish (Standard),poli1260
+slk,Slovak (Standard),slov1269
+tgk,Tajik (Bukhara),
+srp,Serbian (Standard Ekavian),serb1264
+mkd,Macedonian (Standard),mace1250
+niv,Nivkh (West Sakhalin),amur1242
+0,Solon,
+rmt,Domari (Palestinian),
+vep,Veps (Šimozero),
+krl,Karelian (North),nort2673
+liv,Livonian (Vidzeme),
+kca,Northern Khanty (Kazym),nort2672
+0,Eastern Khanty (Vakh),vach1239
+enf,Forest Enets,fore1265
+sjt,Ter Saami,ters1235
+xas,Kamassian,kama1378
+mhr,Meadow Mari (Morki-Sernur),gras1239
+0,Eastern Mari,
+mrj,Hill Mari (Kozmodemjansk),
+myv,Erzya (Standard),erzy1239
+mdf,Moksha (Standard),moks1248
+ynk,Naukan Yupik,nauk1242
+div,Dhivehi (Malé),dhiv1236
+gdo,Godoberi,ghod1238
+itl,Itelmen,itel1242
+kpt,Karata,kara1474
+khr,Kharia (Dudh),dudh1239
+bxr,Buriat (Standard),russ1264
+sva,Svan (Upper Bal),uppe1407
+fin,Finnish (Standard),finn1318
+lvs,Latvian (Standard),stan1325
+ltg,Latgalian (Standard),east2282
+lit,Lithuanian (West Aukštaitian),lith1251
+ekk,Estonian (Standard),esto1258
+ron,Romanian (Standard),roma1327
+aae,Arbëresh Albanian (Hora e Arbëreshëvet),arbe1236
+ast,Asturian (Western),west2339
+als,Tosk Albanian (Korçë),
+aln,Gheg Albanian (North-Eastern),nort3296
+lez,Lezgian (Güne),gjun1238
+che,Chechen (Ploskost),plos1238
+sje,Pite Saami,pite1240
+sjd,Kildin Saami,kild1236
+wym,Wymysorys,wymy1235
+dsb,Lower Sorbian,lowe1385
+mvi,Miyako (Ogami),ogam1239
+xug,Kunigami (Nakijin),kuni1268
+mlt,Maltese (Standard),stan1322
+sro,Campidanese Sardinian (Sestu),
+isk,Ishkashimi,ishk1246
+hsb,Upper Sorbian,uppe1395
+wbl,Wakhi,wakh1245
+bbl,Bats,bats1242
+kmr,Kurmanji Kurdish,nort2641
+puo,Ksingmul,puoc1238
+pwn,Paiwan (Kulalao),paiw1248
+roh,Vallader Romansh,
+lad,Judaeo-Spanish (Beiruti),
+rjs,Rājbanshi,rajb1243
+ukr,Ukrainian,ukra1253
+yai,Yaghnobi,yagn1238
+xmf,Mingrelian (Zugdidi-Samurzaqano),ming1252
+mns,Northern Mansi (Sośva),nort2677
+mwl,Mirandese,mira1251
+isl,Icelandic,icel1247
+kbd,Kabardian,kaba1278
