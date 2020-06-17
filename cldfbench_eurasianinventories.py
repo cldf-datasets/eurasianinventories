@@ -16,7 +16,7 @@ def compute_id(text):
 
     unicode_repr = ["U{0:0{1}X}".format(ord(char), 4) for char in text]
 
-    return "%s_%s" % ("_".join(unicode_repr), unidecode(text))
+    return slug("%s_%s" % ("_".join(unicode_repr), unidecode(text)))
 
 
 class Dataset(BaseDataset):
