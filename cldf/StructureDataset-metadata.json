@@ -6,17 +6,39 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
+    "dc:identifier": "http://eurasianphonology.info/",
+    "dc:license": "http://www.opensource.org/licenses/MIT",
+    "dc:title": "CLDF dataset from Nikolaev's \"The database of Eurasian phonological inventories\" of 2020",
+    "dcat:accessURL": "https://github.com/cldf-datasets/eurasianinventories",
+    "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/cldf-datasets/eurasianinventories",
+            "dc:created": "ec6a28c"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
+            "dc:created": "v4.2.1-1-g1e0e889"
+        }
+    ],
+    "prov:wasGeneratedBy": [
+        {
+            "dc:title": "python",
+            "dc:description": "3.7.7"
+        },
+        {
+            "dc:title": "python-packages",
+            "dc:relation": "requirements.txt"
+        }
+    ],
+    "rdf:ID": "eurasianinventories",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null
     },
-    "notes": [
-        {
-            "dc:title": "environment",
-            "properties": {
-                "glottolog_version": "v4.2.1-1-g1e0e889"
-            }
-        }
-    ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
@@ -141,326 +163,6 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "required": false,
                         "name": "Description"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "SegmentClass"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "advanced"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "affricate"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "alveolar"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "alveolo_palatal"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "apical"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "approximant"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "aspirated"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "back"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "bilabial"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "breathy"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "central"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "centralized"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "close"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "close_mid"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "cluster"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "consonant"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "creaky"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "dental"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "devoiced"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "diphthong"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "ejective"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "epiglottal"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "fricative"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "front"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "glottal"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "glottalized"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "implosive"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "labialized"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "labio_dental"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "labio_palatal"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "labio_velar"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "laminal"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "lateral"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "less_rounded"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "long"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "lowered"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "mid"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "mid_centralized"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "mid_long"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "more_rounded"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "nasal"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "nasalized"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "near_back"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "near_close"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "near_front"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "near_open"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "non_syllabic"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "open"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "open_mid"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "palatal"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "palatal_velar"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "palatalized"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "pharyngeal"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "pharyngealized"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "post_alveolar"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "pre_aspirated"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "pre_glottalized"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "pre_labialized"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "pre_nasalized"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "raised"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "retracted"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "retroflex"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "rhotacized"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "rounded"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "sibilant"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "stop"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "syllabic"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "tap"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "trill"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "ultra_long"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "ultra_short"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "unrounded"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "uvular"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "velar"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "velarized"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "voiced"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "voiceless"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "vowel"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "with_frication"
                     }
                 ],
                 "primaryKey": [
