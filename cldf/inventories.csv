@@ -51,21 +51,30 @@ ID,Name,Contributor_ID,Source,URL,Tones
 50,Baoan (Ñantoq)#49,,,,
 51,Caodeng rGyalrong#50,,,,
 52,gLo Tibetan#51,,,,"11,55"
+53,Khalong Tibetan#52,,,,
 54,Yongning Na (Mosuo)#53,,,,"55,33,31,13"
 55,Tshangla#54,,,,
 56,Labrang Tibetan#55,,,,
 57,Zhongu Tibetan#56,,,,
+58,gSerpa#57,,,,
+59,Soghpo Tibetan#58,,,,"55,35,132,11,53"
 60,Spiti Tibetan#59,,,,"412,23,354"
+61,Kami Tibetan#60,,,,"13,55"
 62,Hebrew#61,,,,
+63,Modern Aramaic (Northeastern)#62,,,,
 64,Kangjia#63,,,,
 65,Kyirong Tibetan#64,,,,"55,51,34,31,12,21"
 66,Humla Bhotia#65,,,,"51,15"
+67,Dongwang Tibetan#66,,,,"13,353,53"
 68,Lhasa Tibetan#67,,,,"55,22"
 69,Denjongka#68,,,,"55,51,13"
 70,Dzongkha#69,,,,"55,53,33,31"
 71,Nyinpa Cone#70,,,,"55,52,24,121"
 72,Rawang (Mutwang)#71,,,,"55,33,11"
+73,Rgyalthang Tibetan#72,,,,"55,13,231,51"
 74,Baima#73,,,,"53,35,13,341"
+75,Northern Cuona#74,,,,"55,35"
+76,Southern Cuona#75,,,,"55,53,13,31"
 77,Kham Tibetan#76,,,,"15,51"
 78,Japhug#77,,,,
 79,Hakka Chinese#78,,,,"55,33,53,31,11,13"
@@ -95,13 +104,45 @@ ID,Name,Contributor_ID,Source,URL,Tones
 103,Ahi#102,,,,"55,33,22,21"
 104,Vietnamese (Hanoi)#103,,,,"33,32,24,32ʔ,31,43ʔ5"
 105,Burmese (Rangoon)#104,,,,"11,55,51ʕ,51ʔ"
+106,Soutern Tai (Nakhon Si Thammarat)#105,,,,"55,343,14,44,11"
+107,Soutern Tai (Surat)#106,,,,"454,343,33,121,24,11"
+108,Soutern Tai (Ko Samui)#107,,,,"55,33,44,121,24,11"
+109,Northeastern Thai (Ubon)#108,,,,"15,33,22ʔ,121,454,41ʔ"
+110,Northeastern Thai (Roi Et)#109,,,,"14,22,55,44,33ʔ,11ʔ,41"
+111,Northeastern Thai (Nakhon Phanom)#110,,,,"24,44,32,21ʔ,54ʔ"
+112,Nyaw (Uthen)#111,,,,"14,31ʔ,43ʔ,33,54ʔ,45ʔ"
+113,Nyaw (Sakhon Nakhon)#112,,,,"24,21,41ʔ,44,454ʔ"
+114,Phu Tai (Phanna Nikhom)#113,,,,"13,33,33ʔ,45ʔ"
+115,Phu Tai (Waritchaphum)#114,,,,"34,22,33ʔ,44,43ʔ,45ʔ"
+116,Northeastern Thai (Nong Khai)#115,,,,"24,11,44,22ʔ,42,55"
+117,Northeastern Thai (Loei)#116,,,,"323,33,55ʔ,34,45ʔ"
+118,Northern Thai (Chieng Mai)#117,,,,"14,22,53ʔ,44,41,454ʔ"
+119,Lao (Vientiane)#118,,,,"33,35,14,52,31"
+120,Lao (Chieng Khouang)#119,,,,"14,32,44ʔ,33,43,55ʔ"
+121,Lao (Luang Prabang)#120,,,,"534,14,33,55ʔ,45ʔ"
+122,Tay Daeng#121,,,,"45,44,312ʔ,21,31ʔ"
+123,Tay Yo#122,,,,"13,11ʔ,33ʔ,55,31,53ʔ"
+124,Tai Nuea#123,,,,"31,11,13ʔ,53,35,21ʔ"
+125,Shan (Hsi Paw)#124,,,,"24,21,31ʔ,55,41ʔ"
+126,Shan (Kunlong)#125,,,,"24,21ʔ,43ʔ,44,22,41ʔ"
+127,Shan (Zhe Fang)#126,,,,"25,21ʔ,41ʔ,55,33,54"
+128,Shan (Luxi)#127,,,,"32,11,31ʔ,44,45"
+129,Lue (Chieng Hung)#128,,,,"55,12,11ʔ,21,33,31ʔ"
 130,Saek#129,,,,"34,11,31ʔ,454,52,32"
+131,Gorum#130,,,,
+132,Gtaʔ#131,,,,
+133,Gutob (Koraput)#132,,,,
 134,Santali#133,,,,
 135,Mundari#134,,,,
+136,Ho (Mayurbhanj)#135,,,,
 137,Korku#136,,,,
+138,Sora (Gumma Hills)#137,,,,
 139,Juang#138,,,,
+140,Remo (Hills variety)#139,,,,
 141,Malayalam#140,,,,
 142,Assamese (Standard)#141,,,,
+143,Oriya#142,,,,
+144,Maithili (Madhubani)#143,,,,
 145,Magahi#144,,,,
 146,Bhojpuri#145,,,,
 147,Nepali#146,,,,
@@ -109,71 +150,141 @@ ID,Name,Contributor_ID,Source,URL,Tones
 149,Tamil#148,,,,
 150,Kannada (Standard)#149,,,,
 151,Tulu#150,,,,
+152,Konda#151,,,,
+153,Muria Gondi#152,,,,
+154,Kolami (Wardha)#153,,,,
+155,Gadaba#154,,,,
 156,Malto#155,,,,
+157,Northern Qiang (Yadu)#156,,,,
+158,Southern Pumi (Xinyingpan)#157,,,,"55,15,51"
 159,Balti (Kharkoo)#158,,,,
+160,Brag-g.yab Tibetan#159,,,,"55,11ɦ"
+161,Dingri Tibetan#160,,,,"33,31,55,53"
+162,Drokpa Tibetan (Zhongba)#161,,,,"55,11"
+163,Solu Sherpa (Hile)#162,,,,"55,53,11,13"
 164,Ladakhi (Leh)#163,,,,
+165,Purki#164,,,,
+166,Solu Sherpa (Lukla)#165,,,,"51,21"
 167,Tsez (Asax)#166,,,,
+168,Northern Qiang (Hongyan)#167,,,,"53,33"
+169,Nangchenpa Tibetan#168,,,,
 170,Shigatse Tibetan#169,,,,"55,53,22,21"
+171,South Mustang Tibetan (Jharkhot)#170,,,,"55,11"
 172,Themchen Tibetan#171,,,,
+173,Tod Tibetan#172,,,,
 174,Walungge#173,,,,"11,55"
+175,Yolmo#174,,,,"55,11"
 176,Manange#175,,,,"42,52,44,22"
 177,Gurung (Western)#176,,,,"55,33,13ɦ,11ɦ"
 178,Thakali#177,,,,"43,45,33,51"
+179,Tamang (Dhankuta)#178,,,,
 180,Ersu#179,,,,"55,11"
 181,Lizu#180,,,,"23,51"
 182,Puxi#181,,,,
+183,Kurtoep#182,,,,"55,11"
 184,Bhujel#183,,,,
 185,Dhimal#184,,,,
 186,Darma#185,,,,"55,11"
+187,Hayu#186,,,,
+188,Sangdam Tibetan#187,,,,"55,35,53,353"
+189,Myeik Burmese#188,,,,"11,55,14"
 190,Russian (Standard)#189,,,,
 191,Spanish (Murcian)#190,,,,
+192,Even (Ola)#191,,,,
 193,Dari#192,,,,
 194,Khaling#193,,,,"55,53,33"
 195,Hinuq#194,,,,
+196,Mara (Lakher)#195,,,,"11,33,55"
+197,dGudzong Tibetan#196,,,,"55,35,132,53"
 198,Bengali (Bangladeshi Standard)#197,,,,
+199,Melung Tibetan#198,,,,"55,35,132,53"
+200,Telugu (Vizianagaram)#199,,,,
+201,Koyi Rai#200,,,,
+202,Jero#201,,,,
+203,Poula#202,,,,"11,21,231,51"
 204,Daai Chin#203,,,,"33,53"
+205,Eastern Min Chinese (Fuzhou)#204,,,,"44,51,32,21,131,13ʔ,4ʔ"
+206,Nantong Chinese#205,,,,"11,13,35,55,53"
 207,Eastern Armenian (Standard)#206,,,,
 208,Bakhtiari#207,,,,
 209,Southern Luri#208,,,,
 210,Kumzari#209,,,,
 211,Koroshi#210,,,,
 212,Gilaki#211,,,,
+213,Alqosh Neo-Aramaic#212,,,,
+214,Amədya Neo-Aramaic#213,,,,
+215,Arbel Neo-Aramaic#214,,,,
+216,Betanure Neo-Aramaic#215,,,,
+217,Barwar Neo-Aramaic#216,,,,
+218,Kati#217,,,,
 219,Kalkoti#218,,,,"11,33,55,15"
+220,Darra-i-Nur Pashai (Southeast Pashai)#219,,,,
 221,Shumashti#220,,,,
 222,Dameli#221,,,,"31,55"
 223,Kalasha (Northern)#222,,,,
 224,Salar#223,,,,
+225,Vlax Romani (Mitrovica)#224,,,,
 226,Bulgarian (Standard)#225,,,,
 227,Czech (Bohemian)#226,,,,
+228,Mehweb#227,,,,
+229,Domari (Aleppo)#228,,,,
+230,Xong#229,,,,"41,454,43,43ɦ,14,22ɦ,22,21ɦ"
+231,Tujia (Northern)#230,,,,"55,24,21,51"
+232,Karbi (Hills)#231,,,,"11,33ʔ,55"
 233,Dakpa#232,,,,"11,55"
+234,Thebo Tibetan (G-yi.ba)#233,,,,"51,33,44,24"
 235,Jingpho (Gauri)#234,,,,"21,33,55,51"
 236,Nganasan (Avam)#235,,,,
+237,Turkish (Standard)#236,,,,
 238,Hindi#237,,,,
 239,Georgian#238,,,,
 240,Estonian#239,,,,
+241,Standard Arabic (Kuwait)#240,,,,
+242,"Catalan (Eastern, Barcelona)#241",,,,
 243,Iron Ossetic#242,,,,
+244,Croatian#243,,,,
 245,Hungarian (Standard)#244,,,,
 246,Korean (Seoul)#245,,,,
 247,Persian (Tehran)#246,,,,
 248,Sindhi (Vicholi)#247,,,,
 249,Slovene (Standard)#248,,,,
+250,Laz (Arhavi)#249,,,,
+251,Digor Ossetic#250,,,,
 252,Galician#251,,,,
+253,Portuguese (Lisbon)#252,,,,
+254,Thai (Standard)#253,,,,"55,33,11,15,51"
+255,Francoprovençal (St. Martin-en-Haut)#254,,,,
 256,Gascon (Béarnais)#255,,,,
+257,Aragonese (Chistabino)#256,,,,
 258,Japanese#257,,,,
 259,Spanish (Castilian)#258,,,,
+260,Basque (Arbizu)#259,,,,
+261,Basque (Gernika)#260,,,,
+262,Basque (Ondarroa)#261,,,,
+263,Basque (Baztan)#262,,,,
+264,Zuberoan Basque#263,,,,
+265,Basque (Goizueta)#264,,,,
+266,Frisian (North)#265,,,,
+267,Upper Saxon (Chemnitz)#266,,,,
 268,Munji#267,,,,
+269,North Azerbaijani (Shirvan)#268,,,,
+270,Mehri (Oman)#269,,,,
 271,Sakha (Standard)#270,,,,
 272,Dolgan#271,,,,
 273,South Azerbaijani (Tabriz)#272,,,,
+274,Dargwa (Icari)#273,,,,
+275,Sumi (Sema)#274,,,,"11,33,55"
 276,Khalaj#275,,,,
 277,Chuvash#276,,,,
 278,Kalmyk (Standard)#277,,,,
 279,Turkmen (Teke)#278,,,,
+280,Votic (Jõgõperä)#279,,,,
 281,Bashkir#280,,,,
 282,So#281,,,,
 283,Bru (Western)#282,,,,
 284,Tatar (Standard)#283,,,,
 285,Karaim (Northwestern)#284,,,,
+286,Uyghur (Xinjiang)#285,,,,
 287,Kyrgyz (Standard)#286,,,,
 288,Tofa#287,,,,
 289,Gagauz (Standard)#288,,,,
@@ -198,6 +309,7 @@ ID,Name,Contributor_ID,Source,URL,Tones
 308,Occitan (Gascon)#307,,,,
 309,Jèrriais (Eastern Jersey)#308,,,,
 310,Khalkhal#309,,,,
+311,Juhuri#310,,,,
 312,Slavomolisano (Acquaviva Collecroce)#311,,,,"33,35"
 313,Skolt Saami (Suõʹnnʼjel)#312,,,,
 314,Udihe (Bikin)#313,,,,
@@ -207,11 +319,13 @@ ID,Name,Contributor_ID,Source,URL,Tones
 318,Chukchi#317,,,,
 319,Darkhat#318,,,,
 320,Daur#319,,,,
+321,Ket (Kellog)#320,,,,"34ʔ,5,1331,31"
 322,Urdu#321,,,,
 323,Gujarati (Standard)#322,,,,
 324,Sorani Kurdish#323,,,,
 325,Yousafzai Pashto (Peshāwar)#324,,,,
 326,Waneci#325,,,,
+327,Wazirwola (North Wazīrī)#326,,,,
 328,Northwestern Pashto#327,,,,
 329,Southwestern Pashto (Kandahar)#328,,,,
 330,Western Balochi (Sarāwānī)#329,,,,
@@ -220,6 +334,8 @@ ID,Name,Contributor_ID,Source,URL,Tones
 333,Lak (Kumux)#332,,,,
 334,Burushaski (Hunza)#333,,,,
 335,Udmurt (Standard)#334,,,,
+336,Beserman (Šamardan)#335,,,,
+337,Yodzyak Komi#336,,,,
 338,Komi-Permyak#337,,,,
 339,Komi-Zyrian (Syktyvkar)#338,,,,
 340,Abkhaz (Bzyb)#339,,,,
@@ -230,19 +346,28 @@ ID,Name,Contributor_ID,Source,URL,Tones
 345,Tundra Nenets (Central-Eastern)#344,,,,
 346,Ligurian (Miogliola)#345,,,,
 347,Ingush#346,,,,351
+348,Mongolian (Khalkha)#347,,,,
+349,Varli (Dogri)#348,,,,
 350,Greek (Standard)#349,,,,
 351,Polish (Standard)#350,,,,
 352,Slovak (Standard)#351,,,,
+353,Tajik (Bukhara)#352,,,,
 354,Serbian (Standard Ekavian)#353,,,,
 355,Macedonian (Standard)#354,,,,
 356,Nivkh (West Sakhalin)#355,,,,
+357,Solon#356,,,,
+358,Domari (Palestinian)#357,,,,
+359,Veps (Šimozero)#358,,,,
 360,Karelian (North)#359,,,,
+361,Livonian (Vidzeme)#360,,,,341ʕ
 362,Northern Khanty (Kazym)#361,,,,
 363,Eastern Khanty (Vakh)#362,,,,
 364,Forest Enets#363,,,,
 365,Ter Saami#364,,,,
 366,Kamassian#365,,,,
 367,Meadow Mari (Morki-Sernur)#366,,,,
+368,Eastern Mari#367,,,,
+369,Hill Mari (Kozmodemjansk)#368,,,,
 370,Erzya (Standard)#369,,,,
 371,Moksha (Standard)#370,,,,
 372,Naukan Yupik#371,,,,
@@ -261,6 +386,7 @@ ID,Name,Contributor_ID,Source,URL,Tones
 385,Romanian (Standard)#384,,,,
 386,Arbëresh Albanian (Hora e Arbëreshëvet)#385,,,,
 387,Asturian (Western)#386,,,,
+388,Tosk Albanian (Korçë)#387,,,,
 389,Gheg Albanian (North-Eastern)#388,,,,
 390,Lezgian (Güne)#389,,,,
 391,Chechen (Ploskost)#390,,,,
@@ -271,6 +397,7 @@ ID,Name,Contributor_ID,Source,URL,Tones
 396,Miyako (Ogami)#395,,,,
 397,Kunigami (Nakijin)#396,,,,
 398,Maltese (Standard)#397,,,,
+399,Campidanese Sardinian (Sestu)#398,,,,
 400,Ishkashimi#399,,,,
 401,Upper Sorbian#400,,,,
 402,Wakhi#401,,,,
@@ -278,6 +405,8 @@ ID,Name,Contributor_ID,Source,URL,Tones
 404,Kurmanji Kurdish#403,,,,
 405,Ksingmul#404,,,,
 406,Paiwan (Kulalao)#405,,,,
+407,Vallader Romansh#406,,,,
+408,Judaeo-Spanish (Beiruti)#407,,,,
 409,Rājbanshi#408,,,,
 410,Ukrainian#409,,,,
 411,Yaghnobi#410,,,,

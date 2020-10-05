@@ -1,26 +1,52 @@
+"""
+Generates a CLDF dataset for Nikolaev's "The database of Eurasian phonological
+inventories" (2020).
+"""
+
 import json
-import pathlib
+import unicodedata
+from pathlib import Path
 from unidecode import unidecode
+
+from pyglottolog import Glottolog
+from pyclts import CLTS, models
 
 from cldfbench import CLDFSpec
 from cldfbench import Dataset as BaseDataset
 from clldutils.misc import slug
-
-from pyglottolog import Glottolog
 
 
 def compute_id(text):
     """
     Returns a codepoint representation to an Unicode string.
     """
+    unicode_repr = "".join(["u{0:0{1}X}".format(ord(char), 4) for char in text])
 
-    unicode_repr = ["U{0:0{1}X}".format(ord(char), 4) for char in text]
+    return "%s_%s" % (unidecode(text), unicode_repr)
 
-    return slug("%s_%s" % ("_".join(unicode_repr), unidecode(text)))
+
+def normalize_grapheme(text):
+    """
+    Apply simple, non-CLTS, normalization.
+    """
+
+    text = unicodedata.normalize("NFC", text)
+
+    if text[0] == "(" and text[-1] == ")":
+        text = text[1:-1]
+
+    if text[0] == "[" and text[-1] == "]":
+        text = text[1:-1]
+
+    return text
 
 
 class Dataset(BaseDataset):
-    dir = pathlib.Path(__file__).parent
+    """
+    CLDF dataset for inventories.
+    """
+
+    dir = Path(__file__).parent
     id = "eurasianinventories"
 
     def cldf_specs(self):  # A dataset must declare all CLDF sets it creates.
@@ -41,8 +67,11 @@ class Dataset(BaseDataset):
         >>> args.writer.objects['LanguageTable'].append(...)
         """
 
-        # Instantiate glottolog
-        g = Glottolog(args.glottolog.dir)
+        # Instantiate Glottolog and CLTS
+        # TODO: how to call CLTS?
+        glottolog = Glottolog(args.glottolog.dir)
+        clts_path = Path.home() / ".config" / "cldf" / "clts"
+        clts = CLTS(clts_path)
 
         # Add components
         args.writer.cldf.add_columns(
@@ -52,9 +81,9 @@ class Dataset(BaseDataset):
             "Contribution_ID",
         )
 
-        args.writer.cldf.add_component("ParameterTable")
+        args.writer.cldf.add_component("ParameterTable", "BIPA")
         args.writer.cldf.add_component(
-            "LanguageTable", "Family_Glottocode", "Family_Name"
+            "LanguageTable", "Family_Glottocode", "Family_Name", "Glottolog_Name"
         )
         args.writer.cldf.add_table(
             "inventories.csv",
@@ -74,14 +103,26 @@ class Dataset(BaseDataset):
         # load language mapping and build inventory info
         languages = []
         inventories = []
-        glottocodes = {}
+        lang_map = {}
         for row in self.etc_dir.read_csv("languages.csv", dicts=True):
-            # extend language info
-            languages.append(row)
-
             # Add mapping, if any
+            lang_map[row["name"]] = slug(row["name"])
+            lang_dict = {"ID": slug(row["name"]), "Name": row["name"]}
             if row["glottocode"]:
-                glottocodes[row["name"]] = row["glottocode"]
+                lang = glottolog.languoid(row["glottocode"])
+                lang_dict.update(
+                    {
+                        "Family_Glottocode": lang.lineage[0][1] if lang.lineage else None,
+                        "Family_Name": lang.lineage[0][0] if lang.lineage else None,
+                        "Glottocode": lang.id,
+                        "ISO639P3code": lang.iso_code,
+                        "Latitude": lang.latitude,
+                        "Longitude": lang.longitude,
+                        "Macroarea": lang.macroareas[0].name if lang.macroareas else None,
+                        "Glottolog_Name": lang.name,
+                    }
+                )
+            languages.append(lang_dict)
 
             # collect inventory info
             inventories.append(
@@ -95,23 +136,6 @@ class Dataset(BaseDataset):
                 }
             )
 
-        # Map glottolog from etc/languages.csv
-        languoids = {
-            lang.id: {
-                "Family_Glottocode": lang.lineage[0][1] if lang.lineage else None,
-                "Family_Name": lang.lineage[0][0] if lang.lineage else None,
-                "Glottocode": lang.id,
-                "ID": lang.id,
-                "ISO639P3code": lang.iso_code,
-                "Latitude": lang.latitude,
-                "Longitude": lang.longitude,
-                "Macroarea": lang.macroareas[0].name if lang.macroareas else None,
-                "Name": lang.name,
-            }
-            for lang in g.languoids()
-            if lang.id in glottocodes.values()
-        }
-
         # Read raw data
         with open("raw/phono_dbase.json") as handler:
             raw_data = json.load(handler)
@@ -122,9 +146,6 @@ class Dataset(BaseDataset):
         counter = 1
         segment_set = set()
         for idx, (language, langdata) in enumerate(raw_data.items()):
-            if language.split("#")[0] not in glottocodes:
-                continue
-
             cons = langdata["cons"]
             vows = langdata["vows"]
             tones = [tone for tone in langdata["tones"] if tone]
@@ -141,22 +162,35 @@ class Dataset(BaseDataset):
                 }
             )
 
-            # Add consonants and vowels to values
+            # Add consonants and vowels to values, also collecting parameters
+            parameters = []
             for segment in cons + vows:
-                if segment[0] == "(":
-                    segment = segment[1:-1]
-                    marginal = True
+                marginal = bool(segment[0] == "(")
+
+                # Obtain the corresponding BIPA grapheme, is possible
+                normalized = normalize_grapheme(segment)
+                sound = clts.bipa[normalized]
+                if isinstance(sound, models.UnknownSound):
+                    par_id = "UNK_" + compute_id(normalized)
+                    bipa_grapheme = ""
+                    desc = ""
                 else:
-                    marginal = False
+                    par_id = "BIPA_" + compute_id(normalized)
+                    bipa_grapheme = str(sound)
+                    desc = sound.name
+                parameters.append((par_id, normalized, bipa_grapheme, desc))
+
+                # Prepare language key
+                lang_key = language.split("#")[0].replace(",", "")
 
                 values.append(
                     {
                         "ID": str(counter),
-                        "Language_ID": glottocodes[language.split("#")[0]],
+                        "Language_ID": lang_map[lang_key],
                         "Marginal": marginal,
-                        "Parameter_ID": compute_id(segment),  # Compute
+                        "Parameter_ID": par_id,
                         "Value": segment,
-                        "Source": [],  # TODO
+                        "Source": [],  # TODO: add Nikolaev as source
                     }
                 )
                 counter += 1
@@ -166,14 +200,15 @@ class Dataset(BaseDataset):
 
         # Build segment data
         segments = [
-            {"Name": segment, "ID": compute_id(segment)} for segment in segment_set
+            {"ID": id, "Name": normalized, "Description": desc, "BIPA": bipa_grapheme}
+            for id, normalized, bipa_grapheme, desc in set(parameters)
         ]
 
         # Write data and validate
         args.writer.write(
             **{
                 "ValueTable": values,
-                "LanguageTable": languoids.values(),
+                "LanguageTable": languages,
                 "ParameterTable": segments,
                 "inventories.csv": inventories,
             }

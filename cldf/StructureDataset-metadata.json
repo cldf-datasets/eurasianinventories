@@ -15,13 +15,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/eurasianinventories",
-            "dc:created": "8f89a84"
+            "dc:created": "0df94a1"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.2.1-1-g1e0e889"
+            "dc:created": "v4.2.1-26-g276382e"
         }
     ],
     "prov:wasGeneratedBy": [
@@ -42,7 +42,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 12783,
+            "dc:extent": 18325,
             "tableSchema": {
                 "columns": [
                     {
@@ -140,7 +140,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 1381,
+            "dc:extent": 51,
             "tableSchema": {
                 "columns": [
                     {
@@ -163,6 +163,10 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "required": false,
                         "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "BIPA"
                     }
                 ],
                 "primaryKey": [
@@ -173,7 +177,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 285,
+            "dc:extent": 416,
             "tableSchema": {
                 "columns": [
                     {
@@ -243,6 +247,10 @@
                     {
                         "datatype": "string",
                         "name": "Family_Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Glottolog_Name"
                     }
                 ],
                 "primaryKey": [
@@ -252,7 +260,7 @@
             "url": "languages.csv"
         },
         {
-            "dc:extent": 287,
+            "dc:extent": 416,
             "tableSchema": {
                 "columns": [
                     {
