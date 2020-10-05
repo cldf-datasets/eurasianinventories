@@ -1,52 +1,1549 @@
 ID,Name,Description,BIPA
-BIPA_q'w_u0071u2019u02B7,q’ʷ,labialized voiceless uvular ejective stop consonant,qʼʷ
-BIPA_a_u0250,ɐ,unrounded near-open central vowel,ɐ
-BIPA_v_u0076,v,voiced labio-dental fricative consonant,v
-BIPA_?w_u0294u02B7,ʔʷ,labialized voiceless glottal stop consonant,ʔʷ
-BIPA_ts_u0074u0073,ts,voiceless alveolar sibilant affricate consonant,ts
-BIPA_q'_u0071u2019,q’,voiceless uvular ejective stop consonant,qʼ
-BIPA_c_u00E7,ç,voiceless palatal sibilant fricative consonant,ç
-BIPA_kh_u03C7,χ,voiceless uvular fricative consonant,χ
-BIPA_khw_u03C7u02B7,χʷ,labialized voiceless uvular fricative consonant,χʷ
-BIPA_?_u0295,ʕ,voiced pharyngeal fricative consonant,ʕ
-BIPA_f'_u0066u2019,f’,voiceless labio-dental ejective fricative consonant,fʼ
-BIPA_m_u006D,m,voiced bilabial nasal consonant,m
-BIPA_?_u0294,ʔ,voiceless glottal stop consonant,ʔ
-BIPA_p_u0070,p,voiceless bilabial stop consonant,p
-BIPA_t_u0074,t,voiceless alveolar stop consonant,t
-BIPA_Rw_u0281u02B7,ʁʷ,labialized voiced uvular fricative consonant,ʁʷ
-BIPA_z_u0291,ʑ,voiced alveolo-palatal sibilant fricative consonant,ʑ
-BIPA_h_u0068,h,voiceless glottal fricative consonant,h
-BIPA_Z_u0292,ʒ,voiced post-alveolar sibilant fricative consonant,ʒ
-BIPA_w_u0077,w,voiced labio-velar approximant consonant,w
-BIPA_z_u007A,z,voiced alveolar sibilant fricative consonant,z
-BIPA_c_u0063,c,voiceless palatal stop consonant,c
-BIPA_ts'_u0074u0073u2019,ts’,voiceless alveolar ejective sibilant affricate consonant,tsʼ
-BIPA_c'_u0255u2019,ɕ’,voiceless alveolo-palatal ejective sibilant fricative consonant,ɕ’
-BIPA_i_u0268,ɨ,unrounded close central vowel,ɨ
-BIPA_lZ_u026E,ɮ,voiced alveolar lateral fricative consonant,ɮ
-BIPA_gw_u0067u02B7,gʷ,labialized voiced velar stop consonant,gʷ
-BIPA_c_u0255,ɕ,voiceless alveolo-palatal sibilant fricative consonant,ɕ
-BIPA_j_u025F,ɟ,voiced palatal stop consonant,ɟ
-BIPA_S_u0283,ʃ,voiceless post-alveolar sibilant fricative consonant,ʃ
-BIPA_@_u0259,ə,unrounded mid central vowel,ə
-BIPA_q_u0071,q,voiceless uvular stop consonant,q
-BIPA_n_u006E,n,voiced alveolar nasal consonant,n
-BIPA_l_u026C,ɬ,voiceless alveolar lateral fricative consonant,ɬ
-BIPA_qw_u0071u02B7,qʷ,labialized voiceless uvular stop consonant,qʷ
-BIPA_j_u029D,ʝ,voiced palatal fricative consonant,ʝ
-BIPA_s_u0073,s,voiceless alveolar sibilant fricative consonant,s
-BIPA_b_u0062,b,voiced bilabial stop consonant,b
+BIPA_i_u0069u02D1,iˑ,mid-long unrounded close front vowel,iˑ
+BIPA_th_u03B8u2019,θ’,voiceless dental ejective fricative consonant,θ’
+BIPA_rj_u0072u0325u02B2,r̥ʲ,palatalized devoiced voiced alveolar trill consonant,r̥ʲ
+BIPA_b_u03B2u031E,β̞,voiced bilabial approximant consonant,β̞
+BIPA_o_u0254u0303u02D0,ɔ̃ː,long nasalized rounded open-mid back vowel,ɔ̃ː
+BIPA_u_u0264u031Eu0306,ɤ̞̆,ultra-short unrounded mid back vowel,ɤ̞̆
+BIPA_t_u0074u033B,t̻,voiceless laminal alveolar stop consonant,t̻
+BIPA_uo_u0075u006Fu031E,uo̞,from rounded close back to rounded mid back diphthong,uo̞
+BIPA_y_u0079u0330,y̰,creaky rounded close front vowel,y̰
+BIPA_o_u006Fu02D0,oː,long rounded close-mid back vowel,oː
+BIPA_nj_u006Eu0325u02B2u02D0,n̥ʲː,palatalized long devoiced voiced alveolar nasal consonant,n̥ʲː
+BIPA_w_u026Fu0330,ɯ̰,creaky unrounded close back vowel,ɯ̰
+BIPA_au_u0061u0075u032F,au̯,from unrounded open front to non-syllabic rounded close back diphthong,au̯
+BIPA_jh_u006Au02B0,jʰ,aspirated voiced palatal approximant consonant,jʰ
+BIPA_wi_u026Fu02D0u0069,ɯːi,from long unrounded close back to unrounded close front diphthong,ɯːi
+BIPA_j_u006Au0303,j̃,nasalized voiced palatal approximant consonant,j̃
+BIPA_yoe_u0079u0153,yœ,from rounded close front to rounded open-mid front diphthong,yœ
+BIPA_gw_u0263u02B7,ɣʷ,labialized voiced velar fricative consonant,ɣʷ
+BIPA_ng_u014Bu0329,ŋ̩,syllabic voiced velar nasal consonant,ŋ̍
+BIPA_khw_u006Bu02B0u02B7,kʰʷ,labialized aspirated voiceless velar stop consonant,kʷʰ
+BIPA_ua_u0075u0061u031F,ua̟,from rounded close back to advanced unrounded open front diphthong,ua̟
+BIPA_u_u0264,ɤ,unrounded close-mid back vowel,ɤ
+BIPA_mh_u006Du02B1,mʱ,breathy voiced bilabial nasal consonant,mʱ
+UNK_n_u02BCu0272,ʼɲ,,
+BIPA_ao_u0251u006F,ɑo,from unrounded open back to rounded close-mid back diphthong,ɑo
+UNK_hj_u02B1u006A,ʱj,,
+BIPA_sj_u0283u02B2,ʃʲ,palatalized voiceless post-alveolar sibilant fricative consonant,ʃʲ
+BIPA_o_u0254u031Fu031Cu02D0,ɔ̟̜ː,long advanced less-rounded rounded open-mid back vowel,ɔ̜ː̟
+BIPA_sjh_u0073u02B2u02B0,sʲʰ,palatalized aspirated voiceless alveolar sibilant fricative consonant,sʲʰ
+BIPA_ngj_u014Bu02B2,ŋʲ,palatalized voiced velar nasal consonant,ŋʲ
+BIPA_w_u0294u02B7,ʔʷ,labialized voiceless glottal stop consonant,ʔʷ
+BIPA_ou_u006Fu02D0u0075,oːu,from long rounded close-mid back to rounded close back diphthong,oːu
+BIPA_i_u0129u031E,ĩ̞,lowered nasalized unrounded close front vowel,ĩ̞
+BIPA_a_u0251u031Fu0324,ɑ̟̤,advanced breathy unrounded open back vowel,ɑ̤̟
+UNK_ju_u006Au0075,ju,,
+BIPA_ngh_u014Bu02B1,ŋʱ,breathy voiced velar nasal consonant,ŋʱ
+UNK_tr_u0288u027D,ʈɽ,,
+BIPA_ae_u00E6u0303u02D0,æ̃ː,long nasalized unrounded near-open front vowel,æ̃ː
+BIPA_n_u02C0u006E,ˀn,pre-glottalized voiced alveolar nasal consonant,ˀn
+BIPA_ts_u0288u033Bu0282u033B,ʈ̻ʂ̻,from voiceless laminal retroflex stop to voiceless laminal retroflex sibilant fricative cluster,ʈ̻ʂ̻
 BIPA_f_u0066,f,voiceless labio-dental fricative consonant,f
-BIPA_k'w_u006Bu2019u02B7,k’ʷ,labialized voiceless velar ejective stop consonant,kʼʷ
-BIPA_r_u0072,r,voiced alveolar trill consonant,r
+BIPA_o_u00F5,õ,nasalized rounded close-mid back vowel,õ
+BIPA_ts_u0074u032Au0073u032Au2019,t̪s̪’,voiceless dental ejective sibilant affricate consonant,ts̪ʼ
+UNK_jo_u006Au006F,jo,,
+BIPA_hts_u02B0u0074u0283u02D0,ʰtʃː,from pre-aspirated voiceless alveolar stop to long voiceless post-alveolar sibilant fricative cluster,ʰtʃː
+BIPA_eu_u025Bu0303u0169,ɛ̃ũ,from nasalized unrounded open-mid front to nasalized rounded close back diphthong,ɛ̃ũ
+BIPA_ntsh_u207Fu0288u0282u02B0,ⁿʈʂʰ,pre-nasalized aspirated voiceless retroflex sibilant affricate consonant,ⁿʈʂʰ
+BIPA_r_u0072u02D0u02D0,rːː,long voiced alveolar trill consonant,rː
+BIPA_o_u0254u031Eu0303u02D0,ɔ̞̃ː,long lowered nasalized rounded open-mid back vowel,ɔ̞̃ː
+BIPA_ts_u0074u0283u02BC,tʃʼ,voiceless post-alveolar ejective sibilant affricate consonant,tʃʼ
+BIPA_ia_u0069u0251,iɑ,from unrounded close front to unrounded open back diphthong,iɑ
+BIPA_ii_u0069u026Au032F,iɪ̯,from unrounded close front to non-syllabic unrounded near-close near-front diphthong,iɪ̯
+BIPA_e_u0065u031E,e̞,unrounded mid front vowel,e̞
+BIPA_ntjh_u207Fu0074u02B2u02B0,ⁿtʲʰ,pre-nasalized palatalized aspirated voiceless alveolar stop consonant,ⁿtʲʰ
+BIPA_oe_u0153u031Cu02D0,œ̜ː,long less-rounded rounded open-mid front vowel,œ̜ː
+BIPA_y_u028F,ʏ,rounded near-close near-front vowel,ʏ
+UNK_pr_u0070u02DE,p˞,,
+BIPA_tsw_u0074u0283u02D0u02B7,tʃːʷ,labialized long voiceless post-alveolar sibilant affricate consonant,tʃʷː
+BIPA_uo_u0075u032Fu0254,u̯ɔ,from non-syllabic rounded close back to rounded open-mid back diphthong,u̯ɔ
+BIPA_z_u007Au02D0,zː,long voiced alveolar sibilant fricative consonant,zː
+BIPA__u0295,ʕ,voiced pharyngeal fricative consonant,ʕ
+BIPA_a_u0251u031Du02D0,ɑ̝ː,long raised unrounded open back vowel,ɑ̝ː
+BIPA_e_u025Bu0330,ɛ̰,creaky unrounded open-mid front vowel,ɛ̰
+BIPA_a_u0251u02D0,ɑː,long unrounded open back vowel,ɑː
+BIPA_ng_u014B,ŋ,voiced velar nasal consonant,ŋ
+BIPA_aei_u00E6u02D0u0069,æːi,from long unrounded near-open front to unrounded close front diphthong,æːi
+BIPA_y_u028Fu0303u02D0,ʏ̃ː,long nasalized rounded near-close near-front vowel,ʏ̃ː
+BIPA_rj_u027Eu02B2,ɾʲ,palatalized voiced alveolar tap consonant,ɾʲ
+UNK_je_u006Au0065,je,,
+BIPA_n_u006Eu02D0,nː,long voiced alveolar nasal consonant,nː
+BIPA_i_u1E2D,ḭ,creaky unrounded close front vowel,ḭ
+BIPA_ts_u0074u032Au033Bu0073u032Au033B,t̪̻s̪̻,from voiceless laminal dental stop to voiceless laminal dental sibilant fricative cluster,t̪̻s̪̻
+BIPA_npjh_u207Fu0070u02B2u02B0,ⁿpʲʰ,pre-nasalized palatalized aspirated voiceless bilabial stop consonant,ⁿpʲʰ
+BIPA_sj_u0073u02B2u02D0u02D0,sʲːː,palatalized long voiceless alveolar sibilant fricative consonant,sʲː
+BIPA_ai_u0061u02D0u0069,aːi,from long unrounded open front to unrounded close front diphthong,aːi
+BIPA_ae_u0061u025B,aɛ,from unrounded open front to unrounded open-mid front diphthong,aɛ
+BIPA_d_u00F0,ð,voiced dental fricative consonant,ð
+BIPA_e_u1E1B,ḛ,creaky unrounded close-mid front vowel,ḛ
+BIPA_o_u0254u031Eu0303,ɔ̞̃,lowered nasalized rounded open-mid back vowel,ɔ̞̃
+BIPA_wa_u026Fu0061,ɯa,from unrounded close back to unrounded open front diphthong,ɯa
+BIPA_th_u0074u033Bu02B0,t̻ʰ,aspirated voiceless laminal alveolar stop consonant,t̻ʰ
+BIPA_u_u028Au032F,ʊ̯,non-syllabic rounded near-close near-back vowel,ʊ̯
+BIPA_i_u026Au0306,ɪ̆,ultra-short unrounded near-close near-front vowel,ɪ̆
+UNK_sw_u015Du02BCu02B7,ŝʼʷ,,
+UNK_g_u02BCu0263,ʼɣ,,
+BIPA_ai_u0252u02D0u0069u032F,ɒːi̯,from long rounded open back to non-syllabic unrounded close front diphthong,ɒːi̯
+BIPA_ar_u0061u02DE,a˞,rhotacized unrounded open front vowel,a˞
+BIPA_kjh_u006Bu02B2u02B0,kʲʰ,palatalized aspirated voiceless velar stop consonant,kʲʰ
+UNK_ew_u025Bu0077,ɛw,,
+BIPA_th_u0074u033Au02B0,t̺ʰ,aspirated voiceless apical alveolar stop consonant,t̺ʰ
+BIPA_d_u0064u032A,d̪,voiced dental stop consonant,d̪
+BIPA_uu_u0264u0075,ɤu,from unrounded close-mid back to rounded close back diphthong,ɤu
+BIPA_o_u0254u031E,ɔ̞,lowered rounded open-mid back vowel,ɔ̞
+BIPA_n_u006Eu032Au030A,n̪̊,devoiced voiced dental nasal consonant,n̪̥
+UNK_w_u0259u0077,əw,,
+BIPA_uoe_u0289u0153u0320,ʉœ̠,from rounded close central to retracted rounded open-mid front diphthong,ʉœ̠
+BIPA_ao_u0061u006F,ao,from unrounded open front to rounded close-mid back diphthong,ao
+BIPA_g_u0260,ɠ,voiced velar implosive consonant,ɠ
+BIPA_a_u0251u031Du031F,ɑ̝̟,advanced raised unrounded open back vowel,ɑ̝̟
+BIPA_th_u0074u032Au02B0,t̪ʰ,aspirated voiceless dental stop consonant,t̪ʰ
+BIPA_z_u007Au032Au02E4,z̪ˤ,pharyngealized voiced dental sibilant fricative consonant,z̪ˤ
+BIPA_g_u0263,ɣ,voiced velar fricative consonant,ɣ
+BIPA_ou_u0254u028A,ɔʊ,from rounded open-mid back to rounded near-close near-back diphthong,ɔʊ
+BIPA_ei_u1E1Bu026Au0330,ḛɪ̰,from creaky unrounded close-mid front to creaky unrounded near-close near-front diphthong,ḛɪ̰
+BIPA_c_u00E7u02D0,çː,long voiceless palatal sibilant fricative consonant,çː
+BIPA_ea_u0065u0061,ea,from unrounded close-mid front to unrounded open front diphthong,ea
+BIPA_nkh_u207Fu006Bu02B0,ⁿkʰ,pre-nasalized aspirated voiceless velar stop consonant,ⁿkʰ
+BIPA_s_u0073u033B,s̻,voiceless laminal alveolar sibilant fricative consonant,s̻
+BIPA_th_u0288u02B0,ʈʰ,aspirated voiceless retroflex stop consonant,ʈʰ
+BIPA_oa_u006Fu031Eu0061,o̞a,from rounded mid back to unrounded open front diphthong,o̞a
+BIPA_o_u0254u031Cu02D0,ɔ̜ː,long less-rounded rounded open-mid back vowel,ɔ̜ː
+BIPA_e_u0065u0320,e̠,retracted unrounded close-mid front vowel,e̠
+BIPA_dj_u00F0u02B2,ðʲ,palatalized voiced dental fricative consonant,ðʲ
+BIPA_lz_u026Eu033A,ɮ̺,voiced apical alveolar lateral fricative consonant,ɮ̺
+BIPA_e_u025Bu0303u02D0,ɛ̃ː,long nasalized unrounded open-mid front vowel,ɛ̃ː
+BIPA_dj_u0064u02B2,dʲ,palatalized voiced alveolar stop consonant,dʲ
+UNK_ts_u0074u0347u0073u0347,t͇s͇,,
+BIPA_ui_u0289u0069u032F,ʉi̯,from rounded close central to non-syllabic unrounded close front diphthong,ʉi̯
+UNK_hd_u02B1u0064,ʱd,,
+BIPA_e_u025Eu031Cu0330,ɞ̜̰,less-rounded creaky rounded open-mid central vowel,ɞ̜̰
+BIPA_a_u0251u031F,ɑ̟,advanced unrounded open back vowel,ɑ̟
+BIPA_o_u0275u031Eu0330,ɵ̞̰,creaky rounded mid central vowel,ɵ̞̰
+BIPA_l_u006Cu02D0u02D0,lːː,long voiced alveolar lateral approximant consonant,lː
+BIPA_u_u0075u0259u032F,uə̯,from rounded close back to non-syllabic unrounded mid central diphthong,uə̯
+BIPA_t_u0074u033Au02BC,t̺ʼ,voiceless apical alveolar ejective stop consonant,t̺’
+BIPA_g_u0261,ɡ,voiced velar stop consonant,g
+BIPA_ngh_u014Bu02B0,ŋʰ,aspirated voiced velar nasal consonant,ŋʰ
+BIPA_i_u0268u0324u02D0,ɨ̤ː,long breathy unrounded close central vowel,ɨ̤ː
+BIPA_ng_u207Fu0067,ⁿg,pre-nasalized voiced velar stop consonant,ⁿg
+BIPA_s_u0283,ʃ,voiceless post-alveolar sibilant fricative consonant,ʃ
+BIPA_w_u026Fu02D0,ɯː,long unrounded close back vowel,ɯː
+BIPA_dj_u0064u032Au02B2,d̪ʲ,palatalized voiced dental stop consonant,d̪ʲ
+BIPA_twj_u0074u032Au02BCu02B7u02B2,t̪ʼʷʲ,palatalized labialized voiceless dental ejective stop consonant,t̪’ʲʷ
+BIPA_d_u0064u032Au02E4,d̪ˤ,pharyngealized voiced dental stop consonant,d̪ˤ
+BIPA_wd_u02B7u0064,ʷd,pre-labialized voiced alveolar stop consonant,ʷd
+BIPA_p_u0070u02E4,pˤ,pharyngealized voiceless bilabial stop consonant,pˤ
+BIPA_i_u026Au02D0,ɪː,long unrounded near-close near-front vowel,ɪː
+BIPA_y_u1EF9u02D0,ỹː,long nasalized rounded close front vowel,ỹː
+UNK_hj_u02B1u025F,ʱɟ,,
+BIPA_dzh_u0064u0324u0292u0324u02B1,d̤ʒ̤ʱ,breathy voiced post-alveolar sibilant affricate consonant,dʒʱ
+BIPA_tgh_u0074u032Au02E0u02B0,t̪ˠʰ,aspirated velarized voiceless dental stop consonant,t̪ʰˠ
+BIPA_ts_u0074u033Bu0073u033B,t̻s̻,from voiceless laminal alveolar stop to voiceless laminal alveolar sibilant fricative cluster,t̻s̻
+BIPA_i_u0069u0320,i̠,retracted unrounded close front vowel,i̠
+BIPA_o_u0254u02E4u02D0,ɔˤː,long pharyngealized rounded open-mid back vowel,ɔˤː
+BIPA_b_u0062u0325,b̥,devoiced voiced bilabial stop consonant,b̥
+BIPA_wj_u0077u02B2,wʲ,palatalized voiced labio-velar approximant consonant,wʲ
+UNK_wo_u0077u00F5,wõ,,
+BIPA_ng_u207Fu0262,ⁿɢ,pre-nasalized voiced uvular stop consonant,ⁿɢ
+BIPA_ts_u0074u0073u02BCu02D0,tsʼː,long voiceless alveolar ejective sibilant affricate consonant,ts’ː
+BIPA_sj_u0073u02B2u02D0,sʲː,palatalized long voiceless alveolar sibilant fricative consonant,sʲː
+BIPA_i_u0069u02D0u0259,iːə,from long unrounded close front to unrounded mid central diphthong,iːə
+BIPA_k_u006B,k,voiceless velar stop consonant,k
+BIPA__u0259u0330,ə̰,creaky unrounded mid central vowel,ə̰
+BIPA_oey_u0153u0079,œy,from rounded open-mid front to rounded close front diphthong,œy
+UNK_wo_u0077u0254u02D0,wɔː,,
+BIPA_a_u0061u02E4,aˤ,pharyngealized unrounded open front vowel,aˤ
+UNK_jua_u006Au0075u0061u02D0,juaː,,
+BIPA_q_u0071u02E4u02BC,qˤʼ,pharyngealized voiceless uvular ejective stop consonant,q’ˤ
+BIPA_zj_u0292u02B2,ʒʲ,palatalized voiced post-alveolar sibilant fricative consonant,ʒʲ
+UNK_wo_u0077u006F,wo,,
+BIPA_i_u0268u031Fu02D0,ɨ̟ː,long advanced unrounded close central vowel,ɨː̟
+BIPA_i_u0268u02D0,ɨː,long unrounded close central vowel,ɨː
+BIPA_oa_u006Fu0061,oa,from rounded close-mid back to unrounded open front diphthong,oa
+BIPA_ng_u006Eu032Au02E0,n̪ˠ,velarized voiced dental nasal consonant,n̪ˠ
+BIPA_i_u0069u02D0u02D0,iːː,ultra-long unrounded close front vowel,iːː
+UNK_l_u026Bu032A,ɫ̪,,
+BIPA_h_u0127,ħ,voiceless pharyngeal fricative consonant,ħ
+BIPA_ii_u0069u0069,ii,long unrounded close front vowel,iː
+BIPA_l_u026Cu032A,ɬ̪,voiceless dental lateral fricative consonant,ɬ̪
+UNK_trh_u0288u027Du02B0,ʈɽʰ,,
+UNK_wei_u0077u0065u0069u032F,wei̯,,
+BIPA_aw_u0061u02D0u026F,aːɯ,from long unrounded open front to unrounded close back diphthong,aːɯ
+BIPA_u_u1E73u0303u02D0,ṳ̃ː,long nasalized breathy rounded close back vowel,ṳ̃ː
+BIPA_ts_u0074u0073u032A,ts̪,voiceless dental sibilant affricate consonant,ts̪
+BIPA_z_u0292u030A,ʒ̊,devoiced voiced post-alveolar sibilant fricative consonant,ʒ̊
+BIPA_cc_u0063u00E7,cç,voiceless palatal affricate consonant,cç
+BIPA_r_u0281u02D0,ʁː,long voiced uvular fricative consonant,ʁː
+BIPA_eu_u025Bu0289,ɛʉ,from unrounded open-mid front to rounded close central diphthong,ɛʉ
+BIPA_r_u027Eu0325,ɾ̥,devoiced voiced alveolar tap consonant,ɾ̥
+BIPA_z_u0292u033A,ʒ̺,voiced apical post-alveolar sibilant fricative consonant,ʒ̺
+BIPA_nk_u207Fu006B,ⁿk,pre-nasalized voiceless velar stop consonant,ⁿk
+BIPA_r_u027Eu0320,ɾ̠,retracted voiced alveolar tap consonant,ɾ̠
+BIPA_lj_u026Cu02B2,ɬʲ,palatalized voiceless alveolar lateral fricative consonant,ɬʲ
 BIPA_kw_u006Bu02B7,kʷ,labialized voiceless velar stop consonant,kʷ
-BIPA_d_u0064,d,voiced alveolar stop consonant,d
-BIPA_t'_u0074u2019,t’,voiceless alveolar ejective stop consonant,tʼ
-BIPA_dz_u0064u007A,dz,voiced alveolar sibilant affricate consonant,dz
-BIPA_xw_u0078u02B7,xʷ,labialized voiceless velar fricative consonant,xʷ
-BIPA_c'_u0063u2019,c’,voiceless palatal ejective stop consonant,cʼ
-BIPA_l'_u026Cu2019,ɬ’,voiceless alveolar ejective lateral fricative consonant,ɬʼ
-BIPA_R_u0281,ʁ,voiced uvular fricative consonant,ʁ
+BIPA_y_u028Fu02D0,ʏː,long rounded near-close near-front vowel,ʏː
+BIPA_o_u0254u0324,ɔ̤,breathy rounded open-mid back vowel,ɔ̤
+BIPA_mj_u006Du0325u02B2,m̥ʲ,palatalized devoiced voiced bilabial nasal consonant,m̥ʲ
+BIPA_ie_u026Au025Bu02D0,ɪɛː,from unrounded near-close near-front to long unrounded open-mid front diphthong,ɪɛː
+BIPA_au_u0061u0075u02D0,auː,from unrounded open front to long rounded close back diphthong,auː
+BIPA_uo_u0169u006Fu02D0,ũoː,from nasalized rounded close back to long rounded close-mid back diphthong,ũoː
+BIPA_ht_u02B0u0074,ʰt,pre-aspirated voiceless alveolar stop consonant,ʰt
+BIPA_u_u0264u031F,ɤ̟,advanced unrounded close-mid back vowel,ɤ̟
+UNK_s_u0073u0347,s͇,,
+BIPA_m_u006Du0325,m̥,devoiced voiced bilabial nasal consonant,m̥
+BIPA_p_u0070u2019,p’,voiceless bilabial ejective stop consonant,pʼ
+BIPA_sw_u0073u032Au02B7,s̪ʷ,labialized voiceless dental sibilant fricative consonant,s̪ʷ
+BIPA_i_u0069u0324,i̤,breathy unrounded close front vowel,i̤
+BIPA__u0259u02D0,əː,long unrounded mid central vowel,əː
+BIPA_lj_u006Cu0325u02B2u02D0,l̥ʲː,palatalized long devoiced voiced alveolar lateral approximant consonant,l̥ʲː
+BIPA_rh_u027Du0324u02B1,ɽ̤ʱ,breathy voiced retroflex tap consonant,ɽʱ
+BIPA_tw_u0074u02BCu02B7,tʼʷ,labialized voiceless alveolar ejective stop consonant,t’ʷ
+BIPA_i_u0259u02D0u0069,əːi,from long unrounded mid central to unrounded close front diphthong,əːi
+BIPA_dz_u0064u007Au02D0,dzː,long voiced alveolar sibilant affricate consonant,dzː
+BIPA_io_u0069u00F8,iø,from unrounded close front to rounded close-mid front diphthong,iø
+BIPA_nj_u006Eu0325u02B2,n̥ʲ,palatalized devoiced voiced alveolar nasal consonant,n̥ʲ
+BIPA_ie_u0069u025Bu0320,iɛ̠,from unrounded close front to retracted unrounded open-mid front diphthong,iɛ̠
+BIPA_u_u0259u0075,əu,from unrounded mid central to rounded close back diphthong,əu
+BIPA_d_u00F0u02E4,ðˤ,pharyngealized voiced dental fricative consonant,ðˤ
+BIPA_nqw_u207Fu0071u02B7,ⁿqʷ,pre-nasalized labialized voiceless uvular stop consonant,ⁿqʷ
+UNK_weu_u0077u0065u0075u032F,weu̯,,
+BIPA_z_u007A,z,voiced alveolar sibilant fricative consonant,z
+BIPA_swj_u0073u032Au02B7u02B2,s̪ʷʲ,palatalized labialized voiceless dental sibilant fricative consonant,s̪ʲʷ
+BIPA_s_u0073u032Au02E4,s̪ˤ,pharyngealized voiceless dental sibilant fricative consonant,s̪ˤ
 BIPA_j_u006A,j,voiced palatal approximant consonant,j
-BIPA_p'_u0070u2019,p’,voiceless bilabial ejective stop consonant,pʼ
+BIPA_a_u0251u031D,ɑ̝,raised unrounded open back vowel,ɑ̝
+UNK_ntrh_u207Fu0288u027Du02B0,ⁿʈɽʰ,,
+BIPA_u_u0075u02E4u02D0,uˤː,long pharyngealized rounded close back vowel,uˤː
+BIPA_s_u0283u031E,ʃ̞,lowered voiceless post-alveolar sibilant fricative consonant,ʃ̞
+BIPA_s_u0282u033B,ʂ̻,voiceless laminal retroflex sibilant fricative consonant,ʂ̻
+BIPA_a_u0061u0320u02D0,a̠ː,long retracted unrounded open front vowel,aː̠
+BIPA_ts_u0074u032Au0073u032A,t̪s̪,voiceless dental sibilant affricate consonant,ts̪
+UNK_ja_u006Au0061,ja,,
+BIPA_g_u0067u02D0,gː,long voiced velar stop consonant,gː
+BIPA_ch_u0063u02B0,cʰ,aspirated voiceless palatal stop consonant,cʰ
+BIPA_ai_u0250u026A,ɐɪ,from unrounded near-open central to unrounded near-close near-front diphthong,ɐɪ
+UNK_hdz_u02B1u0064u007A,ʱdz,,
+BIPA_u_u1E73,ṳ,breathy rounded close back vowel,ṳ
+BIPA_v_u0076u0329,v̩,syllabic voiced labio-dental fricative consonant,v̩
+BIPA_c_u0063u2019,c’,voiceless palatal ejective stop consonant,cʼ
+BIPA_ur_u0075u02DEu02E4u02D0,u˞ˤː,long rhotacized pharyngealized rounded close back vowel,u˞ˤː
+BIPA_hts_u02B0u0074u0073,ʰts,from pre-aspirated voiceless alveolar stop to voiceless alveolar sibilant fricative cluster,ʰts
+BIPA_sh_u0073u02B0,sʰ,aspirated voiceless alveolar sibilant fricative consonant,sʰ
+BIPA_u_u0289u031F,ʉ̟,advanced rounded close central vowel,ʉ̟
+BIPA_rh_u027Du02B1,ɽʱ,breathy voiced retroflex tap consonant,ɽʱ
+BIPA_ua_u0075u032Fu0061,u̯a,from non-syllabic rounded close back to unrounded open front diphthong,u̯a
+BIPA_tsh_u0074u032Au0073u032Au02B0,t̪s̪ʰ,aspirated voiceless dental affricate consonant,ts̪ʰ
+BIPA_ai_u00E3u026Au032Fu02D0,ãɪ̯ː,from nasalized unrounded open front to long non-syllabic unrounded near-close near-front diphthong,ãɪ̯ː
+BIPA_o_u0254u031Fu031Cu0303u02D0,ɔ̟̜̃ː,long advanced less-rounded nasalized rounded open-mid back vowel,ɔ̜̃ː̟
+UNK_d_u00F0u033Au032A,ð̺̪,,
+BIPA_o_u006Fu02E4u02D0,oˤː,long pharyngealized rounded close-mid back vowel,oˤː
+UNK_wei_u0077u025Bu0069,wɛi,,
+BIPA_w_u026F,ɯ,unrounded close back vowel,ɯ
+BIPA_q_u0071u02BCu02D0,qʼː,long voiceless uvular ejective stop consonant,q’ː
+BIPA_zj_u007Au032Au02B2,z̪ʲ,palatalized voiced dental sibilant fricative consonant,z̪ʲ
+UNK_dj_u0064u032Au1DBBu02B2,d̪ᶻʲ,,
+UNK_wai_u0077u0061u0069,wai,,
+BIPA_q_u0071u02BC,qʼ,voiceless uvular ejective stop consonant,qʼ
+BIPA_t_u0288,ʈ,voiceless retroflex stop consonant,ʈ
+BIPA_ht_u02B0u0074u02D0,ʰtː,pre-aspirated long voiceless alveolar stop consonant,ʰtː
+BIPA_ch_u0255u02B0,ɕʰ,aspirated voiceless alveolo-palatal sibilant fricative consonant,ɕʰ
+BIPA_k_u006Bu02BC,kʼ,voiceless velar ejective stop consonant,kʼ
+BIPA_u_u0075u02D0u0303,uː̃,long nasalized rounded close back vowel,ũː
+BIPA_a_u00E3u0324u02D0,ã̤ː,long nasalized breathy unrounded open front vowel,ã̤ː
+BIPA_hl_u02B0u006Cu0325,ʰl̥,pre-aspirated devoiced voiced alveolar lateral approximant consonant,ʰl̥
+BIPA_hj_u0068u02B2,hʲ,palatalized voiceless glottal fricative consonant,hʲ
+BIPA_s_u0282,ʂ,voiceless retroflex sibilant fricative consonant,ʂ
+BIPA_r_u0279,ɹ,voiced alveolar approximant consonant,ɹ
+BIPA_i_u0268u0324,ɨ̤,breathy unrounded close central vowel,ɨ̤
+BIPA_dz_u0064u007Au033B,dz̻,voiced laminal alveolar sibilant affricate consonant,dz̻
+UNK_g_u02BCu0261,ʼɡ,,
+BIPA_o_u006Fu031Fu02D0,o̟ː,long advanced rounded close-mid back vowel,oː̟
+BIPA_u_u0259u0075u032F,əu̯,from unrounded mid central to non-syllabic rounded close back diphthong,əu̯
+BIPA_ngw_u014Bu02B7,ŋʷ,labialized voiced velar nasal consonant,ŋʷ
+BIPA_vj_u0076u02B2,vʲ,palatalized voiced labio-dental fricative consonant,vʲ
+UNK_ntsh_u207Fu0074u0347u0073u0347u02B0,ⁿt͇s͇ʰ,,
+BIPA_ea_u025Bu0250,ɛɐ,from unrounded open-mid front to unrounded near-open central diphthong,ɛɐ
+UNK_ow_u006Fu0077,ow,,
+BIPA_i_u026Au0259,ɪə,from unrounded near-close near-front to unrounded mid central diphthong,ɪə
+BIPA_ie_u026Au0303u025Bu02D0,ɪ̃ɛː,from nasalized unrounded near-close near-front to long unrounded open-mid front diphthong,ɪ̃ɛː
+BIPA_t_u0074u032A,t̪,voiceless dental stop consonant,t̪
+BIPA_nj_u006Eu02B2u02D0,nʲː,palatalized long voiced alveolar nasal consonant,nʲː
+UNK_je_u006Au1EBD,jẽ,,
+BIPA_q_u0071u02E4,qˤ,pharyngealized voiceless uvular stop consonant,qˤ
+BIPA_wl_u02B7u006C,ʷl,pre-labialized voiced alveolar lateral approximant consonant,ʷl
+BIPA_v_u0076u02E4,vˤ,pharyngealized voiced labio-dental fricative consonant,vˤ
+BIPA_i_u0268u031E,ɨ̞,lowered unrounded close central vowel,ɨ̞
+UNK_ui_u0075u0259u0069,uəi,,
+BIPA_z_u007Au033B,z̻,voiced laminal alveolar sibilant fricative consonant,z̻
+BIPA_e_u025Bu0303,ɛ̃,nasalized unrounded open-mid front vowel,ɛ̃
+BIPA_ar_u0251u02DE,ɑ˞,rhotacized unrounded open back vowel,ɑ˞
+BIPA_uo_u0264u006F,ɤo,from unrounded close-mid back to rounded close-mid back diphthong,ɤo
+BIPA_oi_u00F5u0069,õi,from nasalized rounded close-mid back to unrounded close front diphthong,õi
+UNK_ij_u0268u006A,ɨj,,
+BIPA_l_u026Bu02D0,ɫː,velarized long voiced alveolar lateral approximant consonant,lˠː
+BIPA_t_u0074u032Au033B,t̪̻,voiceless laminal dental stop consonant,t̪̻
+BIPA_e_u025E,ɞ,rounded open-mid central vowel,ɞ
+BIPA_u_u0289,ʉ,rounded close central vowel,ʉ
+BIPA_tl_u0074u026C,tɬ,voiceless alveolar lateral affricate consonant,tɬ
+BIPA_twj_u0074u032Au02B7u02B2,t̪ʷʲ,palatalized labialized voiceless dental stop consonant,t̪ʲʷ
+BIPA_ts_u0074u0073u033B,ts̻,voiceless laminal alveolar sibilant affricate consonant,ts̻
+BIPA_th_u0074u02B0,tʰ,aspirated voiceless alveolar stop consonant,tʰ
+UNK_ts_u0074u015Du02BC,tŝʼ,,
+BIPA_vj_u028Bu02B2,ʋʲ,palatalized voiced labio-dental approximant consonant,ʋʲ
+BIPA_khw_u03C7u02E4u02B7,χˤʷ,labialized pharyngealized voiceless uvular fricative consonant,χʷˤ
+UNK_phr_u0070u02B0u02DE,pʰ˞,,
+BIPA_e_u0115,ĕ,ultra-short unrounded close-mid front vowel,ĕ
+BIPA_ua_u028Au0061,ʊa,from rounded near-close near-back to unrounded open front diphthong,ʊa
+BIPA_h_u029C,ʜ,voiceless epiglottal fricative consonant,ʜ
+BIPA_o_u0254u0324u02D0,ɔ̤ː,long breathy rounded open-mid back vowel,ɔ̤ː
+UNK_z_u007Au0347,z͇,,
+BIPA_w_u026Fu031F,ɯ̟,advanced unrounded close back vowel,ɯ̟
+BIPA_dzw_u0064u033Au0292u033Au02B7,d̺ʒ̺ʷ,from voiced apical alveolar stop to labialized voiced apical post-alveolar sibilant fricative cluster,d̺ʒ̺ʷ
+BIPA_u_u028Au0303,ʊ̃,nasalized rounded near-close near-back vowel,ʊ̃
+BIPA_u_u0075u0259,uə,from rounded close back to unrounded mid central diphthong,uə
+BIPA_nj_u006Eu02B2u02D0u02D0,nʲːː,palatalized long voiced alveolar nasal consonant,nʲː
+BIPA_np_u207Fu0070,ⁿp,pre-nasalized voiceless bilabial stop consonant,ⁿp
+BIPA_qw_u0071u02D0u02B7,qːʷ,labialized long voiceless uvular stop consonant,qʷː
+BIPA_ai_u0250u0069u032F,ɐi̯,from unrounded near-open central to non-syllabic unrounded close front diphthong,ɐi̯
+BIPA_tl_u0074u026Cu02D0u02BC,tɬːʼ,long voiceless alveolar ejective lateral affricate consonant,tɬ’ː
+BIPA_hp_u02B0u0070,ʰp,pre-aspirated voiceless bilabial stop consonant,ʰp
+BIPA_ai_u00E3u0129,ãĩ,from nasalized unrounded open front to nasalized unrounded close front diphthong,ãĩ
+UNK_ej_u1EBDu006A,ẽj,,
+BIPA_tsh_u0074u0283u02D0u02B0,tʃːʰ,aspirated long voiceless post-alveolar sibilant affricate consonant,tʃʰː
+BIPA_n_u006Eu02D0u02D0,nːː,long voiced alveolar nasal consonant,nː
+BIPA_ee_u025Eu0065u032F,ɞe̯,from rounded open-mid central to non-syllabic unrounded close-mid front diphthong,ɞe̯
+BIPA_ou_u006Fu0075,ou,from rounded close-mid back to rounded close back diphthong,ou
+BIPA_ae_u00E6,æ,unrounded near-open front vowel,æ
+BIPA_u_u0289u02D0,ʉː,long rounded close central vowel,ʉː
+BIPA_ph_u0070u02B0,pʰ,aspirated voiceless bilabial stop consonant,pʰ
+BIPA_yo_u0079u032Fu00F8,y̯ø,from non-syllabic rounded close front to rounded close-mid front diphthong,y̯ø
+BIPA_pf_u0070u0066,pf,voiceless labio-dental affricate consonant,pf
+BIPA_tl_u0074u032Au026C,t̪ɬ,from voiceless dental stop to voiceless alveolar lateral fricative cluster,t̪ɬ
+BIPA_xj_u0078u02B2u02D0,xʲː,palatalized long voiceless velar fricative consonant,xʲː
+BIPA_ei_u0065u02D0u0069u032F,eːi̯,from long unrounded close-mid front to non-syllabic unrounded close front diphthong,eːi̯
+BIPA_au_u0061u0075,au,from unrounded open front to rounded close back diphthong,au
+UNK_aj_u00E3u006A,ãj,,
+BIPA_u_u0264u031Fu0324u02D0,ɤ̟̤ː,long advanced breathy unrounded close-mid back vowel,ɤ̤ː̟
+BIPA_dh_u0064u032Au0324u02B1,d̪̤ʱ,breathy voiced dental stop consonant,d̪ʱ
+BIPA_e_u0258u0303,ɘ̃,nasalized unrounded close-mid central vowel,ɘ̃
+BIPA_tswj_u0074u032Au0073u032Au02B7u02B2,t̪s̪ʷʲ,palatalized labialized voiceless dental sibilant affricate consonant,ts̪ʲʷ
+UNK_uai_u0075u0061u0069,uai,,
+BIPA_i_u026Au0308,ɪ̈,unrounded near-close central vowel,ɪ̈
+BIPA_gw_u0261u02B7,ɡʷ,labialized voiced velar stop consonant,gʷ
+BIPA_a_u00E3u0324,ã̤,nasalized breathy unrounded open front vowel,ã̤
+BIPA_ts_u0074u032Au0073u032Au02D0,t̪s̪ː,long voiceless dental sibilant affricate consonant,ts̪ː
+BIPA_oy_u00F8u0079u032F,øy̯,from rounded close-mid front to non-syllabic rounded close front diphthong,øy̯
+BIPA_lz_u026Eu02BC,ɮʼ,voiced alveolar ejective lateral fricative consonant,ɮ’
+BIPA_a_u0251u0324u02D0,ɑ̤ː,long breathy unrounded open back vowel,ɑ̤ː
+BIPA_i_u0069u0259,iə,from unrounded close front to unrounded mid central diphthong,iə
+BIPA_sw_u0282u02B7,ʂʷ,labialized voiceless retroflex sibilant fricative consonant,ʂʷ
+BIPA_o_u0254u031Du02D0,ɔ̝ː,long raised rounded open-mid back vowel,ɔ̝ː
+BIPA_l_u006Cu0325,l̥,devoiced voiced alveolar lateral approximant consonant,l̥
+BIPA_d_u00F0u02BC,ðʼ,voiced dental ejective fricative consonant,ð’
+BIPA_e_u025Eu031Cu02D0,ɞ̜ː,long less-rounded rounded open-mid central vowel,ɞ̜ː
+BIPA_uae_u0075u00E6,uæ,from rounded close back to unrounded near-open front diphthong,uæ
+BIPA_h_u0068,h,voiceless glottal fricative consonant,h
+BIPA_u_u0169,ũ,nasalized rounded close back vowel,ũ
+BIPA_j_u006Au030A,j̊,devoiced voiced palatal approximant consonant,j̊
+BIPA_rj_u0072u02B2,rʲ,palatalized voiced alveolar trill consonant,rʲ
+BIPA_yi_u0079u0069,yi,from rounded close front to unrounded close front diphthong,yi
+BIPA_zw_u0290u02B7,ʐʷ,labialized voiced retroflex sibilant fricative consonant,ʐʷ
+BIPA_oe_u0153u031C,œ̜,less-rounded rounded open-mid front vowel,œ̜
+BIPA_au_u0250u0303u0075,ɐ̃u,from nasalized unrounded near-open central to rounded close back diphthong,ɐ̃u
+BIPA_ts_u0074u02E2,tˢ,voiceless alveolar sibilant affricate consonant,ts
+BIPA_oa_u00F5u00E3,õã,from nasalized rounded close-mid back to nasalized unrounded open front diphthong,õã
+BIPA_y_u1EF9,ỹ,nasalized rounded close front vowel,ỹ
+BIPA__u0294u0303,ʔ̃,nasalized voiceless glottal stop consonant,ʔ̃
+BIPA_d_u00F0u02D0,ðː,long voiced dental fricative consonant,ðː
+BIPA_ts_u0074u0283u02D0,tʃː,long voiceless post-alveolar sibilant affricate consonant,tʃː
+BIPA_hwsh_u02B0u02B7u0282u02B0,ʰʷʂʰ,pre-labialized aspirated voiceless retroflex sibilant fricative consonant,ʷʂʰ
+BIPA_h_u0068u02D0u02D0,hːː,long voiceless glottal fricative consonant,hː
+BIPA_tc_u0074u033Au0255u033Au02BC,t̺ɕ̺ʼ,from voiceless apical alveolar stop to voiceless apical alveolo-palatal ejective sibilant fricative cluster,t̺ɕ̺’
+BIPA_k_u006Bu02D0,kː,long voiceless velar stop consonant,kː
+BIPA_ia_u0129u00E3,ĩã,from nasalized unrounded close front to nasalized unrounded open front diphthong,ĩã
+BIPA_sw_u0073u02B7,sʷ,labialized voiceless alveolar sibilant fricative consonant,sʷ
+BIPA_e_u025Bu02D0,ɛː,long unrounded open-mid front vowel,ɛː
+BIPA_s_u0073u02E4,sˤ,pharyngealized voiceless alveolar sibilant fricative consonant,sˤ
+UNK_tsj_u0074u032Au02E2u02B2,t̪ˢʲ,,
+BIPA__u0259,ə,unrounded mid central vowel,ə
+BIPA_h_u0068u02D0,hː,long voiceless glottal fricative consonant,hː
+BIPA_tl_u0074u032Au026Cu02BC,t̪ɬʼ,from voiceless dental stop to voiceless alveolar ejective lateral fricative cluster,t̪ɬʼ
+BIPA_er_u025Bu02DE,ɛ˞,rhotacized unrounded open-mid front vowel,ɛ˞
+BIPA_s_u0073u02BC,sʼ,voiceless alveolar ejective sibilant fricative consonant,sʼ
+BIPA_w_u026Fu033D,ɯ̽,unrounded near-close near-back vowel,ɯ̽
+BIPA_dg_u0064u032Au02E0,d̪ˠ,velarized voiced dental stop consonant,d̪ˠ
+BIPA_i_u0259u0268,əɨ,from unrounded mid central to unrounded close central diphthong,əɨ
+BIPA_or_u006Fu02DE,o˞,rhotacized rounded close-mid back vowel,o˞
+BIPA_a_u0061u0320,a̠,retracted unrounded open front vowel,a̠
+BIPA_ai_u0061u0330u026Au0330,a̰ɪ̰,from creaky unrounded open front to creaky unrounded near-close near-front diphthong,a̰ɪ̰
+BIPA_ee_u0065u025B,eɛ,from unrounded close-mid front to unrounded open-mid front diphthong,eɛ
+BIPA_dzj_u0064u0292u02B2,dʒʲ,palatalized voiced post-alveolar sibilant affricate consonant,dʒʲ
+BIPA_qhwj_u0071u02B0u02B7u02B2,qʰʷʲ,palatalized labialized aspirated voiceless uvular stop consonant,qʲʷʰ
+UNK_w_u0077u0259,wə,,
+BIPA_eu_u0065u0075u032F,eu̯,from unrounded close-mid front to non-syllabic rounded close back diphthong,eu̯
+BIPA_nd_u207Fu0064,ⁿd,pre-nasalized voiced alveolar stop consonant,ⁿd
+UNK_jy_u006Au0079,jy,,
+BIPA_ts_u0074u0282,tʂ,voiceless retroflex sibilant affricate consonant,ʈʂ
+BIPA_ea_u0065u0251,eɑ,from unrounded close-mid front to unrounded open back diphthong,eɑ
+BIPA_c_u0063u02BC,cʼ,voiceless palatal ejective stop consonant,cʼ
+BIPA_dz_u0064u0325u007Au0325,d̥z̥,from devoiced voiced alveolar stop to devoiced voiced alveolar sibilant fricative cluster,d̥z̥
+BIPA_ei_u0065u026A,eɪ,from unrounded close-mid front to unrounded near-close near-front diphthong,eɪ
+BIPA_lh_u006Cu02B0,lʰ,aspirated voiced alveolar lateral approximant consonant,lʰ
+BIPA_a_u0061u0324u02D0,a̤ː,long breathy unrounded open front vowel,a̤ː
+UNK_jau_u006Au0061u0075,jau,,
+BIPA_oa_u00F8u0251,øɑ,from rounded close-mid front to unrounded open back diphthong,øɑ
+BIPA_w_u0077u02C0,wˀ,glottalized voiced labio-velar approximant consonant,wˀ
+BIPA_ts_u0074u032Au0073u032Au02BC,t̪s̪ʼ,voiceless dental ejective sibilant affricate consonant,ts̪ʼ
+BIPA_j_u029Du02D0,ʝː,long voiced palatal fricative consonant,ʝː
+BIPA_b_u0062u02D0,bː,long voiced bilabial stop consonant,bː
+BIPA_tsh_u0074u0073u02D0u02B0,tsːʰ,aspirated long voiceless alveolar sibilant affricate consonant,tsʰː
+BIPA_dh_u0064u02B0,dʰ,aspirated voiced alveolar stop consonant,dʰ
+BIPA_y_u028Fu0303,ʏ̃,nasalized rounded near-close near-front vowel,ʏ̃
+BIPA_iae_u0069u00E6,iæ,from unrounded close front to unrounded near-open front diphthong,iæ
+UNK_hl_u02B1u006C,ʱl,,
+UNK_t_u0074u033Au032A,t̺̪,,
+BIPA_au_u0251u0075,ɑu,from unrounded open back to rounded close back diphthong,ɑu
+UNK_jo_u006Au0254,jɔ,,
+BIPA_dzj_u0064u007Au02B2,dzʲ,palatalized voiced alveolar sibilant affricate consonant,dzʲ
+BIPA_u_u1E73u02D0,ṳː,long breathy rounded close back vowel,ṳː
+BIPA_hk_u02B0u006Bu02D0,ʰkː,pre-aspirated long voiceless velar stop consonant,ʰkː
+BIPA_qh_u0071u02B0,qʰ,aspirated voiceless uvular stop consonant,qʰ
+BIPA_aei_u00E6u0303u0069,æ̃i,from nasalized unrounded near-open front to unrounded close front diphthong,æ̃i
+BIPA_o_u0275u0259,ɵə,from rounded close-mid central to unrounded mid central diphthong,ɵə
+UNK_s_u02BCu0073,ʼs,,
+BIPA_n_u0272u02D0,ɲː,long voiced palatal nasal consonant,ɲː
+BIPA_p_u0070u02BC,pʼ,voiceless bilabial ejective stop consonant,pʼ
+BIPA_e_u025Cu0339,ɜ̹,more-rounded unrounded open-mid central vowel,ɜ̹
+BIPA_tc_u0074u0255,tɕ,voiceless alveolo-palatal sibilant affricate consonant,tɕ
+BIPA_d_u0064u032Au033B,d̪̻,voiced laminal dental stop consonant,d̪̻
+BIPA_o_u00F8u031Eu02D0,ø̞ː,long rounded mid front vowel,ø̞ː
+UNK_ij_u0069u006A,ij,,
+BIPA_i_u0259u0303u0129,ə̃ĩ,from nasalized unrounded mid central to nasalized unrounded close front diphthong,ə̃ĩ
+BIPA_e_u0065u0259,eə,from unrounded close-mid front to unrounded mid central diphthong,eə
+BIPA_gj_u0263u02B2,ɣʲ,palatalized voiced velar fricative consonant,ɣʲ
+BIPA_dz_u0064u032Au007Au032A,d̪z̪,voiced dental sibilant affricate consonant,dz̪
+UNK_ej_u025Bu006A,ɛj,,
+BIPA_lg_u006Cu032Au02E0,l̪ˠ,velarized voiced dental lateral approximant consonant,l̪ˠ
+BIPA_b_u03B2,β,voiced bilabial fricative consonant,β
+UNK_ja_u006Au0061u02D0,jaː,,
+BIPA_e_u025Bu031Eu02D0,ɛ̞ː,long lowered unrounded open-mid front vowel,ɛ̞ː
+BIPA_mg_u006Du02E0,mˠ,velarized voiced bilabial nasal consonant,mˠ
+BIPA_gj_u0067u02B2u02D0,gʲː,palatalized long voiced velar stop consonant,gʲː
+BIPA_r_u0072u0329u02D0,r̩ː,syllabic long voiced alveolar trill consonant,r̩ː
+BIPA_ua_u0075u0251u0303,uɑ̃,from rounded close back to nasalized unrounded open back diphthong,uɑ̃
+UNK_we_u0077u025Bu0303,wɛ̃,,
+BIPA_zj_u0290u02B2,ʐʲ,palatalized voiced retroflex sibilant fricative consonant,ʐʲ
+BIPA_ia_u0069u0061,ia,from unrounded close front to unrounded open front diphthong,ia
+BIPA_ch_u0063u02D0u02B0,cːʰ,aspirated long voiceless palatal stop consonant,cʰː
+BIPA_a_u0252u02D0,ɒː,long rounded open back vowel,ɒː
+BIPA_i_u0268u0303,ɨ̃,nasalized unrounded close central vowel,ɨ̃
+BIPA_i_u0069u02D0,iː,long unrounded close front vowel,iː
+BIPA_nh_u0273u02B1,ɳʱ,breathy voiced retroflex nasal consonant,ɳʱ
+BIPA_ii_u0268u0069,ɨi,from unrounded close central to unrounded close front diphthong,ɨi
+BIPA_ph_u0070u02B0u02E4,pʰˤ,aspirated pharyngealized voiceless bilabial stop consonant,pʰˤ
+BIPA_o_u00F5u031E,õ̞,nasalized rounded mid back vowel,õ̞
+BIPA_xj_u0078u02B2,xʲ,palatalized voiceless velar fricative consonant,xʲ
+BIPA__u0259u02D0u0303,əː̃,long nasalized unrounded mid central vowel,ə̃ː
+BIPA_hts_u02B0u0074u0283,ʰtʃ,from pre-aspirated voiceless alveolar stop to voiceless post-alveolar sibilant fricative cluster,ʰtʃ
+BIPA_au_u0250u0075,ɐu,from unrounded near-open central to rounded close back diphthong,ɐu
+BIPA_tlw_u0074u026Cu02BCu02B7,tɬʼʷ,labialized voiceless alveolar ejective lateral affricate consonant,tɬ’ʷ
+BIPA_ie_u0268u025B,ɨɛ,from unrounded close central to unrounded open-mid front diphthong,ɨɛ
+BIPA_ie_u026Au0303u025B,ɪ̃ɛ,from nasalized unrounded near-close near-front to unrounded open-mid front diphthong,ɪ̃ɛ
+BIPA_pjh_u0070u02B2u02B0,pʲʰ,palatalized aspirated voiceless bilabial stop consonant,pʲʰ
+BIPA_pj_u0070u02BCu02B2,pʼʲ,palatalized voiceless bilabial ejective stop consonant,p’ʲ
+BIPA_aei_u00E6u0069u032F,æi̯,from unrounded near-open front to non-syllabic unrounded close front diphthong,æi̯
+BIPA_a_u0061,a,unrounded open front vowel,a
+BIPA_d_u0064u033B,d̻,voiced laminal alveolar stop consonant,d̻
+UNK_sw_u015Du02B7,ŝʷ,,
+BIPA_ir_u0069u02DEu02E4u02D0,i˞ˤː,long rhotacized pharyngealized unrounded close front vowel,i˞ˤː
+BIPA_aw_u0061u026Fu0303,aɯ̃,from unrounded open front to nasalized unrounded close back diphthong,aɯ̃
+BIPA_h_u0267,ɧ,voiceless palatal-velar fricative consonant,ɧ
+BIPA_dz_u0064u0292u02D0,dʒː,long voiced post-alveolar sibilant affricate consonant,dʒː
+UNK_w_u028Cu0077,ʌw,,
+BIPA_oi_u0254u02D0u0069,ɔːi,from long rounded open-mid back to unrounded close front diphthong,ɔːi
+UNK_hn_u02B1u006E,ʱn,,
+BIPA_u_u0075u031Eu02D0,u̞ː,long lowered rounded close back vowel,u̞ː
+BIPA_n_u006Eu032Au0329,n̪̩,syllabic voiced dental nasal consonant,n̪̩
+BIPA_a_u0251u0303u02D0,ɑ̃ː,long nasalized unrounded open back vowel,ɑ̃ː
+BIPA_au_u0251u028A,ɑʊ,from unrounded open back to rounded near-close near-back diphthong,ɑʊ
+BIPA_ie_u026Au025B,ɪɛ,from unrounded near-close near-front to unrounded open-mid front diphthong,ɪɛ
+BIPA_tshj_u0074u032Au0073u032Au02B0u02B2,t̪s̪ʰʲ,palatalized aspirated voiceless dental affricate consonant,tθʲʰ
+BIPA_o_u006Fu0259,oə,from rounded close-mid back to unrounded mid central diphthong,oə
+BIPA_kj_u006Bu02B2u02D0,kʲː,palatalized long voiceless velar stop consonant,kʲː
+BIPA_hts_u02B0u0074u0073u02D0,ʰtsː,from pre-aspirated voiceless alveolar stop to long voiceless alveolar sibilant fricative cluster,ʰtsː
+BIPA_r_u027E,ɾ,voiced alveolar tap consonant,ɾ
+BIPA_i_u0069u0259u032F,iə̯,from unrounded close front to non-syllabic unrounded mid central diphthong,iə̯
+BIPA_rj_u027Bu02B2,ɻʲ,palatalized voiced retroflex approximant consonant,ɻʲ
+BIPA_a_u0061u02D0,aː,long unrounded open front vowel,aː
+BIPA_tl_u0074u026Cu02BC,tɬʼ,voiceless alveolar ejective lateral affricate consonant,tɬʼ
+BIPA_ei_u0065u0069,ei,from unrounded close-mid front to unrounded close front diphthong,ei
+BIPA_rh_u0072u02B0,rʰ,aspirated voiced alveolar trill consonant,rʰ
+BIPA_r_u0072u0325u02D0,r̥ː,long devoiced voiced alveolar trill consonant,r̥ː
+BIPA_nj_u0273u02B2,ɳʲ,palatalized voiced retroflex nasal consonant,ɳʲ
+BIPA_o_u0254u0303,ɔ̃,nasalized rounded open-mid back vowel,ɔ̃
+BIPA_r_u027A,ɺ,voiced alveolar lateral tap consonant,ɺ
+BIPA_p_u0070u02D0,pː,long voiceless bilabial stop consonant,pː
+BIPA_tsh_u0074u0073u02B0,tsʰ,aspirated voiceless alveolar sibilant affricate consonant,tsʰ
+BIPA_u_u0075u02D0u0259,uːə,from long rounded close back to unrounded mid central diphthong,uːə
+UNK_je_u006Au025Bu0303,jɛ̃,,
+BIPA_p_u0070u02D0u02D0,pːː,long voiceless bilabial stop consonant,pː
+BIPA_b_u0062u02E4,bˤ,pharyngealized voiced bilabial stop consonant,bˤ
+BIPA_o_u006Fu0330,o̰,creaky rounded close-mid back vowel,o̰
+BIPA_ue_u0075u0065,ue,from rounded close back to unrounded close-mid front diphthong,ue
+BIPA_m_u006Du02D0,mː,long voiced bilabial nasal consonant,mː
+BIPA_lh_u006Cu02B1,lʱ,breathy voiced alveolar lateral approximant consonant,lʱ
+BIPA_r_u027Bu030A,ɻ̊,devoiced voiced retroflex approximant consonant,ɻ̥
+UNK_tswh_u0074u015Du02B7u02B0,tŝʷʰ,,
+BIPA_gw_u0067u02B7,gʷ,labialized voiced velar stop consonant,gʷ
+BIPA_bj_u03B2u02B2,βʲ,palatalized voiced bilabial fricative consonant,βʲ
+UNK_dr_u0256u027D,ɖɽ,,
+BIPA_ai_u0250u0069,ɐi,from unrounded near-open central to unrounded close front diphthong,ɐi
+UNK_wa_u0077u00E3,wã,,
+BIPA_ye_u0079u0065,ye,from rounded close front to unrounded close-mid front diphthong,ye
+BIPA_qkh_u0071u03C7u02D0u02BC,qχːʼ,long voiceless uvular ejective affricate consonant,qχ’ː
+BIPA_tj_u0074u032Au02B2,t̪ʲ,palatalized voiceless dental stop consonant,t̪ʲ
+BIPA_c_u0063u031F,c̟,advanced voiceless palatal stop consonant,c̟
+BIPA_l_u026D,ɭ,voiced retroflex lateral approximant consonant,ɭ
+BIPA_mj_u006Du02B2u02D0,mʲː,palatalized long voiced bilabial nasal consonant,mʲː
+BIPA_a_u0061u02E4u02D0,aˤː,long pharyngealized unrounded open front vowel,aˤː
+BIPA_d_u0064u0325,d̥,devoiced voiced alveolar stop consonant,d̥
+BIPA_nth_u207Fu0074u02B0,ⁿtʰ,pre-nasalized aspirated voiceless alveolar stop consonant,ⁿtʰ
+BIPA_kw_u006Bu2019u02B7,k’ʷ,labialized voiceless velar ejective stop consonant,kʼʷ
+BIPA_ua_u0264u0061,ɤa,from unrounded close-mid back to unrounded open front diphthong,ɤa
+UNK_wei_u0077u025Bu0069u032F,wɛi̯,,
+BIPA_w_u0270,ɰ,voiced velar approximant consonant,ɰ
+BIPA_i_u0069u031Eu02D0,i̞ː,long lowered unrounded close front vowel,i̞ː
+BIPA_tlhw_u0074u026Cu02B0u02B7,tɬʰʷ,labialized aspirated voiceless alveolar lateral affricate consonant,tɬʷʰ
+BIPA_n_u0273,ɳ,voiced retroflex nasal consonant,ɳ
+BIPA_thwj_u0074u032Au02B0u02B7u02B2,t̪ʰʷʲ,palatalized labialized aspirated voiceless dental stop consonant,t̪ʲʷʰ
+BIPA_sh_u0283u02B0,ʃʰ,aspirated voiceless post-alveolar sibilant fricative consonant,ʃʰ
+BIPA_or_u0254u02DE,ɔ˞,rhotacized rounded open-mid back vowel,ɔ˞
+BIPA_y_u0265u02E4,ɥˤ,pharyngealized voiced labio-palatal approximant consonant,ɥˤ
+BIPA_v_u0076,v,voiced labio-dental fricative consonant,v
+BIPA_n_u006Eu032A,n̪,voiced dental nasal consonant,n̪
+BIPA_tshwj_u0074u032Au0073u032Au02B0u02B7u02B2,t̪s̪ʰʷʲ,palatalized labialized aspirated voiceless dental affricate consonant,tθʲʷʰ
+BIPA_e_u1EBDu031Eu02D0,ẽ̞ː,long nasalized unrounded mid front vowel,ẽ̞ː
+BIPA_ue_u0289u025Eu0320,ʉɞ̠,from rounded close central to retracted rounded open-mid central diphthong,ʉɞ̠
+BIPA_i_u0259u0129,əĩ,from unrounded mid central to nasalized unrounded close front diphthong,əĩ
+BIPA__u028Cu0303,ʌ̃,nasalized unrounded open-mid back vowel,ʌ̃
+BIPA_t_u0074u032Au02BC,t̪ʼ,voiceless dental ejective stop consonant,t̪ʼ
+BIPA_i_u0069u02E4,iˤ,pharyngealized unrounded close front vowel,iˤ
+BIPA_j_u006Au02D0u02D0,jːː,long voiced palatal approximant consonant,jː
+BIPA_n_u006Eu033A,n̺,voiced apical alveolar nasal consonant,n̺
+UNK_iou_u0069u006Fu0075,iou,,
+BIPA_t_u0074u0320,t̠,voiceless post-alveolar stop consonant,t̠
+BIPA_y_u0079u0259,yə,from rounded close front to unrounded mid central diphthong,yə
+BIPA_r_u0072u033Au0325,r̺̥,devoiced voiced apical alveolar trill consonant,r̺̥
+BIPA_dz_u0064u007A,dz,voiced alveolar sibilant affricate consonant,dz
+BIPA_dh_u0256u02B0,ɖʰ,aspirated voiced retroflex stop consonant,ɖʰ
+BIPA_c_u0255u02D0,ɕː,long voiceless alveolo-palatal sibilant fricative consonant,ɕː
+BIPA_ie_u0069u1EBD,iẽ,from unrounded close front to nasalized unrounded close-mid front diphthong,iẽ
+BIPA_dj_u0256u02B2,ɖʲ,palatalized voiced retroflex stop consonant,ɖʲ
+BIPA_i_u0129,ĩ,nasalized unrounded close front vowel,ĩ
+BIPA_f_u0278,ɸ,voiceless bilabial fricative consonant,ɸ
+BIPA_z_u007Au032Au033B,z̪̻,voiced laminal dental sibilant fricative consonant,z̪̻
+UNK_xk_u0078u006B,xk,,
+BIPA_cch_u0063u00E7u02B0,cçʰ,aspirated voiceless palatal affricate consonant,cçʰ
+BIPA_lg_u026Cu02E0,ɬˠ,velarized voiceless alveolar lateral fricative consonant,ɬˠ
+BIPA_tsw_u0288u0282u02B7,ʈʂʷ,labialized voiceless retroflex sibilant affricate consonant,ʈʂʷ
+BIPA_iae_u0069u00E6u0303,iæ̃,from unrounded close front to nasalized unrounded near-open front diphthong,iæ̃
+BIPA_qj_u0071u02B2u02BC,qʲʼ,palatalized voiceless uvular ejective stop consonant,q’ʲ
+BIPA_o_u006Fu02E4,oˤ,pharyngealized rounded close-mid back vowel,oˤ
+BIPA_htsj_u02B0u0074u0073u02B2,ʰtsʲ,from pre-aspirated voiceless alveolar stop to palatalized voiceless alveolar sibilant fricative cluster,ʰtsʲ
+BIPA_dz_u0064u033Au007Au033A,d̺z̺,from voiced apical alveolar stop to voiced apical alveolar sibilant fricative cluster,d̺z̺
+BIPA_nxh_u207Fu0078u02B0,ⁿxʰ,pre-nasalized aspirated voiceless velar fricative consonant,ⁿxʰ
+BIPA_c_u0255u2019,ɕ’,voiceless alveolo-palatal ejective sibilant fricative consonant,ɕ’
+UNK_zw_u1E91u02B7,ẑʷ,,
+BIPA_oe_u0153u0330u02D0,œ̰ː,long creaky rounded open-mid front vowel,œ̰ː
+BIPA_sw_u0283u02D0u02B7,ʃːʷ,labialized long voiceless post-alveolar sibilant fricative consonant,ʃʷː
+BIPA_i_u0268u0259,ɨə,from unrounded close central to unrounded mid central diphthong,ɨə
+BIPA_o_u0275u031Fu02D0,ɵ̟ː,long advanced rounded close-mid central vowel,ɵː̟
+BIPA_fj_u0066u02B2u02D0,fʲː,palatalized long voiceless labio-dental fricative consonant,fʲː
+BIPA_gh_u0067u02B1,gʱ,breathy voiced velar stop consonant,gʱ
+BIPA__u0259u0306,ə̆,ultra-short unrounded mid central vowel,ə̆
+BIPA_hp_u02B0u0070u02D0,ʰpː,pre-aspirated long voiceless bilabial stop consonant,ʰpː
+BIPA_uu_u0075u0320u0075,u̠u,from retracted rounded close back to rounded close back diphthong,u̠u
+BIPA_v_u028B,ʋ,voiced labio-dental approximant consonant,ʋ
+BIPA_i_u026Au0303u02D0,ɪ̃ː,long nasalized unrounded near-close near-front vowel,ɪ̃ː
+BIPA_ou_u006Fu028Au0303,oʊ̃,from rounded close-mid back to nasalized rounded near-close near-back diphthong,oʊ̃
+UNK_w_u0077u031C,w̜,,
+BIPA_e_u0065u0324,e̤,breathy unrounded close-mid front vowel,e̤
+BIPA_ntj_u207Fu0074u02B2,ⁿtʲ,pre-nasalized palatalized voiceless alveolar stop consonant,ⁿtʲ
+BIPA__u02A1,ʡ,voiceless epiglottal stop consonant,ʡ
+BIPA_i_u0268u031Eu0303u02D0,ɨ̞̃ː,long lowered nasalized unrounded close central vowel,ɨ̞̃ː
+BIPA_t_u0074u032Au02E4,t̪ˤ,pharyngealized voiceless dental stop consonant,t̪ˤ
+BIPA_bj_u0062u02B2,bʲ,palatalized voiced bilabial stop consonant,bʲ
+BIPA_z_u0292,ʒ,voiced post-alveolar sibilant fricative consonant,ʒ
+BIPA_ey_u0258u0079,ɘy,from unrounded close-mid central to rounded close front diphthong,ɘy
+BIPA_rj_u0072u033Au02B2,r̺ʲ,palatalized voiced apical alveolar trill consonant,r̺ʲ
+BIPA_ng_u014Bu030A,ŋ̊,devoiced voiced velar nasal consonant,ŋ̊
+BIPA_oe_u0254u0065,ɔe,from rounded open-mid back to unrounded close-mid front diphthong,ɔe
+BIPA_o_u006F,o,rounded close-mid back vowel,o
+BIPA_hkj_u02B0u006Bu02B2,ʰkʲ,pre-aspirated palatalized voiceless velar stop consonant,ʰkʲ
+BIPA_e_u025Eu0330,ɞ̰,creaky rounded open-mid central vowel,ɞ̰
+BIPA__u0259u031Fu0306,ə̟̆,ultra-short advanced unrounded mid central vowel,ə̟̆
+UNK_aw_u0061u0077,aw,,
+BIPA_kj_u006Bu02B2u02BC,kʲʼ,palatalized voiceless velar ejective stop consonant,k’ʲ
+BIPA_ar_u0061u02DEu02E4,a˞ˤ,rhotacized pharyngealized unrounded open front vowel,a˞ˤ
+BIPA_d_u0064u033A,d̺,voiced apical alveolar stop consonant,d̺
+BIPA_t_u0074u032Au2019,t̪’,voiceless dental ejective stop consonant,t̪ʼ
+BIPA_z_u0292u02E4,ʒˤ,pharyngealized voiced post-alveolar sibilant fricative consonant,ʒˤ
+UNK_ej_u0065u006A,ej,,
+BIPA_r_u0072u02E4,rˤ,pharyngealized voiced alveolar trill consonant,rˤ
+BIPA_u_u028Au031C,ʊ̜,less-rounded rounded near-close near-back vowel,ʊ̜
+BIPA_s_u0285,ʅ,unrounded close with-frication central vowel,ʅ
+BIPA_o_u0275u031F,ɵ̟,advanced rounded close-mid central vowel,ɵ̟
+UNK_dz_u0064u1E91,dẑ,,
+BIPA_u_u0264u031E,ɤ̞,unrounded mid back vowel,ɤ̞
+BIPA_e_u025Cu02D0,ɜː,long unrounded open-mid central vowel,ɜː
+BIPA_e_u0065u0324u02D0,e̤ː,long breathy unrounded close-mid front vowel,e̤ː
+BIPA_ea_u0065u032Fu00E4,e̯ä,from non-syllabic unrounded close-mid front to centralized unrounded open front diphthong,e̯ä
+BIPA_y_u0079u0330u02D0,y̰ː,long creaky rounded close front vowel,y̰ː
+BIPA_th_u0074u032Au02B0u02E4,t̪ʰˤ,aspirated pharyngealized voiceless dental stop consonant,t̪ʰˤ
+BIPA_rj_u0072u02B2u02D0,rʲː,palatalized long voiced alveolar trill consonant,rʲː
+BIPA_tsh_u0074u0283u02B0,tʃʰ,aspirated voiceless post-alveolar sibilant affricate consonant,tʃʰ
+BIPA_ht_u02B0u0288,ʰʈ,pre-aspirated voiceless retroflex stop consonant,ʰʈ
+BIPA_uu_u0289u0075,ʉu,from rounded close central to rounded close back diphthong,ʉu
+BIPA_io_u0069u0254,iɔ,from unrounded close front to rounded open-mid back diphthong,iɔ
+UNK_uei_u0075u0065u0069,uei,,
+BIPA_ui_u0075u02D0u0069,uːi,from long rounded close back to unrounded close front diphthong,uːi
+BIPA__u028Cu0324,ʌ̤,breathy unrounded open-mid back vowel,ʌ̤
+BIPA_uo_u0075u006Fu02D0,uoː,from rounded close back to long rounded close-mid back diphthong,uoː
+UNK_jei_u006Au0065u0069u032F,jei̯,,
+UNK_rj_u027Eu032Au02B2,ɾ̪ʲ,,
+BIPA_oe_u0153,œ,rounded open-mid front vowel,œ
+BIPA_z_u0290u033B,ʐ̻,voiced laminal retroflex sibilant fricative consonant,ʐ̻
+BIPA_ts_u0074u0283,tʃ,voiceless post-alveolar sibilant affricate consonant,tʃ
+BIPA_uo_u0075u032Fu00F5,u̯õ,from non-syllabic rounded close back to nasalized rounded close-mid back diphthong,u̯õ
+BIPA_dzj_u0064u0325u007Au0325u02B2,d̥z̥ʲ,from devoiced voiced alveolar stop to palatalized devoiced voiced alveolar sibilant fricative cluster,d̥z̥ʲ
+BIPA_a_u0250u0303,ɐ̃,nasalized unrounded near-open central vowel,ɐ̃
+BIPA_yae_u0079u00E6,yæ,from rounded close front to unrounded near-open front diphthong,yæ
+BIPA_wo_u026Fu006F,ɯo,from unrounded close back to rounded close-mid back diphthong,ɯo
+BIPA_ei_u025Bu0069u032F,ɛi̯,from unrounded open-mid front to non-syllabic unrounded close front diphthong,ɛi̯
+BIPA_ts_u0074u0073u02D0,tsː,long voiceless alveolar sibilant affricate consonant,tsː
+BIPA_ts_u0288u0282,ʈʂ,voiceless retroflex sibilant affricate consonant,ʈʂ
+UNK_ji_u006Au0069,ji,,
+BIPA_w_u026Fu0303,ɯ̃,nasalized unrounded close back vowel,ɯ̃
+UNK_tsw_u0074u015Du02B7,tŝʷ,,
+UNK_n_u02BCu006E,ʼn,,
+BIPA_au_u00E3u0169,ãũ,from nasalized unrounded open front to nasalized rounded close back diphthong,ãũ
+BIPA_w_u0077u0325,w̥,devoiced voiced labio-velar approximant consonant,w̥
+BIPA_r_u02C0u0072,ˀr,pre-glottalized voiced alveolar trill consonant,ˀr
+BIPA_uoe_u0075u0153,uœ,from rounded close back to rounded open-mid front diphthong,uœ
+BIPA_eu_u0065u0075,eu,from unrounded close-mid front to rounded close back diphthong,eu
+BIPA_qj_u0071u02B2,qʲ,palatalized voiceless uvular stop consonant,qʲ
+BIPA_ar_u0061u02DEu02D0,a˞ː,long rhotacized unrounded open front vowel,a˞ː
+BIPA_f_u0066u02D0,fː,long voiceless labio-dental fricative consonant,fː
+UNK_j_u028Cu006A,ʌj,,
+BIPA_a_u0061u0259,aə,from unrounded open front to unrounded mid central diphthong,aə
+BIPA_tj_u0074u02B2u02D0,tʲː,palatalized long voiceless alveolar stop consonant,tʲː
+BIPA_b_u03B2u02D0,βː,long voiced bilabial fricative consonant,βː
+BIPA_oe_u0153u0303u02D0,œ̃ː,long nasalized rounded open-mid front vowel,œ̃ː
+BIPA_o_u006Fu02D0u02D0,oːː,ultra-long rounded close-mid back vowel,oːː
+BIPA_kh_u03C7,χ,voiceless uvular fricative consonant,χ
+BIPA_qkhh_u0071u03C7u02B0,qχʰ,aspirated voiceless uvular affricate consonant,qχʰ
+BIPA_n_u006Eu033B,n̻,voiced laminal alveolar nasal consonant,n̻
+BIPA_r_u027Eu033A,ɾ̺,voiced apical alveolar tap consonant,ɾ̺
+UNK_waei_u0077u00E6u0069,wæi,,
+BIPA_rg_u027Fu02E0,ɿˠ,velarized unrounded close with-frication back vowel,ɿˠ
+BIPA_o_u006Fu0324,o̤,breathy rounded close-mid back vowel,o̤
+BIPA_e_u025C,ɜ,unrounded open-mid central vowel,ɜ
+BIPA_j_u006Au02D0,jː,long voiced palatal approximant consonant,jː
+BIPA_wr_u02B7u0072,ʷr,pre-labialized voiced alveolar trill consonant,ʷr
+BIPA_w_u026Fu0303u02D0,ɯ̃ː,long nasalized unrounded close back vowel,ɯ̃ː
+UNK_jo_u006Au006Fu02D0,joː,,
+BIPA_f_u0066u02BC,fʼ,voiceless labio-dental ejective fricative consonant,fʼ
+BIPA_ao_u00E3u00F5,ãõ,from nasalized unrounded open front to nasalized rounded close-mid back diphthong,ãõ
+BIPA_z_u0292u0329,ʒ̩,syllabic voiced post-alveolar sibilant fricative consonant,ʒ̍
+BIPA_pw_u0070u02BCu02B7,pʼʷ,labialized voiceless bilabial ejective stop consonant,p’ʷ
+UNK_rg_u027Eu032Au02E0,ɾ̪ˠ,,
+BIPA_qw_u0071u2019u02B7,q’ʷ,labialized voiceless uvular ejective stop consonant,qʼʷ
+UNK_r_u027Eu032A,ɾ̪,,
+BIPA_ia_u0268u0061,ɨa,from unrounded close central to unrounded open front diphthong,ɨa
+BIPA_l_u006Cu02E4,lˤ,pharyngealized voiced alveolar lateral approximant consonant,lˤ
+BIPA_hj_u0127u0303u02B2,ħ̃ʲ,nasalized palatalized voiceless pharyngeal fricative consonant,ħ̃ʲ
+BIPA_dz_u0064u0292,dʒ,voiced post-alveolar sibilant affricate consonant,dʒ
+BIPA_p_u0070,p,voiceless bilabial stop consonant,p
+BIPA_nb_u207Fu0062,ⁿb,pre-nasalized voiced bilabial stop consonant,ⁿb
+BIPA_e_u025Bu02E4,ɛˤ,pharyngealized unrounded open-mid front vowel,ɛˤ
+BIPA_tj_u0074u032Au02BCu02B2,t̪ʼʲ,palatalized voiceless dental ejective stop consonant,t̪’ʲ
+BIPA_lw_u026Cu02B7,ɬʷ,labialized voiceless alveolar lateral fricative consonant,ɬʷ
+BIPA_n_u006Eu0325,n̥,devoiced voiced alveolar nasal consonant,n̥
+BIPA_a_u0251u02D0u02D0,ɑːː,long unrounded open back vowel,ɑː
+BIPA_thw_u0074u032Au02B0u02B7,t̪ʰʷ,labialized aspirated voiceless dental stop consonant,t̪ʷʰ
+BIPA_oy_u0254u028F,ɔʏ,from rounded open-mid back to rounded near-close near-front diphthong,ɔʏ
+BIPA_w_u0077,w,voiced labio-velar approximant consonant,w
+BIPA_i_u026Au031E,ɪ̞,lowered unrounded near-close near-front vowel,ɪ̞
+BIPA_tsj_u0074u0073u02B2u02D0,tsʲː,palatalized long voiceless alveolar sibilant affricate consonant,tsʲː
+BIPA_gr_u0262u0281,ɢʁ,voiced uvular affricate consonant,ɢʁ
+UNK_jae_u006Au00E6,jæ,,
+BIPA_i_u0259u0069,əi,from unrounded mid central to unrounded close front diphthong,əi
+BIPA_e_u0065u02D0u02D0,eːː,ultra-long unrounded close-mid front vowel,eːː
+BIPA_i_u0069u031E,i̞,lowered unrounded close front vowel,i̞
+BIPA_o_u0254u0324u0303u02D0,ɔ̤̃ː,long nasalized breathy rounded open-mid back vowel,ɔ̤̃ː
+BIPA_u_u0289u0303u02D0,ʉ̃ː,long nasalized rounded close central vowel,ʉ̃ː
+BIPA_aei_u00E6u026Au032F,æɪ̯,from unrounded near-open front to non-syllabic unrounded near-close near-front diphthong,æɪ̯
+BIPA_u_u0075u02D0,uː,long rounded close back vowel,uː
+BIPA_kw_u006Bu02BCu02D0u02B7,kʼːʷ,labialized long voiceless velar ejective stop consonant,k’ʷː
+BIPA_i_u026A,ɪ,unrounded near-close near-front vowel,ɪ
+UNK_uj_u0075u006A,uj,,
+BIPA_oi_u00F8u0069,øi,from rounded close-mid front to unrounded close front diphthong,øi
+BIPA_g_u0067u030A,g̊,devoiced voiced velar stop consonant,g̊
+BIPA_g_u0067u030Au02D0,g̊ː,long devoiced voiced velar stop consonant,g̥ː
+BIPA_sj_u0073u02B2,sʲ,palatalized voiceless alveolar sibilant fricative consonant,sʲ
+BIPA_r_u027D,ɽ,voiced retroflex tap consonant,ɽ
+BIPA_tsh_u0074u0283u033Au02B0,tʃ̺ʰ,aspirated voiceless apical post-alveolar sibilant affricate consonant,tʃ̺ʰ
+UNK_ts_u0074u033Bu0073u033Bu032A,t̻s̻̪,,
+BIPA_b_u0062,b,voiced bilabial stop consonant,b
+BIPA_ts_u0074u032Au0073,t̪s,from voiceless dental stop to voiceless alveolar sibilant fricative cluster,t̪s
+BIPA__u028Cu02E4u02D0,ʌˤː,long pharyngealized unrounded open-mid back vowel,ʌˤː
+BIPA_k_u006Bu2019,k’,voiceless velar ejective stop consonant,kʼ
+BIPA_mj_u006Du0325u02B2u02D0,m̥ʲː,palatalized long devoiced voiced bilabial nasal consonant,m̥ʲː
+BIPA_nts_u207Fu0074u0283,ⁿtʃ,pre-nasalized voiceless post-alveolar sibilant affricate consonant,ⁿtʃ
+BIPA_dh_u0064u032Au02B0,d̪ʰ,aspirated voiced dental stop consonant,d̪ʰ
+BIPA_wz_u02B7u0290,ʷʐ,pre-labialized voiced retroflex sibilant fricative consonant,ʷʐ
+BIPA_bh_u0062u0324u02B1,b̤ʱ,breathy voiced bilabial stop consonant,bʱ
+BIPA_ts_u0074u0073u02D0u02BC,tsːʼ,long voiceless alveolar ejective sibilant affricate consonant,ts’ː
+BIPA_bj_u03B2u02B2u02D0,βʲː,palatalized long voiced bilabial fricative consonant,βʲː
+BIPA_o_u006Fu031Eu031C,o̞̜,less-rounded rounded mid back vowel,o̞̜
+UNK_wei_u0077u0065u0069,wei,,
+BIPA_au_u0250u028A,ɐʊ,from unrounded near-open central to rounded near-close near-back diphthong,ɐʊ
+BIPA_s_u0073u0320,s̠,retracted voiceless alveolar sibilant fricative consonant,s̠
+BIPA_g_u0262u0325,ɢ̥,devoiced voiced uvular stop consonant,ɢ̥
+UNK_tsw_u0074u015Du02B7u02BC,tŝʷʼ,,
+BIPA_r_u0259u02DE,ə˞,rhotacized unrounded mid central vowel,ə˞
+BIPA_tj_u0074u0320u02B2,t̠ʲ,palatalized voiceless post-alveolar stop consonant,t̠ʲ
+UNK_hm_u02B1u006D,ʱm,,
+BIPA_ai_u0250u0303u0069,ɐ̃i,from nasalized unrounded near-open central to unrounded close front diphthong,ɐ̃i
+BIPA_tsw_u0074u0283u02BCu02B7,tʃʼʷ,labialized voiceless post-alveolar ejective sibilant affricate consonant,tʃ’ʷ
+BIPA_tsw_u0074u032Au0073u032Au02B7,t̪s̪ʷ,labialized voiceless dental sibilant affricate consonant,ts̪ʷ
+BIPA_eu_u025Bu0075,ɛu,from unrounded open-mid front to rounded close back diphthong,ɛu
+BIPA_th_u03B8,θ,voiceless dental fricative consonant,θ
+BIPA_u_u0264u0324u02D0,ɤ̤ː,long breathy unrounded close-mid back vowel,ɤ̤ː
+BIPA_lj_u006Cu02B2u02D0u02D0,lʲːː,palatalized long voiced alveolar lateral approximant consonant,lʲː
+BIPA_m_u006Du0325u02D0,m̥ː,long devoiced voiced bilabial nasal consonant,m̥ː
+BIPA_ou_u006Fu02D0u0075u032F,oːu̯,from long rounded close-mid back to non-syllabic rounded close back diphthong,oːu̯
+BIPA_y_u0259u0079,əy,from unrounded mid central to rounded close front diphthong,əy
+BIPA_a_u0251u0306,ɑ̆,ultra-short unrounded open back vowel,ɑ̆
+BIPA_eu_u025Bu0075u032F,ɛu̯,from unrounded open-mid front to non-syllabic rounded close back diphthong,ɛu̯
+BIPA_wz_u02B7u0291,ʷʑ,pre-labialized voiced alveolo-palatal sibilant fricative consonant,ʷʑ
+BIPA_ts_u0074u0283u02D0u02BC,tʃːʼ,long voiceless post-alveolar ejective sibilant affricate consonant,tʃ’ː
+BIPA_u_u0075u02D0u028C,uːʌ,from long rounded close back to unrounded open-mid back diphthong,uːʌ
+BIPA_ndz_u207Fu0064u0291,ⁿdʑ,from pre-nasalized voiced alveolar stop to voiced alveolo-palatal sibilant fricative cluster,ⁿdʑ
+BIPA_ie_u0069u0258,iɘ,from unrounded close front to unrounded close-mid central diphthong,iɘ
+BIPA_khwj_u006Bu02B0u02B7u02B2,kʰʷʲ,palatalized labialized aspirated voiceless velar stop consonant,kʲʷʰ
+UNK_wi_u0077u0069,wi,,
+BIPA_j_u02C0u006A,ˀj,pre-glottalized voiced palatal approximant consonant,ˀj
+BIPA_ue_u0075u02D0u0065,uːe,from long rounded close back to unrounded close-mid front diphthong,uːe
+UNK_d_u02BCu0064,ʼd,,
+BIPA_aei_u00E6u0069,æi,from unrounded near-open front to unrounded close front diphthong,æi
+BIPA_uo_u0075u006F,uo,from rounded close back to rounded close-mid back diphthong,uo
+UNK_hg_u02B1u0261,ʱɡ,,
+BIPA_qhw_u0071u02B0u02B7,qʰʷ,labialized aspirated voiceless uvular stop consonant,qʷʰ
+BIPA_i_u0268u031Eu02D0,ɨ̞ː,long lowered unrounded close central vowel,ɨ̞ː
+BIPA_ae_u00E3u025Bu0303,ãɛ̃,from nasalized unrounded open front to nasalized unrounded open-mid front diphthong,ãɛ̃
+BIPA_x_u0078u02D0,xː,long voiceless velar fricative consonant,xː
+BIPA_qj_u0071u02BCu02B2,qʼʲ,palatalized voiceless uvular ejective stop consonant,q’ʲ
+BIPA_o_u0254,ɔ,rounded open-mid back vowel,ɔ
+BIPA_l_u026Cu02D0,ɬː,long voiceless alveolar lateral fricative consonant,ɬː
+BIPA_ui_u028Au0308u0069,ʊ̈i,from rounded near-close central to unrounded close front diphthong,ʊ̈i
+BIPA_wu_u026Fu032Fu0264u031E,ɯ̯ɤ̞,from non-syllabic unrounded close back to unrounded mid back diphthong,ɯ̯ɤ̞
+BIPA_e_u0258u02D0,ɘː,long unrounded close-mid central vowel,ɘː
+BIPA_dh_u0064u033Au02B1,d̺ʱ,breathy voiced apical alveolar stop consonant,d̺ʱ
+BIPA_pj_u0070u02B2,pʲ,palatalized voiceless bilabial stop consonant,pʲ
+BIPA_u_u0264u02D1,ɤˑ,mid-long unrounded close-mid back vowel,ɤˑ
+BIPA_lzj_u026Eu02B2,ɮʲ,palatalized voiced alveolar lateral fricative consonant,ɮʲ
+BIPA_r_u0072u032A,r̪,voiced dental trill consonant,r̪
+BIPA_bh_u0062u02B1,bʱ,breathy voiced bilabial stop consonant,bʱ
+BIPA_lz_u026E,ɮ,voiced alveolar lateral fricative consonant,ɮ
+BIPA_ts_u0074u0073,ts,voiceless alveolar sibilant affricate consonant,ts
+BIPA_nts_u207Fu0074u0073,ⁿts,from pre-nasalized voiceless alveolar stop to voiceless alveolar sibilant fricative cluster,ⁿts
+UNK_ng_u02BCu014B,ʼŋ,,
+BIPA_qw_u0071u02B7u02BC,qʷʼ,labialized voiceless uvular ejective stop consonant,qʼʷ
+BIPA_q_u0071u033A,q̺,voiceless apical uvular stop consonant,q̺
+BIPA_qw_u0071u02B7,qʷ,labialized voiceless uvular stop consonant,qʷ
+BIPA_n_u006Eu02E4,nˤ,pharyngealized voiced alveolar nasal consonant,nˤ
+BIPA_tsj_u0074u032Au0073u032Au02B2,t̪s̪ʲ,palatalized voiceless dental sibilant affricate consonant,ts̪ʲ
+BIPA_dz_u0256u0290,ɖʐ,voiced retroflex sibilant affricate consonant,ɖʐ
+BIPA_n_u0274,ɴ,voiced uvular nasal consonant,ɴ
+BIPA_o_u0254u031Fu031Cu0330,ɔ̟̜̰,advanced less-rounded creaky rounded open-mid back vowel,ɔ̜̰̟
+BIPA_aeu_u00E6u0075u032F,æu̯,from unrounded near-open front to non-syllabic rounded close back diphthong,æu̯
+BIPA_ei_u025Bu0324u0069u0324,ɛ̤i̤,from breathy unrounded open-mid front to breathy unrounded close front diphthong,ɛ̤i̤
+BIPA_w_u026Fu0324u02D0,ɯ̤ː,long breathy unrounded close back vowel,ɯ̤ː
+BIPA_nj_u006Eu0320u02B2,n̠ʲ,retracted palatalized voiced alveolar nasal consonant,n̠ʲ
+BIPA_cc_u0063u00E7u02D0,cçː,long voiceless palatal affricate consonant,cçː
+BIPA_pj_u0070u02B2u02D0,pʲː,palatalized long voiceless bilabial stop consonant,pʲː
+UNK_hz_u02B1u0290,ʱʐ,,
+UNK_s_u02BCu0283,ʼʃ,,
+BIPA_thj_u0074u02B0u02B2,tʰʲ,palatalized aspirated voiceless alveolar stop consonant,tʲʰ
+BIPA_nj_u207Fu025F,ⁿɟ,pre-nasalized voiced palatal stop consonant,ⁿɟ
+UNK_aj_u0251u006A,ɑj,,
+BIPA_s_u0073u033A,s̺,voiceless apical alveolar sibilant fricative consonant,s̺
+BIPA_eae_u025Bu032Fu00E6u02D0,ɛ̯æː,from non-syllabic unrounded open-mid front to long unrounded near-open front diphthong,ɛ̯æː
+BIPA_nh_u006Eu032Au02B0,n̪ʰ,aspirated voiced dental nasal consonant,n̪ʰ
+BIPA_rj_u027Eu0325u02B2,ɾ̥ʲ,palatalized devoiced voiced alveolar tap consonant,ɾ̥ʲ
+UNK_ow_u0254u0077,ɔw,,
+BIPA_oe_u0153u0303,œ̃,nasalized rounded open-mid front vowel,œ̃
+BIPA_yo_u0079u006F,yo,from rounded close front to rounded close-mid back diphthong,yo
+BIPA_r_u027Du030A,ɽ̊,devoiced voiced retroflex tap consonant,ɽ̥
+BIPA_kwj_u006Bu02BCu02B7u02B2,kʼʷʲ,palatalized labialized voiceless velar ejective stop consonant,k’ʲʷ
+BIPA_s_u0073u02D0u02D0,sːː,long voiceless alveolar sibilant fricative consonant,sː
+BIPA_l_u006Cu02D0,lː,long voiced alveolar lateral approximant consonant,lː
+BIPA_tsw_u0074u032Au0073u032Au02BCu02B7,t̪s̪ʼʷ,labialized voiceless dental ejective sibilant affricate consonant,ts̪’ʷ
+BIPA_j_u006Au02C0,jˀ,glottalized voiced palatal approximant consonant,jˀ
+BIPA_lj_u006Cu0325u02B2,l̥ʲ,palatalized devoiced voiced alveolar lateral approximant consonant,l̥ʲ
+BIPA_ie_u0069u032Fu025B,i̯ɛ,from non-syllabic unrounded close front to unrounded open-mid front diphthong,i̯ɛ
+BIPA_l_u006Cu032Au030A,l̪̊,devoiced voiced dental lateral approximant consonant,l̪̥
+BIPA_oi_u006Fu0069,oi,from rounded close-mid back to unrounded close front diphthong,oi
+BIPA_t_u0074u02E4,tˤ,pharyngealized voiceless alveolar stop consonant,tˤ
+BIPA_oy_u00F8u02D0u0079u032F,øːy̯,from long rounded close-mid front to non-syllabic rounded close front diphthong,øːy̯
+BIPA_ntch_u207Fu0074u0255u02B0,ⁿtɕʰ,from pre-nasalized voiceless alveolar stop to aspirated voiceless alveolo-palatal sibilant fricative cluster,ⁿtɕʰ
+BIPA_u_u0259u0303u0169,ə̃ũ,from nasalized unrounded mid central to nasalized rounded close back diphthong,ə̃ũ
+BIPA_v_u0076u02D0,vː,long voiced labio-dental fricative consonant,vː
+BIPA_r_u027Bu02E4,ɻˤ,pharyngealized voiced retroflex approximant consonant,ɻˤ
+BIPA_hwk_u02B0u02B7u006B,ʰʷk,pre-labialized voiceless velar stop consonant,ʷk
+UNK_gr_u0067u02DE,g˞,,
+BIPA_rj_u0072u0325u02B2u02D0,r̥ʲː,palatalized long devoiced voiced alveolar trill consonant,r̥ʲː
+BIPA_eu_u0065u031Eu0075u032F,e̞u̯,from unrounded mid front to non-syllabic rounded close back diphthong,e̞u̯
+BIPA_ai_u0061u0069,ai,from unrounded open front to unrounded close front diphthong,ai
+BIPA_u_u028Au02D0,ʊː,long rounded near-close near-back vowel,ʊː
+BIPA_oi_u0254u026A,ɔɪ,from rounded open-mid back to unrounded near-close near-front diphthong,ɔɪ
+BIPA_ua_u0264u0251,ɤɑ,from unrounded close-mid back to unrounded open back diphthong,ɤɑ
+BIPA_e_u0258u031F,ɘ̟,advanced unrounded close-mid central vowel,ɘ̟
+BIPA_tl_u0074u026Cu02BCu02D0,tɬʼː,long voiceless alveolar ejective lateral affricate consonant,tɬ’ː
+BIPA_ue_u0075u025Bu0303,uɛ̃,from rounded close back to nasalized unrounded open-mid front diphthong,uɛ̃
+BIPA_ya_u0079u0251,yɑ,from rounded close front to unrounded open back diphthong,yɑ
+BIPA_dz_u0256u033Bu0290u033B,ɖ̻ʐ̻,from voiced laminal retroflex stop to voiced laminal retroflex sibilant fricative cluster,ɖ̻ʐ̻
+BIPA_tg_u0074u032Au02E0,t̪ˠ,velarized voiceless dental stop consonant,t̪ˠ
+BIPA_kj_u006Bu02B2,kʲ,palatalized voiceless velar stop consonant,kʲ
+BIPA_zj_u007Au02B2u02D0,zʲː,palatalized long voiced alveolar sibilant fricative consonant,zʲː
+BIPA__u02A1u02E4,ʡˤ,pharyngealized voiceless epiglottal stop consonant,ʡˤ
+BIPA_j_u029Du031E,ʝ̞,lowered voiced palatal fricative consonant,ʝ̞
+BIPA_i_u026Au0330,ɪ̰,creaky unrounded near-close near-front vowel,ɪ̰
+BIPA_t_u0074u032Au02BCu02E4,t̪ʼˤ,pharyngealized voiceless dental ejective stop consonant,t̪’ˤ
+BIPA_ts_u0074u033Bu0283u033B,t̻ʃ̻,from voiceless laminal alveolar stop to voiceless laminal post-alveolar sibilant fricative cluster,t̻ʃ̻
+UNK_aw_u0061u0270,aɰ,,
+BIPA_nh_u006Eu02B1,nʱ,breathy voiced alveolar nasal consonant,nʱ
+BIPA_ie_u0069u0065u031E,ie̞,from unrounded close front to unrounded mid front diphthong,ie̞
+BIPA_kx_u006Bu0078,kx,voiceless velar affricate consonant,kx
+BIPA_y_u028E,ʎ,voiced palatal lateral approximant consonant,ʎ
+BIPA_t_u0074u02D0u02D0,tːː,long voiceless alveolar stop consonant,tː
+BIPA_d_u0064u032Au033A,d̪̺,voiced apical dental stop consonant,d̪̺
+BIPA_a_u00E4,ä,centralized unrounded open front vowel,ä
+BIPA_z_u007Au032A,z̪,voiced dental sibilant fricative consonant,z̪
+BIPA_khw_u03C7u02D0u02B7,χːʷ,labialized long voiceless uvular fricative consonant,χʷː
+BIPA_iu_u0069u0075,iu,from unrounded close front to rounded close back diphthong,iu
+BIPA_y_u0079u0259u032F,yə̯,from rounded close front to non-syllabic unrounded mid central diphthong,yə̯
+BIPA__u0259u031Eu0306,ə̞̆,ultra-short lowered unrounded mid central vowel,ə̞̆
+BIPA_a_u0251u0324,ɑ̤,breathy unrounded open back vowel,ɑ̤
+BIPA_ei_u1EBDu026Au0303,ẽɪ̃,from nasalized unrounded close-mid front to nasalized unrounded near-close near-front diphthong,ẽɪ̃
+BIPA_ntc_u207Fu0074u0255,ⁿtɕ,from pre-nasalized voiceless alveolar stop to voiceless alveolo-palatal sibilant fricative cluster,ⁿtɕ
+BIPA_aa_u0251u0252,ɑɒ,from unrounded open back to rounded open back diphthong,ɑɒ
+UNK_jaei_u006Au00E6u0069,jæi,,
+BIPA_s_u0283u2019,ʃ’,voiceless post-alveolar ejective sibilant fricative consonant,ʃʼ
+BIPA_m_u006Du0329,m̩,syllabic voiced bilabial nasal consonant,m̩
+BIPA_aw_u0061u026F,aɯ,from unrounded open front to unrounded close back diphthong,aɯ
+BIPA_w_u0259u0330u026Fu0330,ə̰ɯ̰,from creaky unrounded mid central to creaky unrounded close back diphthong,ə̰ɯ̰
+BIPA_z_u007Au0325,z̥,devoiced voiced alveolar sibilant fricative consonant,z̥
+BIPA_n_u0272,ɲ,voiced palatal nasal consonant,ɲ
+BIPA_e_u025Bu0320u02D0,ɛ̠ː,long retracted unrounded open-mid front vowel,ɛː̠
+BIPA_oa_u006Fu0251,oɑ,from rounded close-mid back to unrounded open back diphthong,oɑ
+BIPA__u0294u02D0,ʔː,long voiceless glottal stop consonant,ʔː
+BIPA_hw_u0068u02B7,hʷ,labialized voiceless glottal fricative consonant,hʷ
+BIPA_bh_u0062u02B0,bʰ,aspirated voiced bilabial stop consonant,bʰ
+BIPA_er_u0258u02DE,ɘ˞,rhotacized unrounded close-mid central vowel,ɘ˞
+BIPA_kw_u006Bu02B7u02BC,kʷʼ,labialized voiceless velar ejective stop consonant,kʼʷ
+BIPA_oa_u0254u0061u02D0,ɔaː,from rounded open-mid back to long unrounded open front diphthong,ɔaː
+BIPA_hw_u029Cu02B7,ʜʷ,labialized voiceless epiglottal fricative consonant,ʜʷ
+BIPA_nj_u006Eu032Au02B2,n̪ʲ,palatalized voiced dental nasal consonant,n̪ʲ
+BIPA_u_u0264u031Fu02D0,ɤ̟ː,long advanced unrounded close-mid back vowel,ɤː̟
+BIPA_tc_u0074u0255u02D0,tɕː,long voiceless alveolo-palatal sibilant affricate consonant,tɕː
+BIPA_oo_u006Fu006Fu032F,oo̯,long non-syllabic rounded close-mid back vowel,o̯ː
+BIPA_qwh_u0071u02B7u02B0,qʷʰ,labialized aspirated voiceless uvular stop consonant,qʷʰ
+BIPA_i_u1E2Du02D0,ḭː,long creaky unrounded close front vowel,ḭː
+UNK_br_u0062u02DE,b˞,,
+BIPA_v_u028Bu0329,ʋ̩,syllabic voiced labio-dental approximant consonant,ʋ̩
+BIPA_u_u0169u02D0,ũː,long nasalized rounded close back vowel,ũː
+BIPA_o_u0254u031Cu0303u02D0,ɔ̜̃ː,long less-rounded nasalized rounded open-mid back vowel,ɔ̜̃ː
+UNK_j_u02BCu006A,ʼj,,
+BIPA_l_u026Du0325,ɭ̥,devoiced voiced retroflex lateral approximant consonant,ɭ̥
+BIPA_d_u0064u02D0,dː,long voiced alveolar stop consonant,dː
+BIPA_ch_u00E7u02B0,çʰ,aspirated voiceless palatal sibilant fricative consonant,çʰ
+BIPA_dh_u0256u0324u02B1,ɖ̤ʱ,breathy voiced retroflex stop consonant,ɖʱ
+BIPA_zw_u0292u02B7,ʒʷ,labialized voiced post-alveolar sibilant fricative consonant,ʒʷ
+BIPA_tswj_u0074u032Au0073u032Au02BCu02B7u02B2,t̪s̪ʼʷʲ,palatalized labialized voiceless dental ejective sibilant affricate consonant,ts̪’ʲʷ
+BIPA_r_u0072u0329,r̩,syllabic voiced alveolar trill consonant,r̩
+BIPA_w_u0294u02BCu02B7,ʔʼʷ,labialized voiceless glottal ejective stop consonant,ʔ’ʷ
+BIPA_zw_u007Au02B7,zʷ,labialized voiced alveolar sibilant fricative consonant,zʷ
+BIPA__u028Cu031F,ʌ̟,advanced unrounded open-mid back vowel,ʌ̟
+BIPA_tl_u0074u026Cu2019,tɬ’,voiceless alveolar ejective lateral affricate consonant,tɬʼ
+BIPA_e_u0258,ɘ,unrounded close-mid central vowel,ɘ
+BIPA_u_u028Au0306,ʊ̆,ultra-short rounded near-close near-back vowel,ʊ̆
+BIPA_o_u0254u02D0u0303,ɔː̃,long nasalized rounded open-mid back vowel,ɔ̃ː
+BIPA_o_u006Fu031E,o̞,rounded mid back vowel,o̞
+UNK_iw_u0069u0077,iw,,
+BIPA_u_u0075u032F,u̯,non-syllabic rounded close back vowel,u̯
+BIPA_oa_u0254u0061,ɔa,from rounded open-mid back to unrounded open front diphthong,ɔa
+BIPA_o_u0254u031Fu031C,ɔ̟̜,advanced less-rounded rounded open-mid back vowel,ɔ̜̟
+BIPA_tsw_u0074u0073u02BCu02B7,tsʼʷ,labialized voiceless alveolar ejective sibilant affricate consonant,ts’ʷ
+BIPA_r_u0279u0325,ɹ̥,devoiced voiced alveolar approximant consonant,ɹ̥
+BIPA_o_u0275u02D0,ɵː,long rounded close-mid central vowel,ɵː
+BIPA_ae_u0061u0065u032F,ae̯,from unrounded open front to non-syllabic unrounded close-mid front diphthong,ae̯
+BIPA_aeo_u00E6u006F,æo,from unrounded near-open front to rounded close-mid back diphthong,æo
+BIPA_th_u0074u0320u02B0,t̠ʰ,aspirated voiceless post-alveolar stop consonant,t̠ʰ
+BIPA_ua_u0075u0250,uɐ,from rounded close back to unrounded near-open central diphthong,uɐ
+BIPA_w_u026Fu0330u033Du02D0,ɯ̰̽ː,long mid-centralized creaky unrounded close back vowel,ɯ̰ː̽
+BIPA_u_u0264u031Fu0339,ɤ̟̹,advanced more-rounded unrounded close-mid back vowel,ɤ̹̟
+BIPA_u_u0289u031Fu02D0,ʉ̟ː,long advanced rounded close central vowel,ʉː̟
+BIPA_dz_u0064u033Au0292u033A,d̺ʒ̺,from voiced apical alveolar stop to voiced apical post-alveolar sibilant fricative cluster,d̺ʒ̺
+BIPA_nh_u006Eu032Au02B1,n̪ʱ,breathy voiced dental nasal consonant,n̪ʱ
+BIPA_e_u025Bu02D1,ɛˑ,mid-long unrounded open-mid front vowel,ɛˑ
+BIPA_ou_u006Fu028A,oʊ,from rounded close-mid back to rounded near-close near-back diphthong,oʊ
+BIPA_s_u0283u02D0u02D0,ʃːː,long voiceless post-alveolar sibilant fricative consonant,ʃː
+BIPA__u0259u0303,ə̃,nasalized unrounded mid central vowel,ə̃
+BIPA_e_u025Bu031Du02D0,ɛ̝ː,long raised unrounded open-mid front vowel,ɛ̝ː
+BIPA_ou_u0254u028Au032F,ɔʊ̯,from rounded open-mid back to non-syllabic rounded near-close near-back diphthong,ɔʊ̯
+BIPA_ai_u0251u0069,ɑi,from unrounded open back to unrounded close front diphthong,ɑi
+BIPA_e_u025Eu0320,ɞ̠,retracted rounded open-mid central vowel,ɞ̠
+BIPA_x_u0078u0320,x̠,retracted voiceless velar fricative consonant,x̠
+BIPA_m_u006D,m,voiced bilabial nasal consonant,m
+BIPA_aee_u00E6u0065,æe,from unrounded near-open front to unrounded close-mid front diphthong,æe
+BIPA_ia_u0268u0061u0320,ɨa̠,from unrounded close central to retracted unrounded open front diphthong,ɨa̠
+BIPA_ai_u0061u026A,aɪ,from unrounded open front to unrounded near-close near-front diphthong,aɪ
+BIPA_nc_u207Fu0063,ⁿc,pre-nasalized voiceless palatal stop consonant,ⁿc
+BIPA_jh_u025Fu02B1,ɟʱ,breathy voiced palatal stop consonant,ɟʱ
+BIPA_o_u00F8u0330,ø̰,creaky rounded close-mid front vowel,ø̰
+BIPA_ts_u0074u0283u2019,tʃ’,voiceless post-alveolar ejective sibilant affricate consonant,tʃʼ
+UNK_wo_u0077u0254,wɔ,,
+BIPA_i_u0268u0339,ɨ̹,more-rounded unrounded close central vowel,ɨ̹
+BIPA_kwh_u006Bu02D0u02B7u02B0,kːʷʰ,labialized aspirated long voiceless velar stop consonant,kʷʰː
+BIPA_s_u0073u033Au02D0,s̺ː,long voiceless apical alveolar sibilant fricative consonant,s̺ː
+BIPA_r_u0281,ʁ,voiced uvular fricative consonant,ʁ
+BIPA_ph_u0070u02D0u02B0,pːʰ,aspirated long voiceless bilabial stop consonant,pʰː
+BIPA_d_u0064,d,voiced alveolar stop consonant,d
+BIPA_a_u0252u0303,ɒ̃,nasalized rounded open back vowel,ɒ̃
+BIPA_o_u006Fu0324u02D0,o̤ː,long breathy rounded close-mid back vowel,o̤ː
+BIPA_kj_u006Bu02BCu02B2,kʼʲ,palatalized voiceless velar ejective stop consonant,k’ʲ
+BIPA_l_u026B,ɫ,velarized voiced alveolar lateral approximant consonant,lˠ
+BIPA_phw_u0070u02B0u02B7,pʰʷ,labialized aspirated voiceless bilabial stop consonant,pʷʰ
+BIPA_ao_u0061u0275u032F,aɵ̯,from unrounded open front to non-syllabic rounded close-mid central diphthong,aɵ̯
+BIPA_ie_u0069u025B,iɛ,from unrounded close front to unrounded open-mid front diphthong,iɛ
+UNK_dzw_u0064u1E91u02B7,dẑʷ,,
+BIPA_ui_u0169u0069,ũi,from nasalized rounded close back to unrounded close front diphthong,ũi
+BIPA_ae_u00E6u02D0u02D0,æːː,ultra-long unrounded near-open front vowel,æːː
+BIPA_tsh_u0074u0073u02B0u02E4,tsʰˤ,aspirated pharyngealized voiceless alveolar sibilant affricate consonant,tsʰˤ
+BIPA_ou_u0254u0075,ɔu,from rounded open-mid back to rounded close back diphthong,ɔu
+BIPA_rh_u027Du02B0,ɽʰ,aspirated voiced retroflex tap consonant,ɽʰ
+BIPA_ai_u0061u0069u032Fu02D0,ai̯ː,from unrounded open front to long non-syllabic unrounded close front diphthong,ai̯ː
+BIPA_s_u0285u0339,ʅ̹,more-rounded unrounded close with-frication central vowel,ʅ̹
+BIPA_rg_u027Eu02E0,ɾˠ,velarized voiced alveolar tap consonant,ɾˠ
+BIPA_kw_u006Bu02BCu02B7,kʼʷ,labialized voiceless velar ejective stop consonant,kʼʷ
+BIPA_wh_u0077u02B0,wʰ,aspirated voiced labio-velar approximant consonant,wʰ
+BIPA_u_u0264u02D0,ɤː,long unrounded close-mid back vowel,ɤː
+BIPA_ua_u0075u0061,ua,from rounded close back to unrounded open front diphthong,ua
+BIPA_c_u00E7,ç,voiceless palatal sibilant fricative consonant,ç
+UNK_m_u006Du0020,m ,,
+UNK_z_u0020u0291, ʑ,,
+BIPA_w_u0259u026F,əɯ,from unrounded mid central to unrounded close back diphthong,əɯ
+BIPA_rw_u0281u02B7,ʁʷ,labialized voiced uvular fricative consonant,ʁʷ
+BIPA_tw_u0074u02B7u02BC,tʷʼ,labialized voiceless alveolar ejective stop consonant,t’ʷ
+BIPA_mh_u006Du02B0,mʰ,aspirated voiced bilabial nasal consonant,mʰ
+BIPA_kh_u006Bu02D0u02B0,kːʰ,aspirated long voiceless velar stop consonant,kʰː
+UNK_jai_u006Au0061u0069,jai,,
+UNK_wa_u0077u0061u02D0,waː,,
+BIPA_qw_u0071u02BCu02D0u02B7,qʼːʷ,labialized long voiceless uvular ejective stop consonant,q’ʷː
+BIPA_c_u0255,ɕ,voiceless alveolo-palatal sibilant fricative consonant,ɕ
+BIPA__u0294u02BC,ʔʼ,voiceless glottal ejective stop consonant,ʔ’
+UNK_n_u006Eu0325u032A,n̥̪,,
+BIPA_n_u006Eu0329,n̩,syllabic voiced alveolar nasal consonant,n̩
+UNK_je_u006Au025Bu02D0,jɛː,,
+BIPA_o_u006Fu031Eu031Cu02D0,o̞̜ː,long less-rounded rounded mid back vowel,o̞̜ː
+BIPA_dj_u0064u0320u02B2,d̠ʲ,palatalized voiced post-alveolar stop consonant,d̠ʲ
+BIPA_au_u0061u028A,aʊ,from unrounded open front to rounded near-close near-back diphthong,aʊ
+BIPA_ei_u0258u0069,ɘi,from unrounded close-mid central to unrounded close front diphthong,ɘi
+BIPA_t_u0074,t,voiceless alveolar stop consonant,t
+BIPA_dz_u0064u033Au007Au033Au02D0,d̺z̺ː,from voiced apical alveolar stop to long voiced apical alveolar sibilant fricative cluster,d̺z̺ː
+BIPA_e_u025Bu0330u02D0,ɛ̰ː,long creaky unrounded open-mid front vowel,ɛ̰ː
+BIPA_t_u0074u02BC,tʼ,voiceless alveolar ejective stop consonant,tʼ
+UNK_wo_u0077u00F5u02D0,wõː,,
+BIPA_iu_u026Au0075,ɪu,from unrounded near-close near-front to rounded close back diphthong,ɪu
+BIPA_l_u006Cu033B,l̻,voiced laminal alveolar lateral approximant consonant,l̻
+BIPA_l_u026C,ɬ,voiceless alveolar lateral fricative consonant,ɬ
+BIPA_lj_u006Cu02B2u02D0,lʲː,palatalized long voiced alveolar lateral approximant consonant,lʲː
+BIPA_ndz_u207Fu0064u0292,ⁿdʒ,pre-nasalized voiced post-alveolar affricate consonant,ⁿdʒ
+BIPA_sj_u0073u032Au02B2,s̪ʲ,palatalized voiceless dental sibilant fricative consonant,s̪ʲ
+BIPA_s_u0073,s,voiceless alveolar sibilant fricative consonant,s
+BIPA_a_u0251,ɑ,unrounded open back vowel,ɑ
+BIPA_ts_u0288u0282u02BC,ʈʂʼ,voiceless retroflex ejective sibilant affricate consonant,ʈʂ’
+BIPA_oe_u006Fu0065,oe,from rounded close-mid back to unrounded close-mid front diphthong,oe
+UNK_hdz_u02B1u0064u0291,ʱdʑ,,
+BIPA_e_u025Cu0339u02D0,ɜ̹ː,long more-rounded unrounded open-mid central vowel,ɜ̹ː
+UNK_ew_u0065u0077,ew,,
+BIPA_uo_u0169u006F,ũo,from nasalized rounded close back to rounded close-mid back diphthong,ũo
+BIPA_twh_u0074u02B7u02B0,tʷʰ,labialized aspirated voiceless alveolar stop consonant,tʷʰ
+BIPA_tsj_u0074u0283u02B2,tʃʲ,palatalized voiceless post-alveolar sibilant affricate consonant,tʃʲ
+BIPA_ts_u0074u0283u02BCu02E4,tʃʼˤ,pharyngealized voiceless post-alveolar ejective sibilant affricate consonant,tʃ’ˤ
+UNK_oej_u0153u006A,œj,,
+BIPA_khw_u03C7u02B7,χʷ,labialized voiceless uvular fricative consonant,χʷ
+BIPA_ou_u0254u0075u032F,ɔu̯,from rounded open-mid back to non-syllabic rounded close back diphthong,ɔu̯
+BIPA_hwch_u02B0u02B7u0255u02B0,ʰʷɕʰ,pre-labialized aspirated voiceless alveolo-palatal sibilant fricative consonant,ʷɕʰ
+UNK_hng_u02B1u014B,ʱŋ,,
+BIPA_a_u0061u0330,a̰,creaky unrounded open front vowel,a̰
+UNK_iei_u0069u025Bu0069u032F,iɛi̯,,
+BIPA_dj_u0064u0325u02B2,d̥ʲ,palatalized devoiced voiced alveolar stop consonant,d̥ʲ
+BIPA_w_u026Fu0259,ɯə,from unrounded close back to unrounded mid central diphthong,ɯə
+BIPA_u_u0075,u,rounded close back vowel,u
+BIPA_y_u0079u02D0u02D0,yːː,ultra-long rounded close front vowel,yːː
+BIPA_o_u00F8u031E,ø̞,rounded mid front vowel,ø̞
+UNK_oj_u006Fu006A,oj,,
+BIPA_e_u025Eu02D0,ɞː,long rounded open-mid central vowel,ɞː
+BIPA_i_u0129u02D0,ĩː,long nasalized unrounded close front vowel,ĩː
+BIPA_iae_u0069u02E4u00E6,iˤæ,from pharyngealized unrounded close front to unrounded near-open front diphthong,iˤæ
+BIPA_mw_u006Du02B7,mʷ,labialized voiced bilabial nasal consonant,mʷ
+UNK_dz_u0064u0347u007Au0347,d͇z͇,,
+BIPA_i_u0129u0324u02D0,ĩ̤ː,long nasalized breathy unrounded close front vowel,ĩ̤ː
+BIPA_ia_u0069u0324u0250,i̤ɐ,from breathy unrounded close front to unrounded near-open central diphthong,i̤ɐ
+BIPA_ts_u0074u0283u02BCu02D0,tʃʼː,long voiceless post-alveolar ejective sibilant affricate consonant,tʃʼː
+BIPA_lg_u006Cu02E0,lˠ,velarized voiced alveolar lateral approximant consonant,lˠ
+BIPA_fj_u0066u02B2,fʲ,palatalized voiceless labio-dental fricative consonant,fʲ
+BIPA_d_u0257,ɗ,voiced dental implosive consonant,ɗ
+BIPA_a_u0251u031Fu0324u02D0,ɑ̟̤ː,long advanced breathy unrounded open back vowel,ɑ̤ː̟
+BIPA_jj_u025Fu029D,ɟʝ,voiced palatal affricate consonant,ɟʝ
+BIPA_ei_u0065u026Au0303,eɪ̃,from unrounded close-mid front to nasalized unrounded near-close near-front diphthong,eɪ̃
+BIPA_o_u0254u031Eu02D0,ɔ̞ː,long lowered rounded open-mid back vowel,ɔ̞ː
+UNK_oj_u0254u006A,ɔj,,
+UNK_aj_u0061u006A,aj,,
+BIPA_e_u1EBD,ẽ,nasalized unrounded close-mid front vowel,ẽ
+BIPA_ai_u0061u02D0u0069u032F,aːi̯,from long unrounded open front to non-syllabic unrounded close front diphthong,aːi̯
+BIPA_z_u007Au0320,z̠,retracted voiced alveolar sibilant fricative consonant,z̠
+UNK_l_u026Cu033Au032A,ɬ̺̪,,
+BIPA_o_u006Fu031Eu02D0,o̞ː,long rounded mid back vowel,o̞ː
+BIPA_dz_u0064u0325u0291u0325,d̥ʑ̥,from devoiced voiced alveolar stop to devoiced voiced alveolo-palatal sibilant fricative cluster,d̥ʑ̥
+BIPA_uo_u0075u0254,uɔ,from rounded close back to rounded open-mid back diphthong,uɔ
+BIPA_oy_u0275u0079,ɵy,from rounded close-mid central to rounded close front diphthong,ɵy
+BIPA_kh_u006Bu02B0,kʰ,aspirated voiceless velar stop consonant,kʰ
+BIPA_e_u025Bu0259,ɛə,from unrounded open-mid front to unrounded mid central diphthong,ɛə
+BIPA_xw_u0078u02D0u02B7,xːʷ,labialized long voiceless velar fricative consonant,xʷː
+BIPA_i_u0268u0339u02D0,ɨ̹ː,long more-rounded unrounded close central vowel,ɨ̹ː
+BIPA_z_u007Au033A,z̺,voiced apical alveolar sibilant fricative consonant,z̺
+BIPA_a_u0252u0303u02D0,ɒ̃ː,long nasalized rounded open back vowel,ɒ̃ː
+BIPA_oe_u0153u0320u02D0,œ̠ː,long retracted rounded open-mid front vowel,œː̠
+BIPA_zw_u007Au032Au02B7,z̪ʷ,labialized voiced dental sibilant fricative consonant,z̪ʷ
+BIPA_oa_u006Fu032Fu00E4,o̯ä,from non-syllabic rounded close-mid back to centralized unrounded open front diphthong,o̯ä
+BIPA_oee_u0153u031Eu025Bu031E,œ̞ɛ̞,from lowered rounded open-mid front to lowered unrounded open-mid front diphthong,œ̞ɛ̞
+BIPA_ie_u0129u1EBD,ĩẽ,from nasalized unrounded close front to nasalized unrounded close-mid front diphthong,ĩẽ
+BIPA_u_u028Au02E4u02D0,ʊˤː,long pharyngealized rounded near-close near-back vowel,ʊˤː
+BIPA_s_u0073u2019,s’,voiceless alveolar ejective sibilant fricative consonant,sʼ
+BIPA_ou_u006Fu0075u032F,ou̯,from rounded close-mid back to non-syllabic rounded close back diphthong,ou̯
+UNK__u0294u0319,ʔ̙,,
+BIPA_ie_u0069u025Bu0303,iɛ̃,from unrounded close front to nasalized unrounded open-mid front diphthong,iɛ̃
+BIPA_ng_u014Bu02D0,ŋː,long voiced velar nasal consonant,ŋː
+BIPA_z_u007Au02E4,zˤ,pharyngealized voiced alveolar sibilant fricative consonant,zˤ
+BIPA_ia_u0069u0250,iɐ,from unrounded close front to unrounded near-open central diphthong,iɐ
+UNK_tsh_u0074u015Du02B0,tŝʰ,,
+BIPA_sh_u0282u02B0,ʂʰ,aspirated voiceless retroflex sibilant fricative consonant,ʂʰ
+BIPA_a_u0251u031E,ɑ̞,lowered unrounded open back vowel,ɑ̞
+BIPA_ae_u0061u0065,ae,from unrounded open front to unrounded close-mid front diphthong,ae
+BIPA_hwt_u02B0u02B7u0074,ʰʷt,pre-labialized voiceless alveolar stop consonant,ʷt
+BIPA_fg_u0066u02E0,fˠ,velarized voiceless labio-dental fricative consonant,fˠ
+BIPA_t_u0074u032Au033A,t̪̺,voiceless apical dental stop consonant,t̪̺
+UNK_wo_u0077u006Fu02D0,woː,,
+BIPA_tsw_u0074u0073u02B7,tsʷ,labialized voiceless alveolar sibilant affricate consonant,tsʷ
+BIPA_w_u0259u026Fu0303,əɯ̃,from unrounded mid central to nasalized unrounded close back diphthong,əɯ̃
+BIPA_oe_u0153u0320,œ̠,retracted rounded open-mid front vowel,œ̠
+BIPA_qkh_u0071u03C7u02BC,qχʼ,voiceless uvular ejective affricate consonant,qχ’
+BIPA__u0294u02E4,ʔˤ,pharyngealized voiceless glottal stop consonant,ʔˤ
+BIPA_u_u028Au0303u02D0,ʊ̃ː,long nasalized rounded near-close near-back vowel,ʊ̃ː
+BIPA_a_u0259u0252,əɒ,from unrounded mid central to rounded open back diphthong,əɒ
+BIPA_o_u0254u031C,ɔ̜,less-rounded rounded open-mid back vowel,ɔ̜
+BIPA_g_u0262,ɢ,voiced uvular stop consonant,ɢ
+BIPA_m_u02C0u006D,ˀm,pre-glottalized voiced bilabial nasal consonant,ˀm
+BIPA_u_u0075u02E4,uˤ,pharyngealized rounded close back vowel,uˤ
+BIPA_u_u0289u0330,ʉ̰,creaky rounded close central vowel,ʉ̰
+BIPA_tc_u0074u0255u02BC,tɕʼ,voiceless alveolo-palatal ejective sibilant affricate consonant,tɕ’
+BIPA_ou_u0254u0303u028Au032Fu0303,ɔ̃ʊ̯̃,from nasalized rounded open-mid back to non-syllabic nasalized rounded near-close near-back diphthong,ɔ̃ʊ̯̃
+BIPA_e_u025Bu0324u0303u02D0,ɛ̤̃ː,long nasalized breathy unrounded open-mid front vowel,ɛ̤̃ː
+BIPA_r_u027Fu0330,ɿ̰,creaky unrounded close with-frication back vowel,ɿ̰
+BIPA_oe_u0276,ɶ,rounded open front vowel,ɶ
+BIPA_e_u0065u031Eu0330,e̞̰,creaky unrounded mid front vowel,e̞̰
+BIPA_ngj_u014Bu02B2u02D0,ŋʲː,palatalized long voiced velar nasal consonant,ŋʲː
+BIPA_vg_u0076u02E0,vˠ,velarized voiced labio-dental fricative consonant,vˠ
+BIPA_y_u0079u02D0,yː,long rounded close front vowel,yː
+BIPA__u0259u0324u0303u02D0,ə̤̃ː,long nasalized breathy unrounded mid central vowel,ə̤̃ː
+BIPA_a_u00E4u02D0,äː,long centralized unrounded open front vowel,aː̈
+BIPA_gj_u0067u02B2,gʲ,palatalized voiced velar stop consonant,gʲ
+BIPA_a_u0061u0324,a̤,breathy unrounded open front vowel,a̤
+BIPA_oo_u0254u006F,ɔo,from rounded open-mid back to rounded close-mid back diphthong,ɔo
+BIPA_o_u00F8u0259,øə,from rounded close-mid front to unrounded mid central diphthong,øə
+BIPA_yoe_u0079u0153u02D0,yœː,from rounded close front to long rounded open-mid front diphthong,yœː
+BIPA_l_u026Bu033A,ɫ̺,velarized voiced apical alveolar lateral approximant consonant,l̺ˠ
+BIPA_nqh_u207Fu0071u02B0,ⁿqʰ,pre-nasalized aspirated voiceless uvular stop consonant,ⁿqʰ
+BIPA_g_u0067,g,voiced velar stop consonant,g
+BIPA_ts_u0074u0073u2019,ts’,voiceless alveolar ejective sibilant affricate consonant,tsʼ
+BIPA_kwj_u006Bu02B7u02B2,kʷʲ,palatalized labialized voiceless velar stop consonant,kʲʷ
+BIPA_j_u025Fu031F,ɟ̟,advanced voiced palatal stop consonant,ɟ̟
+BIPA_y_u0265u030A,ɥ̊,devoiced voiced labio-palatal approximant consonant,ɥ̥
+BIPA_kx_u006Bu0078u02D0u02BC,kxːʼ,long voiceless velar ejective affricate consonant,kx’ː
+BIPA_y_u0079,y,rounded close front vowel,y
+BIPA_ts_u0074u0283u033B,tʃ̻,voiceless laminal post-alveolar sibilant affricate consonant,tʃ̻
+BIPA_tsh_u0074u0283u033Bu02B0,tʃ̻ʰ,aspirated voiceless laminal post-alveolar sibilant affricate consonant,tʃ̻ʰ
+BIPA_e_u1EBDu031E,ẽ̞,nasalized unrounded mid front vowel,ẽ̞
+UNK_aw_u0251u0077,ɑw,,
+UNK_hn_u02B1u0272,ʱɲ,,
+BIPA_r_u027Du0303,ɽ̃,nasalized voiced retroflex tap consonant,ɽ̃
+BIPA_d_u0064u032Au0325,d̪̥,devoiced voiced dental stop consonant,d̪̥
+BIPA_g_u0263u030A,ɣ̊,devoiced voiced velar fricative consonant,ɣ̊
+BIPA_u_u0289u0303,ʉ̃,nasalized rounded close central vowel,ʉ̃
+UNK_wa_u0077u0061,wa,,
+BIPA_a_u0250u031F,ɐ̟,advanced unrounded near-open central vowel,ɐ̟
+BIPA_pgh_u0070u02E0u02B0,pˠʰ,aspirated velarized voiceless bilabial stop consonant,pʰˠ
+BIPA_oe_u0153u031E,œ̞,lowered rounded open-mid front vowel,œ̞
+BIPA_tw_u0074u02B7,tʷ,labialized voiceless alveolar stop consonant,tʷ
+BIPA_ts_u0074u0073u032Au033B,ts̪̻,voiceless laminal dental sibilant affricate consonant,ts̪̻
+BIPA_bg_u0062u02E0,bˠ,velarized voiced bilabial stop consonant,bˠ
+BIPA__u02A2,ʢ,voiced epiglottal fricative consonant,ʢ
+BIPA_r_u0072u031D,r̝,raised voiced alveolar trill consonant,r̝
+UNK_ndz_u207Fu0064u0347u007Au0347,ⁿd͇z͇,,
+BIPA_r_u0072u02D0,rː,long voiced alveolar trill consonant,rː
+UNK_j_u0259u006A,əj,,
+BIPA_dw_u0064u02B7,dʷ,labialized voiced alveolar stop consonant,dʷ
+UNK_l_u02BCu006C,ʼl,,
+UNK_z_u1E91,ẑ,,
+BIPA_q_u0071,q,voiceless uvular stop consonant,q
+BIPA_ts_u0074u033Au0073u033A,t̺s̺,from voiceless apical alveolar stop to voiceless apical alveolar sibilant fricative cluster,t̺s̺
+BIPA_ua_u0075u00E3,uã,from rounded close back to nasalized unrounded open front diphthong,uã
+BIPA_o_u00F8u0308,ø̈,centralized rounded close-mid front vowel,ø̈
+BIPA_d_u0256u02D0,ɖː,long voiced retroflex stop consonant,ɖː
+BIPA_u_u0264u0324,ɤ̤,breathy unrounded close-mid back vowel,ɤ̤
+BIPA_yu_u0079u0075,yu,from rounded close front to rounded close back diphthong,yu
+BIPA_a_u0251u0303,ɑ̃,nasalized unrounded open back vowel,ɑ̃
+BIPA_z_u0290,ʐ,voiced retroflex sibilant fricative consonant,ʐ
+BIPA_d_u0064u0320,d̠,voiced post-alveolar stop consonant,d̠
+BIPA_k_u006Bu02D0u02D0,kːː,long voiceless velar stop consonant,kː
+BIPA_a_u0252,ɒ,rounded open back vowel,ɒ
+BIPA_l_u006Cu032A,l̪,voiced dental lateral approximant consonant,l̪
+BIPA_kh_u03C7u02E4,χˤ,pharyngealized voiceless uvular fricative consonant,χˤ
+BIPA_ei_u0065u0069u032F,ei̯,from unrounded close-mid front to non-syllabic unrounded close front diphthong,ei̯
+BIPA_tc_u0074u033Au0255u033A,t̺ɕ̺,from voiceless apical alveolar stop to voiceless apical alveolo-palatal sibilant fricative cluster,t̺ɕ̺
+BIPA_qwj_u0071u02B7u02B2,qʷʲ,palatalized labialized voiceless uvular stop consonant,qʲʷ
+BIPA_ir_u0069u02DEu02E4,i˞ˤ,rhotacized pharyngealized unrounded close front vowel,i˞ˤ
+BIPA_w_u026Fu031E,ɯ̞,lowered unrounded close back vowel,ɯ̞
+BIPA_nch_u207Fu0063u02B0,ⁿcʰ,pre-nasalized aspirated voiceless palatal stop consonant,ⁿcʰ
+BIPA_i_u0268,ɨ,unrounded close central vowel,ɨ
+BIPA_u_u028Au031E,ʊ̞,lowered rounded near-close near-back vowel,ʊ̞
+BIPA_io_u0129u00F5,ĩõ,from nasalized unrounded close front to nasalized rounded close-mid back diphthong,ĩõ
+BIPA_yo_u0079u00F8,yø,from rounded close front to rounded close-mid front diphthong,yø
+UNK_oi_u0020u0254u0069, ɔi,,
+BIPA_i_u0069u033D,i̽,mid-centralized unrounded close front vowel,i̽
+BIPA_khj_u006Bu02B0u02B2,kʰʲ,palatalized aspirated voiceless velar stop consonant,kʲʰ
+UNK_iuo_u0069u032Fu0169u006F,i̯ũo,,
+BIPA_xw_u0078u02B7,xʷ,labialized voiceless velar fricative consonant,xʷ
+BIPA_wz_u02B7u007A,ʷz,pre-labialized voiced alveolar sibilant fricative consonant,ʷz
+BIPA_ua_u1E73u0061,ṳa,from breathy rounded close back to unrounded open front diphthong,ṳa
+BIPA_nd_u207Fu0064u032A,ⁿd̪,pre-nasalized voiced dental stop consonant,ⁿd̪
+BIPA_oei_u0153u0069,œi,from rounded open-mid front to unrounded close front diphthong,œi
+BIPA_eo_u0065u006F,eo,from unrounded close-mid front to rounded close-mid back diphthong,eo
+BIPA_nkj_u207Fu006Bu02B2,ⁿkʲ,pre-nasalized palatalized voiceless velar stop consonant,ⁿkʲ
+BIPA_ndz_u207Fu0256u0290,ⁿɖʐ,pre-nasalized voiced retroflex sibilant affricate consonant,ⁿɖʐ
+BIPA_wa_u026Fu0251,ɯɑ,from unrounded close back to unrounded open back diphthong,ɯɑ
+BIPA_e_u0065u031Eu02D0,e̞ː,long unrounded mid front vowel,e̞ː
+BIPA_i_u026Au0303,ɪ̃,nasalized unrounded near-close near-front vowel,ɪ̃
+BIPA_ou_u00F5u02D0u0075,õːu,from long nasalized rounded close-mid back to rounded close back diphthong,õːu
+BIPA_tshw_u0074u0283u02B0u02B7,tʃʰʷ,labialized aspirated voiceless post-alveolar sibilant affricate consonant,tʃʷʰ
+BIPA_gw_u0067u02D0u02B7,gːʷ,labialized long voiced velar stop consonant,gʷː
+BIPA_ng_u014Bu0325,ŋ̥,devoiced voiced velar nasal consonant,ŋ̊
+BIPA_n_u006Eu0325u02D0,n̥ː,long devoiced voiced alveolar nasal consonant,n̥ː
+BIPA_b_u0062u0325u02D0,b̥ː,long devoiced voiced bilabial stop consonant,b̥ː
+BIPA_s_u0283u02D0,ʃː,long voiceless post-alveolar sibilant fricative consonant,ʃː
+BIPA_hk_u02B0u006B,ʰk,pre-aspirated voiceless velar stop consonant,ʰk
+BIPA_ue_u0264u0065,ɤe,from unrounded close-mid back to unrounded close-mid front diphthong,ɤe
+BIPA_oi_u006Fu0069u032F,oi̯,from rounded close-mid back to non-syllabic unrounded close front diphthong,oi̯
+BIPA_a_u0251u0330u02D0,ɑ̰ː,long creaky unrounded open back vowel,ɑ̰ː
+BIPA_w_u026Fu0324,ɯ̤,breathy unrounded close back vowel,ɯ̤
+BIPA_ia_u0069u032Fu0061,i̯a,from non-syllabic unrounded close front to unrounded open front diphthong,i̯a
+BIPA_ue_u0075u025C,uɜ,from rounded close back to unrounded open-mid central diphthong,uɜ
+BIPA_n_u006E,n,voiced alveolar nasal consonant,n
+BIPA_ei_u025Bu0069,ɛi,from unrounded open-mid front to unrounded close front diphthong,ɛi
+BIPA_ua_u0075u0251,uɑ,from rounded close back to unrounded open back diphthong,uɑ
+BIPA_o_u0254u0330u02D0,ɔ̰ː,long creaky rounded open-mid back vowel,ɔ̰ː
+BIPA_l_u026Cu02BC,ɬʼ,voiceless alveolar ejective lateral fricative consonant,ɬʼ
+BIPA_pw_u0070u02B7,pʷ,labialized voiceless bilabial stop consonant,pʷ
+BIPA_h_u0068u0303,h̃,nasalized voiceless glottal fricative consonant,h̃
+BIPA_i_u0129u032F,ĩ̯,non-syllabic nasalized unrounded close front vowel,ĩ̯
+BIPA_uar_u0075u0251u02DE,uɑ˞,from rounded close back to rhotacized unrounded open back diphthong,uɑ˞
+BIPA_iu_u026Au032Fu0075u031E,ɪ̯u̞,from non-syllabic unrounded near-close near-front to lowered rounded close back diphthong,ɪ̯u̞
+UNK_n_u006Eu033Au032A,n̺̪,,
+BIPA_phj_u0070u02B0u02B2,pʰʲ,palatalized aspirated voiceless bilabial stop consonant,pʰʲ
+BIPA_ee_u025Bu0065,ɛe,from unrounded open-mid front to unrounded close-mid front diphthong,ɛe
+BIPA_wi_u026Fu0069,ɯi,from unrounded close back to unrounded close front diphthong,ɯi
+BIPA_y_u028Eu031F,ʎ̟,voiced alveolo-palatal lateral approximant consonant,ȴ
+BIPA_ei_u025Cu0069,ɜi,from unrounded open-mid central to unrounded close front diphthong,ɜi
+BIPA_k_u006Bu02BCu02D0,kʼː,long voiceless velar ejective stop consonant,k’ː
+BIPA_m_u006Du02D0u02D0,mːː,long voiced bilabial nasal consonant,mː
+UNK_w_u02BCu0077,ʼw,,
+BIPA_qhj_u0071u02B0u02B2,qʰʲ,palatalized aspirated voiceless uvular stop consonant,qʲʰ
+BIPA_ue_u0075u025B,uɛ,from rounded close back to unrounded open-mid front diphthong,uɛ
+BIPA_au_u0061u02D0u0075,aːu,from long unrounded open front to rounded close back diphthong,aːu
+BIPA__u02A1u2019,ʡ’,voiceless epiglottal ejective stop consonant,ʡ’
+BIPA_ea_u025Bu0061u031F,ɛa̟,from unrounded open-mid front to advanced unrounded open front diphthong,ɛa̟
+BIPA_e_u025Bu02D0u0303,ɛː̃,long nasalized unrounded open-mid front vowel,ɛ̃ː
+BIPA_ou_u00F8u0075,øu,from rounded close-mid front to rounded close back diphthong,øu
+BIPA_e_u0065,e,unrounded close-mid front vowel,e
+BIPA_i_u028Cu0069,ʌi,from unrounded open-mid back to unrounded close front diphthong,ʌi
+BIPA_sj_u0282u02B2,ʂʲ,palatalized voiceless retroflex sibilant fricative consonant,ʂʲ
+UNK_tsh_u0074u0347u0073u0347u02B0,t͇s͇ʰ,,
+BIPA_o_u00F8u02D0u02D0,øːː,ultra-long rounded close-mid front vowel,øːː
+BIPA_qkh_u0071u03C7,qχ,voiceless uvular affricate consonant,qχ
+BIPA_o_u0254u02D0,ɔː,long rounded open-mid back vowel,ɔː
+BIPA_gw_u0262u02B7,ɢʷ,labialized voiced uvular stop consonant,ɢʷ
+BIPA_k_u006Bu02E4,kˤ,pharyngealized voiceless velar stop consonant,kˤ
+BIPA_hw_u0127u02B7,ħʷ,labialized voiceless pharyngeal fricative consonant,ħʷ
+BIPA_u_u0075u031C,u̜,less-rounded rounded close back vowel,u̜
+BIPA__u028Cu031Fu0324,ʌ̟̤,advanced breathy unrounded open-mid back vowel,ʌ̤̟
+BIPA_i_u0069,i,unrounded close front vowel,i
+UNK_s_u015D,ŝ,,
+BIPA_u_u0075u031E,u̞,lowered rounded close back vowel,u̞
+BIPA_t_u0074u02D0,tː,long voiceless alveolar stop consonant,tː
+BIPA_oi_u0254u0069u032F,ɔi̯,from rounded open-mid back to non-syllabic unrounded close front diphthong,ɔi̯
+BIPA__u0294,ʔ,voiceless glottal stop consonant,ʔ
+BIPA_ir_u0069u02DE,i˞,rhotacized unrounded close front vowel,i˞
+BIPA_q_u0071u2019,q’,voiceless uvular ejective stop consonant,qʼ
+BIPA_o_u0275,ɵ,rounded close-mid central vowel,ɵ
+BIPA_ae_u00E6u0303,æ̃,nasalized unrounded near-open front vowel,æ̃
+BIPA_l_u026Bu0325,ɫ̥,velarized devoiced voiced alveolar lateral approximant consonant,l̥ˠ
+BIPA_e_u025Bu031D,ɛ̝,raised unrounded open-mid front vowel,ɛ̝
+BIPA_ua_u0169u00E3,ũã,from nasalized rounded close back to nasalized unrounded open front diphthong,ũã
+BIPA_hwsh_u02B0u02B7u0073u02B0,ʰʷsʰ,pre-labialized aspirated voiceless alveolar sibilant fricative consonant,ʷsʰ
+BIPA_d_u0064u02BC,dʼ,voiced alveolar ejective stop consonant,d’
+BIPA_tsj_u0074u0073u02B2,tsʲ,palatalized voiceless alveolar sibilant affricate consonant,tsʲ
+BIPA_ai_u0251u02D0u0069,ɑːi,from long unrounded open back to unrounded close front diphthong,ɑːi
+BIPA_i_u0259u0069u032F,əi̯,from unrounded mid central to non-syllabic unrounded close front diphthong,əi̯
+BIPA_ntsh_u207Fu0074u0283u02B0,ⁿtʃʰ,pre-nasalized aspirated voiceless post-alveolar sibilant affricate consonant,ⁿtʃʰ
+BIPA_ae_u00E6u0330,æ̰,creaky unrounded near-open front vowel,æ̰
+BIPA_v_u0076u0325,v̥,devoiced voiced labio-dental fricative consonant,v̥
+BIPA_e_u0065u02D0,eː,long unrounded close-mid front vowel,eː
+BIPA_iu_u0069u0075u032F,iu̯,from unrounded close front to non-syllabic rounded close back diphthong,iu̯
+BIPA_u_u028Au0259,ʊə,from rounded near-close near-back to unrounded mid central diphthong,ʊə
+BIPA_o_u0275u0303,ɵ̃,nasalized rounded close-mid central vowel,ɵ̃
+BIPA_qw_u0071u02BCu02B7,qʼʷ,labialized voiceless uvular ejective stop consonant,qʼʷ
+BIPA_wa_u026Fu0324u0061,ɯ̤a,from breathy unrounded close back to unrounded open front diphthong,ɯ̤a
+BIPA_oi_u0254u0069,ɔi,from rounded open-mid back to unrounded close front diphthong,ɔi
+BIPA_ie_u0069u025C,iɜ,from unrounded close front to unrounded open-mid central diphthong,iɜ
+BIPA_i_u0268u0320,ɨ̠,retracted unrounded close central vowel,ɨ̠
+BIPA_ts_u0074u0073u033A,ts̺,voiceless apical alveolar sibilant affricate consonant,ts̺
+BIPA_yo_u0079u00F8u031E,yø̞,from rounded close front to rounded mid front diphthong,yø̞
+BIPA_uo_u0075u032Fu006F,u̯o,from non-syllabic rounded close back to rounded close-mid back diphthong,u̯o
+UNK_hd_u02B1u0256,ʱɖ,,
+BIPA_wi_u026Fu026Au032F,ɯɪ̯,from unrounded close back to non-syllabic unrounded near-close near-front diphthong,ɯɪ̯
+BIPA_o_u00F8,ø,rounded close-mid front vowel,ø
+BIPA_ui_u028Au0069,ʊi,from rounded near-close near-back to unrounded close front diphthong,ʊi
+BIPA_tj_u0074u02B2u02D0u02D0,tʲːː,palatalized long voiceless alveolar stop consonant,tʲː
+BIPA_w_u02C0u0077,ˀw,pre-glottalized voiced labio-velar approximant consonant,ˀw
+BIPA_l_u006Cu0329,l̩,syllabic voiced alveolar lateral approximant consonant,l̩
+BIPA_rj_u0072u032Au02B2,r̪ʲ,palatalized voiced dental trill consonant,r̪ʲ
+BIPA_ndz_u207Fu0064u007A,ⁿdz,from pre-nasalized voiced alveolar stop to voiced alveolar sibilant fricative cluster,ⁿdz
+BIPA_dh_u0064u0320u02B0,d̠ʰ,aspirated voiced post-alveolar stop consonant,d̠ʰ
+BIPA_thw_u0074u02B0u02B7,tʰʷ,labialized aspirated voiceless alveolar stop consonant,tʷʰ
+BIPA_w_u02A2u02B7,ʢʷ,labialized voiced epiglottal fricative consonant,ʢʷ
+BIPA_xh_u0078u02B0,xʰ,aspirated voiceless velar fricative consonant,xʰ
+UNK_kr_u006Bu02DE,k˞,,
+BIPA__u028Cu02D0,ʌː,long unrounded open-mid back vowel,ʌː
+BIPA_o_u00F8u0303,ø̃,nasalized rounded close-mid front vowel,ø̃
+BIPA_r_u0281u02E4,ʁˤ,pharyngealized voiced uvular fricative consonant,ʁˤ
+BIPA_j_u0284,ʄ,voiced palatal implosive consonant,ʄ
+BIPA_ye_u0079u025B,yɛ,from rounded close front to unrounded open-mid front diphthong,yɛ
+BIPA_dz_u0064u0325u0292u030A,d̥ʒ̊,from devoiced voiced alveolar stop to devoiced voiced post-alveolar sibilant fricative cluster,d̥ʒ̊
+BIPA_rh_u0072u02B1,rʱ,breathy voiced alveolar trill consonant,rʱ
+BIPA_z_u007Au0329,z̩,syllabic voiced alveolar sibilant fricative consonant,z̩
+BIPA_r_u0281u031E,ʁ̞,voiced uvular approximant consonant,ʁ̞
+BIPA_oe_u0153u02D0,œː,long rounded open-mid front vowel,œː
+BIPA_dz_u0064u0291,dʑ,voiced alveolo-palatal sibilant affricate consonant,dʑ
+BIPA_y_u0265,ɥ,voiced labio-palatal approximant consonant,ɥ
+BIPA_tsh_u0288u0282u02B0,ʈʂʰ,aspirated voiceless retroflex sibilant affricate consonant,ʈʂʰ
+BIPA_s_u0073u0320u033B,s̠̻,retracted voiceless laminal alveolar sibilant fricative consonant,s̠̻
+BIPA_ua_u0264u0061u0324,ɤa̤,from unrounded close-mid back to breathy unrounded open front diphthong,ɤa̤
+BIPA_ue_u0075u1EBD,uẽ,from rounded close back to nasalized unrounded close-mid front diphthong,uẽ
+BIPA_r_u027Fu0339,ɿ̹,more-rounded unrounded close with-frication back vowel,ɿ̹
+BIPA_hc_u02B0u0063,ʰc,pre-aspirated voiceless palatal stop consonant,ʰc
+BIPA_jh_u025Fu02B0,ɟʰ,aspirated voiced palatal stop consonant,ɟʰ
+BIPA_dz_u0064u007Au032A,dz̪,voiced dental sibilant affricate consonant,dz̪
+BIPA_a_u00E3,ã,nasalized unrounded open front vowel,ã
+BIPA_b_u03B2u0329,β̩,syllabic voiced bilabial fricative consonant,β̩
+BIPA_tw_u0074u032Au02BCu02B7,t̪ʼʷ,labialized voiceless dental ejective stop consonant,t̪’ʷ
+BIPA_ui_u028Au026A,ʊɪ,from rounded near-close near-back to unrounded near-close near-front diphthong,ʊɪ
+BIPA_i_u0069u02E4u02D0,iˤː,long pharyngealized unrounded close front vowel,iˤː
+BIPA_gh_u0067u02B0,gʰ,aspirated voiced velar stop consonant,gʰ
+BIPA_i_u0069u0324u02D0,i̤ː,long breathy unrounded close front vowel,i̤ː
+BIPA_ng_u02C0u014B,ˀŋ,pre-glottalized voiced velar nasal consonant,ˀŋ
+BIPA_kw_u006Bu02D0u02B7,kːʷ,labialized long voiceless velar stop consonant,kʷː
+BIPA_tsw_u0074u0283u02B7,tʃʷ,labialized voiceless post-alveolar sibilant affricate consonant,tʃʷ
+BIPA_m_u006Du02E4,mˤ,pharyngealized voiced bilabial nasal consonant,mˤ
+BIPA_ey_u025Eu028Fu032F,ɞʏ̯,from rounded open-mid central to non-syllabic rounded near-close near-front diphthong,ɞʏ̯
+BIPA_sw_u0283u02B7,ʃʷ,labialized voiceless post-alveolar sibilant fricative consonant,ʃʷ
+BIPA_ljh_u006Cu02B2u02B0,lʲʰ,palatalized aspirated voiced alveolar lateral approximant consonant,lʲʰ
+UNK_w_u0077u0259u0303,wə̃,,
+BIPA_dz_u0256u0325u0290u0325,ɖ̥ʐ̥,from devoiced voiced retroflex stop to devoiced voiced retroflex sibilant fricative cluster,ɖ̥ʐ̥
+BIPA_ng_u014Bu031F,ŋ̟,advanced voiced velar nasal consonant,ŋ̟
+BIPA_htj_u02B0u0074u02B2,ʰtʲ,pre-aspirated palatalized voiceless alveolar stop consonant,ʰtʲ
+BIPA_aeu_u00E6u0075,æu,from unrounded near-open front to rounded close back diphthong,æu
+BIPA_oe_u0153u031Eu02D0,œ̞ː,long lowered rounded open-mid front vowel,œ̞ː
+BIPA_l_u006C,l,voiced alveolar lateral approximant consonant,l
+BIPA_d_u0256,ɖ,voiced retroflex stop consonant,ɖ
+BIPA_kh_u03C7u02D0,χː,long voiceless uvular fricative consonant,χː
+BIPA_c_u0063,c,voiceless palatal stop consonant,c
+BIPA_a_u0061u031F,a̟,advanced unrounded open front vowel,a̟
+BIPA_tsh_u0074u0283u02B0u02E4,tʃʰˤ,aspirated pharyngealized voiceless post-alveolar sibilant affricate consonant,tʃʰˤ
+BIPA_er_u0065u02DE,e˞,rhotacized unrounded close-mid front vowel,e˞
+BIPA_ue_u0075u0065u031E,ue̞,from rounded close back to unrounded mid front diphthong,ue̞
+BIPA_dzh_u0064u007Au02B1,dzʱ,breathy voiced alveolar sibilant affricate consonant,dzʱ
+BIPA_l_u02C0u006C,ˀl,pre-glottalized voiced alveolar lateral approximant consonant,ˀl
+BIPA_ie_u0069u0065,ie,from unrounded close front to unrounded close-mid front diphthong,ie
+BIPA_ie_u0069u032Fu0065,i̯e,from non-syllabic unrounded close front to unrounded close-mid front diphthong,i̯e
+BIPA_r_u0280,ʀ,voiced uvular trill consonant,ʀ
+BIPA_e_u025Eu0320u02D0,ɞ̠ː,long retracted rounded open-mid central vowel,ɞː̠
+UNK_hz_u02B1u007A,ʱz,,
+BIPA_tch_u0074u0255u02B0,tɕʰ,aspirated voiceless alveolo-palatal sibilant affricate consonant,tɕʰ
+BIPA_e_u025Eu031C,ɞ̜,less-rounded rounded open-mid central vowel,ɞ̜
+BIPA_ei_u025Bu026A,ɛɪ,from unrounded open-mid front to unrounded near-close near-front diphthong,ɛɪ
+BIPA_nkjh_u207Fu006Bu02B2u02B0,ⁿkʲʰ,pre-nasalized palatalized aspirated voiceless velar stop consonant,ⁿkʲʰ
+BIPA_u_u028Au0308,ʊ̈,rounded near-close central vowel,ʊ̈
+BIPA_n_u0272u030A,ɲ̊,devoiced voiced palatal nasal consonant,ɲ̊
+BIPA_u_u0259u028A,əʊ,from unrounded mid central to rounded near-close near-back diphthong,əʊ
+BIPA_r_u0259u02DEu02D0,ə˞ː,long rhotacized unrounded mid central vowel,ə˞ː
+BIPA_y_u0079u0324,y̤,breathy rounded close front vowel,y̤
+BIPA_n_u0273u0325,ɳ̥,devoiced voiced retroflex nasal consonant,ɳ̥
+BIPA_s_u0073u032Au033B,s̪̻,voiceless laminal dental sibilant fricative consonant,s̪̻
+BIPA_w_u026Fu033Du02D0,ɯ̽ː,long unrounded near-close near-back vowel,ɯ̽ː
+BIPA__u028Cu0324u02D0,ʌ̤ː,long breathy unrounded open-mid back vowel,ʌ̤ː
+UNK_jui_u006Au0075u0069,jui,,
+UNK_aw_u00E3u0077,ãw,,
+BIPA_f_u0066u0329,f̩,syllabic voiceless labio-dental fricative consonant,f̩
+UNK_iau_u0069u0251u0075,iɑu,,
+BIPA_ai_u0061u0069u032F,ai̯,from unrounded open front to non-syllabic unrounded close front diphthong,ai̯
+UNK_iuo_u0069u032Fu0075u006F,i̯uo,,
+BIPA_wj_u02B7u025F,ʷɟ,pre-labialized voiced palatal stop consonant,ʷɟ
+BIPA_ya_u0079u0061,ya,from rounded close front to unrounded open front diphthong,ya
+BIPA_ye_u0079u025C,yɜ,from rounded close front to unrounded open-mid central diphthong,yɜ
+UNK_oj_u00F5u006A,õj,,
+BIPA_b_u0253,ɓ,voiced bilabial implosive consonant,ɓ
+BIPA_nts_u207Fu0288u0282,ⁿʈʂ,pre-nasalized voiceless retroflex sibilant affricate consonant,ⁿʈʂ
+BIPA_ts_u0074u0073u02BC,tsʼ,voiceless alveolar ejective sibilant affricate consonant,tsʼ
+BIPA_dzh_u0064u0292u033Bu02B1,dʒ̻ʱ,breathy voiced laminal post-alveolar sibilant affricate consonant,dʒ̻ʱ
+UNK_th_u03B8u032A,θ̪,,
+BIPA_kxh_u006Bu0078u02D0u02B0,kxːʰ,aspirated long voiceless velar affricate consonant,kxʰː
+BIPA_dzh_u0064u0292u02B1,dʒʱ,breathy voiced post-alveolar sibilant affricate consonant,dʒʱ
+UNK_jei_u006Au025Bu0069u032F,jɛi̯,,
+BIPA_oe_u0276u02D0,ɶː,long rounded open front vowel,ɶː
+BIPA_o_u0259u006F,əo,from unrounded mid central to rounded close-mid back diphthong,əo
+UNK_iau_u0069u0061u0075,iau,,
+BIPA_yoe_u1EF9u0153u02D0,ỹœː,from nasalized rounded close front to long rounded open-mid front diphthong,ỹœː
+BIPA_tw_u0074u032Au02B7,t̪ʷ,labialized voiceless dental stop consonant,t̪ʷ
+BIPA_ai_u0061u026Au0303,aɪ̃,from unrounded open front to nasalized unrounded near-close near-front diphthong,aɪ̃
+BIPA_ea_u0065u0061u0324,ea̤,from unrounded close-mid front to breathy unrounded open front diphthong,ea̤
+BIPA_s_u0073u0329,s̩,syllabic voiceless alveolar sibilant fricative consonant,s̩
+BIPA_tj_u0288u02B2,ʈʲ,palatalized voiceless retroflex stop consonant,ʈʲ
+BIPA_u_u0075u028C,uʌ,from rounded close back to unrounded open-mid back diphthong,uʌ
+UNK_khr_u006Bu02B0u02DE,kʰ˞,,
+BIPA_zh_u0291u02B0,ʑʰ,aspirated voiced alveolo-palatal sibilant fricative consonant,ʑʰ
+BIPA_tc_u0074u00E7,tç,from voiceless alveolar stop to voiceless palatal sibilant fricative cluster,tç
+BIPA_i_u0069u032F,i̯,non-syllabic unrounded close front vowel,i̯
+UNK_we_u0077u0065,we,,
+BIPA_o_u014F,ŏ,ultra-short rounded close-mid back vowel,ŏ
+BIPA_ntsh_u207Fu0074u032Au0073u032Au02B0,ⁿt̪s̪ʰ,from pre-nasalized voiceless dental stop to aspirated voiceless dental sibilant fricative cluster,ⁿt̪s̪ʰ
+BIPA_w_u026Fu031D,ɯ̝,raised unrounded close back vowel,ɯ̝
+BIPA_dzh_u0064u0291u02B0,dʑʰ,aspirated voiced alveolo-palatal sibilant affricate consonant,dʑʰ
+BIPA_o_u0254u031D,ɔ̝,raised rounded open-mid back vowel,ɔ̝
+BIPA_d_u0064u02E4,dˤ,pharyngealized voiced alveolar stop consonant,dˤ
+BIPA_f_u0066u02D0u02D0,fːː,long voiceless labio-dental fricative consonant,fː
+BIPA_s_u0073u032Au02D0,s̪ː,long voiceless dental sibilant fricative consonant,s̪ː
+BIPA_s_u0073u032A,s̪,voiceless dental sibilant fricative consonant,s̪
+BIPA_j_u029D,ʝ,voiced palatal fricative consonant,ʝ
+BIPA_r_u0072u033A,r̺,voiced apical alveolar trill consonant,r̺
+BIPA_oe_u00F8u0065,øe,from rounded close-mid front to unrounded close-mid front diphthong,øe
+UNK_wj_u0077u031Cu02B2,w̜ʲ,,
+BIPA_u_u028Au0330,ʊ̰,creaky rounded near-close near-back vowel,ʊ̰
+BIPA_ui_u0075u0069,ui,from rounded close back to unrounded close front diphthong,ui
+BIPA_lj_u006Cu02B2,lʲ,palatalized voiced alveolar lateral approximant consonant,lʲ
+BIPA_s_u0282u02D0,ʂː,long voiceless retroflex sibilant fricative consonant,ʂː
+BIPA_s_u0073u02D0,sː,long voiceless alveolar sibilant fricative consonant,sː
+BIPA_yi_u0079u0069u032F,yi̯,from rounded close front to non-syllabic unrounded close front diphthong,yi̯
+BIPA_ia_u0268u0324u0250,ɨ̤ɐ,from breathy unrounded close central to unrounded near-open central diphthong,ɨ̤ɐ
+BIPA_aw_u0061u0330u026Fu0330,a̰ɯ̰,from creaky unrounded open front to creaky unrounded close back diphthong,a̰ɯ̰
+UNK_ew_u025Bu0270,ɛɰ,,
+BIPA_io_u0069u006F,io,from unrounded close front to rounded close-mid back diphthong,io
+BIPA_mj_u006Du02B2,mʲ,palatalized voiced bilabial nasal consonant,mʲ
+BIPA_ng_u207Fu0261,ⁿɡ,pre-nasalized voiced velar stop consonant,ⁿg
+BIPA_kwh_u006Bu02B7u02B0,kʷʰ,labialized aspirated voiceless velar stop consonant,kʷʰ
+BIPA_khj_u03C7u02B2,χʲ,palatalized voiceless uvular fricative consonant,χʲ
+UNK_wo_u0077u0254u0303,wɔ̃,,
+BIPA_o_u00F8u0303u02D0,ø̃ː,long nasalized rounded close-mid front vowel,ø̃ː
+BIPA_s_u0283u033A,ʃ̺,voiceless apical post-alveolar sibilant fricative consonant,ʃ̺
+BIPA_ts_u0074u033Au0073u033Au02D0,t̺s̺ː,from voiceless apical alveolar stop to long voiceless apical alveolar sibilant fricative cluster,t̺s̺ː
+BIPA_dh_u0064u033Bu0324u02B1,d̻̤ʱ,breathy voiced laminal alveolar stop consonant,d̻ʱ
+BIPA_gj_u0261u02B2,ɡʲ,palatalized voiced velar stop consonant,gʲ
+BIPA_oo_u006Fu0254,oɔ,from rounded close-mid back to rounded open-mid back diphthong,oɔ
+BIPA_oi_u00F8u026A,øɪ,from rounded close-mid front to unrounded near-close near-front diphthong,øɪ
+BIPA_nqwh_u207Fu0071u02B7u02B0,ⁿqʷʰ,pre-nasalized labialized aspirated voiceless uvular stop consonant,ⁿqʷʰ
+BIPA_gh_u0067u0324u02B1,g̤ʱ,breathy voiced velar stop consonant,gʱ
+BIPA_e_u0258u0306,ɘ̆,ultra-short unrounded close-mid central vowel,ɘ̆
+BIPA_l_u006Cu033A,l̺,voiced apical alveolar lateral approximant consonant,l̺
+BIPA_ur_u0075u02DE,u˞,rhotacized rounded close back vowel,u˞
+BIPA__u0259u0324,ə̤,breathy unrounded mid central vowel,ə̤
+BIPA_nt_u207Fu0074,ⁿt,pre-nasalized voiceless alveolar stop consonant,ⁿt
+BIPA__u028C,ʌ,unrounded open-mid back vowel,ʌ
+BIPA_bj_u0062u02B2u02D0,bʲː,palatalized long voiced bilabial stop consonant,bʲː
+BIPA_r_u0072u0325,r̥,devoiced voiced alveolar trill consonant,r̥
+BIPA_aei_u00E6u0303u026Au032Fu0303,æ̃ɪ̯̃,from nasalized unrounded near-open front to non-syllabic nasalized unrounded near-close near-front diphthong,æ̃ɪ̯̃
+BIPA_u_u028Au033D,ʊ̽,mid-centralized rounded near-close near-back vowel,ʊ̽
+BIPA_yoe_u1EF9u0153,ỹœ,from nasalized rounded close front to rounded open-mid front diphthong,ỹœ
+BIPA_i_u026Au032F,ɪ̯,non-syllabic unrounded near-close near-front vowel,ɪ̯
+BIPA_z_u0291,ʑ,voiced alveolo-palatal sibilant fricative consonant,ʑ
+BIPA_ie_u0069u02D0u025B,iːɛ,from long unrounded close front to unrounded open-mid front diphthong,iːɛ
+UNK_joi_u006Au006Fu0069,joi,,
+BIPA_zj_u007Au02B2,zʲ,palatalized voiced alveolar sibilant fricative consonant,zʲ
+BIPA_ua_u1E73u0250,ṳɐ,from breathy rounded close back to unrounded near-open central diphthong,ṳɐ
+BIPA_tshw_u0074u0073u02B0u02B7,tsʰʷ,labialized aspirated voiceless alveolar sibilant affricate consonant,tsʷʰ
+UNK_uj_u0264u006A,ɤj,,
+BIPA_u_u0169u032F,ũ̯,non-syllabic nasalized rounded close back vowel,ũ̯
+BIPA_au_u0061u028Au0303,aʊ̃,from unrounded open front to nasalized rounded near-close near-back diphthong,aʊ̃
+BIPA_r_u0279u033A,ɹ̺,voiced apical alveolar approximant consonant,ɹ̺
+BIPA_dh_u0064u032Au02B1,d̪ʱ,breathy voiced dental stop consonant,d̪ʱ
+BIPA_t_u0074u033A,t̺,voiceless apical alveolar stop consonant,t̺
+BIPA_wm_u02B7u006D,ʷm,pre-labialized voiced bilabial nasal consonant,ʷm
+BIPA_qkhh_u0071u03C7u02D0u02B0,qχːʰ,aspirated long voiceless uvular affricate consonant,qχʰː
+BIPA_eo_u025Bu006F,ɛo,from unrounded open-mid front to rounded close-mid back diphthong,ɛo
+BIPA_nj_u006Eu02B2,nʲ,palatalized voiced alveolar nasal consonant,nʲ
+BIPA_ui_u0075u0069u032F,ui̯,from rounded close back to non-syllabic unrounded close front diphthong,ui̯
+BIPA_w_u028D,ʍ,voiceless labio-velar approximant consonant,ʍ
+BIPA_ui_u0169u0129,ũĩ,from nasalized rounded close back to nasalized unrounded close front diphthong,ũĩ
+BIPA_dz_u0064u0292u033B,dʒ̻,voiced laminal post-alveolar sibilant affricate consonant,dʒ̻
+BIPA_ia_u0268u0250,ɨɐ,from unrounded close central to unrounded near-open central diphthong,ɨɐ
+BIPA_a_u0251u031Fu02D0,ɑ̟ː,long advanced unrounded open back vowel,ɑː̟
+BIPA_e_u0258u0320,ɘ̠,retracted unrounded close-mid central vowel,ɘ̠
+BIPA_u_u028A,ʊ,rounded near-close near-back vowel,ʊ
+BIPA_ii_u0268u0069u032F,ɨi̯,from unrounded close central to non-syllabic unrounded close front diphthong,ɨi̯
+BIPA_htc_u02B0u0074u0255,ʰtɕ,from pre-aspirated voiceless alveolar stop to voiceless alveolo-palatal sibilant fricative cluster,ʰtɕ
+BIPA__u0259u02E4,əˤ,pharyngealized unrounded mid central vowel,əˤ
+BIPA_dj_u0064u029D,dʝ,from voiced alveolar stop to voiced palatal fricative cluster,dʝ
+BIPA_h_u0266,ɦ,voiced glottal fricative consonant,ɦ
+UNK_ju_u006Au0075u02D0,juː,,
+BIPA_dh_u0256u02B1,ɖʱ,breathy voiced retroflex stop consonant,ɖʱ
+BIPA_tl_u0074u026Cu02D0,tɬː,long voiceless alveolar lateral affricate consonant,tɬː
+BIPA_ng_u006Eu02E0,nˠ,velarized voiced alveolar nasal consonant,nˠ
+BIPA_i_u0268u031Eu0330,ɨ̞̰,lowered creaky unrounded close central vowel,ɨ̞̰
+BIPA_e_u1EBDu02D0,ẽː,long nasalized unrounded close-mid front vowel,ẽː
+BIPA_dzh_u0064u007Au02B0,dzʰ,aspirated voiced alveolar sibilant affricate consonant,dzʰ
+BIPA_hwt_u02B0u02B7u0288,ʰʷʈ,pre-labialized voiceless retroflex stop consonant,ʷʈ
+BIPA_ts_u0074u033Au0283u033A,t̺ʃ̺,from voiceless apical alveolar stop to voiceless apical post-alveolar sibilant fricative cluster,t̺ʃ̺
+UNK_t_u0020u0074, t,,
+BIPA_u_u0259u0169,əũ,from unrounded mid central to nasalized rounded close back diphthong,əũ
+BIPA_ae_u0251u0065,ɑe,from unrounded open back to unrounded close-mid front diphthong,ɑe
+BIPA_nsh_u207Fu0073u02B0,ⁿsʰ,pre-nasalized aspirated voiceless alveolar sibilant fricative consonant,ⁿsʰ
+BIPA_au_u0061u02D0u0075u032F,aːu̯,from long unrounded open front to non-syllabic rounded close back diphthong,aːu̯
+BIPA_o_u00F8u0324,ø̤,breathy rounded close-mid front vowel,ø̤
+BIPA_sg_u0073u02E0,sˠ,velarized voiceless alveolar sibilant fricative consonant,sˠ
+BIPA_o_u0275u0306,ɵ̆,ultra-short rounded close-mid central vowel,ɵ̆
+BIPA_hpj_u02B0u0070u02B2,ʰpʲ,pre-aspirated palatalized voiceless bilabial stop consonant,ʰpʲ
+BIPA_yi_u0079u0129,yĩ,from rounded close front to nasalized unrounded close front diphthong,yĩ
+BIPA_nq_u207Fu0071,ⁿq,pre-nasalized voiceless uvular stop consonant,ⁿq
+UNK_jei_u006Au025Bu0069,jɛi,,
+BIPA_khwj_u03C7u02B7u02B2,χʷʲ,palatalized labialized voiceless uvular fricative consonant,χʲʷ
+BIPA_q_u0071u02D0,qː,long voiceless uvular stop consonant,qː
+BIPA_hws_u02B0u02B7u0073,ʰʷs,pre-labialized voiceless alveolar sibilant fricative consonant,ʷs
+BIPA_n_u0272u031F,ɲ̟,advanced voiced palatal nasal consonant,ɲ̟
+UNK_je_u006Au025B,jɛ,,
+BIPA_oee_u0153u0303u025Bu0303,œ̃ɛ̃,from nasalized rounded open-mid front to nasalized unrounded open-mid front diphthong,œ̃ɛ̃
+BIPA_u_u1E75u02D0,ṵː,long creaky rounded close back vowel,ṵː
+BIPA_e_u025Bu0324u02D0,ɛ̤ː,long breathy unrounded open-mid front vowel,ɛ̤ː
+BIPA_hwts_u02B0u02B7u0074u0073,ʰʷts,pre-labialized voiceless alveolar sibilant affricate consonant,ʷts
+UNK_ndr_u207Fu0256u027D,ⁿɖɽ,,
+BIPA_qwj_u0071u02BCu02B7u02B2,qʼʷʲ,palatalized labialized voiceless uvular ejective stop consonant,q’ʲʷ
+UNK_aw_u00E3u0077u0303,ãw̃,,
+BIPA_y_u0079u031E,y̞,lowered rounded close front vowel,y̞
+BIPA_lh_u006Cu032Au02B1,l̪ʱ,breathy voiced dental lateral approximant consonant,l̪ʱ
+BIPA_o_u0254u0330,ɔ̰,creaky rounded open-mid back vowel,ɔ̰
+BIPA_ea_u025Bu0061,ɛa,from unrounded open-mid front to unrounded open front diphthong,ɛa
+BIPA_tsw_u0074u033Au0283u033Au02B7,t̺ʃ̺ʷ,from voiceless apical alveolar stop to labialized voiceless apical post-alveolar sibilant fricative cluster,t̺ʃ̺ʷ
+BIPA_oy_u00F8u0079,øy,from rounded close-mid front to rounded close front diphthong,øy
+BIPA_zh_u007Au02B0,zʰ,aspirated voiced alveolar sibilant fricative consonant,zʰ
+BIPA_ei_u025Bu0303u02D0u0069u032F,ɛ̃ːi̯,from long nasalized unrounded open-mid front to non-syllabic unrounded close front diphthong,ɛ̃ːi̯
+BIPA_e_u025Eu031Cu0303u02D0,ɞ̜̃ː,long less-rounded nasalized rounded open-mid central vowel,ɞ̜̃ː
+BIPA_i_u026Au0303u0259u0303,ɪ̃ə̃,from nasalized unrounded near-close near-front to nasalized unrounded mid central diphthong,ɪ̃ə̃
+BIPA_dz_u0064u0290,dʐ,voiced retroflex sibilant affricate consonant,ɖʐ
+BIPA_e_u025B,ɛ,unrounded open-mid front vowel,ɛ
+BIPA_t_u0074u2019,t’,voiceless alveolar ejective stop consonant,tʼ
+BIPA_s_u0283u02BC,ʃʼ,voiceless post-alveolar ejective sibilant fricative consonant,ʃʼ
+BIPA_jj_u025Fu0325u029Du0325,ɟ̥ʝ̥,from devoiced voiced palatal stop to devoiced voiced palatal fricative cluster,ɟ̥ʝ̥
+BIPA_ei_u0065u02D0u0069,eːi,from long unrounded close-mid front to unrounded close front diphthong,eːi
+BIPA_ts_u0074u0283u02E4,tʃˤ,pharyngealized voiceless post-alveolar sibilant affricate consonant,tʃˤ
+BIPA_pg_u0070u02E0,pˠ,velarized voiceless bilabial stop consonant,pˠ
+UNK_uw_u0075u0077,uw,,
+BIPA_e_u025Bu0320,ɛ̠,retracted unrounded open-mid front vowel,ɛ̠
+BIPA_dz_u0064u033Bu0292u033B,d̻ʒ̻,from voiced laminal alveolar stop to voiced laminal post-alveolar sibilant fricative cluster,d̻ʒ̻
+BIPA_tsh_u0074u0282u02B0,tʂʰ,aspirated voiceless retroflex sibilant affricate consonant,ʈʂʰ
+BIPA_ie_u0069u032Fu1EBD,i̯ẽ,from non-syllabic unrounded close front to nasalized unrounded close-mid front diphthong,i̯ẽ
+BIPA_tsj_u0074u032Au0073u032Au02BCu02B2,t̪s̪ʼʲ,palatalized voiceless dental ejective sibilant affricate consonant,ts̪’ʲ
+BIPA_u_u028Cu0075,ʌu,from unrounded open-mid back to rounded close back diphthong,ʌu
+BIPA_oy_u0254u0079u032Fu02D0,ɔy̯ː,from rounded open-mid back to long non-syllabic rounded close front diphthong,ɔy̯ː
+UNK_b_u02BCu0062,ʼb,,
+BIPA_e_u025Bu0324,ɛ̤,breathy unrounded open-mid front vowel,ɛ̤
+BIPA_ts_u0074u0283u033A,tʃ̺,voiceless apical post-alveolar sibilant affricate consonant,tʃ̺
+BIPA_rj_u0281u02B2,ʁʲ,palatalized voiced uvular fricative consonant,ʁʲ
+BIPA_hwtc_u02B0u02B7u0074u0255,ʰʷtɕ,pre-labialized voiceless alveolo-palatal sibilant affricate consonant,ʷtɕ
+BIPA_f_u0066u2019,f’,voiceless labio-dental ejective fricative consonant,fʼ
+BIPA_s_u0283u031Eu02BC,ʃ̞ʼ,lowered voiceless post-alveolar ejective sibilant fricative consonant,ʃ̞’
+BIPA_u_u0075u02D0u02D0,uːː,ultra-long rounded close back vowel,uːː
+BIPA_ia_u026Au032Fu0061,ɪ̯a,from non-syllabic unrounded near-close near-front to unrounded open front diphthong,ɪ̯a
+BIPA_a_u0061u02D0u0303,aː̃,long nasalized unrounded open front vowel,ãː
+BIPA_a_u00E3u02D0,ãː,long nasalized unrounded open front vowel,ãː
+BIPA_io_u026Au032Fu0254,ɪ̯ɔ,from non-syllabic unrounded near-close near-front to rounded open-mid back diphthong,ɪ̯ɔ
+BIPA_l_u006Cu0325u02D0,l̥ː,long devoiced voiced alveolar lateral approximant consonant,l̥ː
+BIPA_a_u0250,ɐ,unrounded near-open central vowel,ɐ
+BIPA_r_u027F,ɿ,unrounded close with-frication back vowel,ɿ
+BIPA_nth_u207Fu0288u02B0,ⁿʈʰ,pre-nasalized aspirated voiceless retroflex stop consonant,ⁿʈʰ
+BIPA_ie_u0069u032Fu0065u031E,i̯e̞,from non-syllabic unrounded close front to unrounded mid front diphthong,i̯e̞
+BIPA_ntsh_u207Fu0074u0073u02B0,ⁿtsʰ,from pre-nasalized voiceless alveolar stop to aspirated voiceless alveolar sibilant fricative cluster,ⁿtsʰ
+BIPA_o_u00F5u02D0,õː,long nasalized rounded close-mid back vowel,õː
+BIPA_ndz_u207Fu0064u032Au007Au032A,ⁿd̪z̪,from pre-nasalized voiced dental stop to voiced dental sibilant fricative cluster,ⁿd̪z̪
+BIPA_t_u0074u032Au02D0,t̪ː,long voiceless dental stop consonant,t̪ː
+UNK_dg_u00F0u0347u02E0,ð͇ˠ,,
+BIPA_lj_u006Cu032Au02B2,l̪ʲ,palatalized voiced dental lateral approximant consonant,l̪ʲ
+UNK_hb_u02B1u0062,ʱb,,
+BIPA_tlh_u0074u026Cu02B0,tɬʰ,aspirated voiceless alveolar lateral affricate consonant,tɬʰ
+BIPA_u_u0264u02D0u02D0,ɤːː,long unrounded close-mid back vowel,ɤː
+BIPA_uo_u028Au032Fu0254,ʊ̯ɔ,from non-syllabic rounded near-close near-back to rounded open-mid back diphthong,ʊ̯ɔ
+UNK_ej_u025Cu006A,ɜj,,
+UNK_jau_u006Au0061u0075u032F,jau̯,,
+BIPA_ui_u0264u0069,ɤi,from unrounded close-mid back to unrounded close front diphthong,ɤi
+BIPA_r_u027B,ɻ,voiced retroflex approximant consonant,ɻ
+BIPA_o_u00F8u02D0,øː,long rounded close-mid front vowel,øː
+BIPA_d_u0064u0325u02D0,d̥ː,long devoiced voiced alveolar stop consonant,d̥ː
+BIPA_l_u026Cu2019,ɬ’,voiceless alveolar ejective lateral fricative consonant,ɬʼ
+BIPA_tshw_u0074u032Au0073u032Au02B0u02B7,t̪s̪ʰʷ,labialized aspirated voiceless dental affricate consonant,tθʷʰ
+BIPA_tj_u0074u02B2,tʲ,palatalized voiceless alveolar stop consonant,tʲ
+BIPA_ia_u0069u0324u0061,i̤a,from breathy unrounded close front to unrounded open front diphthong,i̤a
+BIPA_ae_u00E6u02D0,æː,long unrounded near-open front vowel,æː
+BIPA_tswh_u0074u0283u02B7u02B0,tʃʷʰ,labialized aspirated voiceless post-alveolar sibilant affricate consonant,tʃʷʰ
+BIPA_ur_u0075u02DEu02E4,u˞ˤ,rhotacized pharyngealized rounded close back vowel,u˞ˤ
+BIPA_dzh_u0064u0292u02B0,dʒʰ,aspirated voiced post-alveolar sibilant affricate consonant,dʒʰ
+BIPA_r_u0072,r,voiced alveolar trill consonant,r
+BIPA_u_u1E75,ṵ,creaky rounded close back vowel,ṵ
+BIPA_nh_u006Eu02B0,nʰ,aspirated voiced alveolar nasal consonant,nʰ
+UNK_s_u015Du02BC,ŝʼ,,
+BIPA_a_u0250u02D0,ɐː,long unrounded near-open central vowel,ɐː
+BIPA_nd_u207Fu0256,ⁿɖ,pre-nasalized voiced retroflex stop consonant,ⁿɖ
+UNK_we_u0077u025B,wɛ,,
+BIPA_wi_u026Fu0069u032F,ɯi̯,from unrounded close back to non-syllabic unrounded close front diphthong,ɯi̯
+BIPA_thj_u0074u032Au02B0u02B2,t̪ʰʲ,palatalized aspirated voiceless dental stop consonant,t̪ʰʲ
+BIPA_tjh_u0074u02B2u02B0,tʲʰ,palatalized aspirated voiceless alveolar stop consonant,tʲʰ
+BIPA_lj_u006Cu0320u02B2,l̠ʲ,palatalized voiced post-alveolar lateral approximant consonant,l̠ʲ
+BIPA_aeu_u00E6u02D0u028A,æːʊ,from long unrounded near-open front to rounded near-close near-back diphthong,æːʊ
+BIPA_oi_u006Fu031Eu0069u032F,o̞i̯,from rounded mid back to non-syllabic unrounded close front diphthong,o̞i̯
+BIPA_tlh_u0074u026Cu02D0u02B0,tɬːʰ,aspirated long voiceless alveolar lateral affricate consonant,tɬʰː
+UNK_m_u02BCu006D,ʼm,,
+BIPA_nph_u207Fu0070u02B0,ⁿpʰ,pre-nasalized aspirated voiceless bilabial stop consonant,ⁿpʰ
+BIPA_j_u025F,ɟ,voiced palatal stop consonant,ɟ
+BIPA_x_u0078,x,voiceless velar fricative consonant,x
+UNK_uai_u0075u0251u0069,uɑi,,

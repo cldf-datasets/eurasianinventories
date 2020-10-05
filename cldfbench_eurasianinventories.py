@@ -20,9 +20,12 @@ def compute_id(text):
     """
     Returns a codepoint representation to an Unicode string.
     """
+
     unicode_repr = "".join(["u{0:0{1}X}".format(ord(char), 4) for char in text])
 
-    return "%s_%s" % (unidecode(text), unicode_repr)
+    label = slug(unidecode(text))
+
+    return "%s_%s" % (label, unicode_repr)
 
 
 def normalize_grapheme(text):
@@ -142,6 +145,7 @@ class Dataset(BaseDataset):
 
         # Iterate over raw data
         values = []
+        parameters = []
         inventories = []
         counter = 1
         segment_set = set()
@@ -163,7 +167,6 @@ class Dataset(BaseDataset):
             )
 
             # Add consonants and vowels to values, also collecting parameters
-            parameters = []
             for segment in cons + vows:
                 marginal = bool(segment[0] == "(")
 
@@ -195,12 +198,9 @@ class Dataset(BaseDataset):
                 )
                 counter += 1
 
-                # collect segment
-                segment_set.add(segment)
-
         # Build segment data
         segments = [
-            {"ID": id, "Name": normalized, "Description": desc, "BIPA": bipa_grapheme}
+            {"ID": id, "Name": normalized, "BIPA": bipa_grapheme, "Description": desc}
             for id, normalized, bipa_grapheme, desc in set(parameters)
         ]
 

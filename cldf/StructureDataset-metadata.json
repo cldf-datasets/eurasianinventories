@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/eurasianinventories",
-            "dc:created": "0df94a1"
+            "dc:created": "0ccaf78"
         },
         {
             "rdf:type": "prov:Entity",
@@ -140,7 +140,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 51,
+            "dc:extent": 1548,
             "tableSchema": {
                 "columns": [
                     {
