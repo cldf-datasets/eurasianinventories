@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/eurasianinventories",
-            "dc:created": "0ccaf78"
+            "dc:created": "65d1e61"
         },
         {
             "rdf:type": "prov:Entity",
@@ -100,8 +100,8 @@
                         "name": "Marginal"
                     },
                     {
-                        "separator": " ",
-                        "name": "Allophones"
+                        "datatype": "string",
+                        "name": "Catalog"
                     },
                     {
                         "datatype": "string",

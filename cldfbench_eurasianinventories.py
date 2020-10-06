@@ -80,7 +80,7 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_columns(
             "ValueTable",
             {"name": "Marginal", "datatype": "boolean"},
-            {"name": "Allophones", "separator": " "},
+            "Catalog",
             "Contribution_ID",
         )
 
@@ -193,7 +193,9 @@ class Dataset(BaseDataset):
                         "Marginal": marginal,
                         "Parameter_ID": par_id,
                         "Value": segment,
+                        "Contribution_ID" : slug(lang_key),
                         "Source": [],  # TODO: add Nikolaev as source
+                        "Catalog" : "depi",
                     }
                 )
                 counter += 1
