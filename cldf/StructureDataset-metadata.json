@@ -8,6 +8,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:identifier": "http://eurasianphonology.info/",
     "dc:license": "http://www.opensource.org/licenses/MIT",
+    "dc:source": "sources.bib",
     "dc:title": "CLDF dataset from Nikolaev's \"The database of Eurasian phonological inventories\" of 2020",
     "dcat:accessURL": "https://github.com/cldf-datasets/eurasianinventories",
     "prov:wasDerivedFrom": [
@@ -15,7 +16,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/cldf-datasets/eurasianinventories",
-            "dc:created": "afe422b"
+            "dc:created": "9cc35ea"
         },
         {
             "rdf:type": "prov:Entity",

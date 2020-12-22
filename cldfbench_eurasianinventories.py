@@ -17,6 +17,7 @@ from cldfcatalog.config import Config
 
 from tqdm import tqdm as progressbar
 from collections import defaultdict
+from pycldf import Sources
 
 
 
@@ -32,10 +33,6 @@ def compute_id(text):
     return "%s_%s" % (label, unicode_repr)
 
 
-def normalize_grapheme(text):
-    """
-    Apply simple, non-CLTS, normalization.
-    """
 
 def normalize_grapheme(text):
     """
@@ -119,7 +116,8 @@ class Dataset(BaseDataset):
         segment_set = set()
         with open(self.raw_dir.joinpath('sources.txt').as_posix()) as f:
             sources = [source.strip() for source in f.readlines()][1:]
-        args.writer.cldf.add_sources()
+        sources_ = Sources.from_file(self.raw_dir / "sources.bib")
+        args.writer.cldf.add_sources(*sources_)
         for idx, (language, langdata) in enumerate(raw_data.items()):
             cons = langdata["cons"]
             vows = langdata["vows"]
@@ -131,9 +129,6 @@ class Dataset(BaseDataset):
             # Add consonants and vowels to values, also collecting parameters
             for segment in cons + vows:
                 marginal = bool(segment[0] == "(")
-
-
-
 
                 # Obtain the corresponding BIPA grapheme, is possible
                 normalized = normalize_grapheme(segment)

@@ -195,7 +195,7 @@ baker2016a
 jacques2016a
 forker2013a
 arden2010a
-suzuki2011a
+suzuki2011b
 dowla2010a
 suzuki2009a
 bhaskararao2016a
@@ -342,7 +342,7 @@ unknown1964a
 salminen2007a
 maslova1999a
 maslova2003a
-helimski1998a
+helimski1998b
 salminen1998a
 ghini2001a
 nichols2011a
